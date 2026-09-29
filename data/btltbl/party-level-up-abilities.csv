@@ -1,0 +1,199 @@
+Character,Level,File,Offset,Value (HEX),Value (DEC),Reward
+Donald,2,btltbl.bin,3F1F,00,0,-
+Donald,3,btltbl.bin,3F20,00,0,-
+Donald,4,btltbl.bin,3F21,00,0,-
+Donald,5,btltbl.bin,3F22,00,0,-
+Donald,6,btltbl.bin,3F23,00,0,-
+Donald,7,btltbl.bin,3F24,00,0,-
+Donald,8,btltbl.bin,3F25,00,0,-
+Donald,9,btltbl.bin,3F26,00,0,-
+Donald,10,btltbl.bin,3F27,9A,26,Berserk
+Donald,11,btltbl.bin,3F28,00,0,-
+Donald,12,btltbl.bin,3F29,00,0,-
+Donald,13,btltbl.bin,3F2A,00,0,-
+Donald,14,btltbl.bin,3F2B,00,0,-
+Donald,15,btltbl.bin,3F2C,97,23,MP Haste
+Donald,16,btltbl.bin,3F2D,00,0,-
+Donald,17,btltbl.bin,3F2E,00,0,-
+Donald,18,btltbl.bin,3F2F,00,0,-
+Donald,19,btltbl.bin,3F30,00,0,-
+Donald,20,btltbl.bin,3F31,98,24,MP Rage
+Donald,21,btltbl.bin,3F32,00,0,-
+Donald,22,btltbl.bin,3F33,00,0,-
+Donald,23,btltbl.bin,3F34,00,0,-
+Donald,24,btltbl.bin,3F35,00,0,-
+Donald,25,btltbl.bin,3F36,85,5,Treasure Magnet
+Donald,26,btltbl.bin,3F37,00,0,-
+Donald,27,btltbl.bin,3F38,00,0,-
+Donald,28,btltbl.bin,3F39,00,0,-
+Donald,29,btltbl.bin,3F3A,00,0,-
+Donald,30,btltbl.bin,3F3B,89,9,Second Wind
+Donald,31,btltbl.bin,3F3C,00,0,-
+Donald,32,btltbl.bin,3F3D,00,0,-
+Donald,33,btltbl.bin,3F3E,00,0,-
+Donald,34,btltbl.bin,3F3F,00,0,-
+Donald,35,btltbl.bin,3F40,BE,62,Leaf Bracer
+Donald,36,btltbl.bin,3F41,00,0,-
+Donald,37,btltbl.bin,3F42,00,0,-
+Donald,38,btltbl.bin,3F43,00,0,-
+Donald,39,btltbl.bin,3F44,00,0,-
+Donald,40,btltbl.bin,3F45,85,5,Treasure Magnet
+Donald,41,btltbl.bin,3F46,00,0,-
+Donald,42,btltbl.bin,3F47,00,0,-
+Donald,43,btltbl.bin,3F48,00,0,-
+Donald,44,btltbl.bin,3F49,00,0,-
+Donald,45,btltbl.bin,3F4A,9C,28,Lucky Strike
+Donald,46,btltbl.bin,3F4B,00,0,-
+Donald,47,btltbl.bin,3F4C,00,0,-
+Donald,48,btltbl.bin,3F4D,00,0,-
+Donald,49,btltbl.bin,3F4E,00,0,-
+Donald,50,btltbl.bin,3F4F,98,24,MP Rage
+Donald,51,btltbl.bin,3F50,00,0,-
+Donald,52,btltbl.bin,3F51,00,0,-
+Donald,53,btltbl.bin,3F52,00,0,-
+Donald,54,btltbl.bin,3F53,00,0,-
+Donald,55,btltbl.bin,3F54,9B,27,Jackpot
+Donald,56,btltbl.bin,3F55,00,0,-
+Donald,57,btltbl.bin,3F56,00,0,-
+Donald,58,btltbl.bin,3F57,00,0,-
+Donald,59,btltbl.bin,3F58,00,0,-
+Donald,60,btltbl.bin,3F59,99,25,Second Chance
+Donald,61,btltbl.bin,3F5A,00,0,-
+Donald,62,btltbl.bin,3F5B,00,0,-
+Donald,63,btltbl.bin,3F5C,00,0,-
+Donald,64,btltbl.bin,3F5D,00,0,-
+Donald,65,btltbl.bin,3F5E,00,0,-
+Donald,66,btltbl.bin,3F5F,00,0,-
+Donald,67,btltbl.bin,3F60,00,0,-
+Donald,68,btltbl.bin,3F61,00,0,-
+Donald,69,btltbl.bin,3F62,00,0,-
+Donald,70,btltbl.bin,3F63,00,0,-
+Donald,71,btltbl.bin,3F64,00,0,-
+Donald,72,btltbl.bin,3F65,00,0,-
+Donald,73,btltbl.bin,3F66,00,0,-
+Donald,74,btltbl.bin,3F67,00,0,-
+Donald,75,btltbl.bin,3F68,00,0,-
+Donald,76,btltbl.bin,3F69,00,0,-
+Donald,77,btltbl.bin,3F6A,00,0,-
+Donald,78,btltbl.bin,3F6B,00,0,-
+Donald,79,btltbl.bin,3F6C,00,0,-
+Donald,80,btltbl.bin,3F6D,00,0,-
+Donald,81,btltbl.bin,3F6E,00,0,-
+Donald,82,btltbl.bin,3F6F,00,0,-
+Donald,83,btltbl.bin,3F70,00,0,-
+Donald,84,btltbl.bin,3F71,00,0,-
+Donald,85,btltbl.bin,3F72,00,0,-
+Donald,86,btltbl.bin,3F73,00,0,-
+Donald,87,btltbl.bin,3F74,00,0,-
+Donald,88,btltbl.bin,3F75,00,0,-
+Donald,89,btltbl.bin,3F76,00,0,-
+Donald,90,btltbl.bin,3F77,00,0,-
+Donald,91,btltbl.bin,3F78,00,0,-
+Donald,92,btltbl.bin,3F79,00,0,-
+Donald,93,btltbl.bin,3F7A,00,0,-
+Donald,94,btltbl.bin,3F7B,00,0,-
+Donald,95,btltbl.bin,3F7C,00,0,-
+Donald,96,btltbl.bin,3F7D,00,0,-
+Donald,97,btltbl.bin,3F7E,00,0,-
+Donald,98,btltbl.bin,3F7F,00,0,-
+Donald,99,btltbl.bin,3F80,00,0,-
+Donald,100,btltbl.bin,3F81,00,0,-
+Goofy,2,btltbl.bin,40BB,00,0,-
+Goofy,3,btltbl.bin,40BC,00,0,-
+Goofy,4,btltbl.bin,40BD,00,0,-
+Goofy,5,btltbl.bin,40BE,00,0,-
+Goofy,6,btltbl.bin,40BF,9E,30,Rocket
+Goofy,7,btltbl.bin,40C0,00,0,-
+Goofy,8,btltbl.bin,40C1,00,0,-
+Goofy,9,btltbl.bin,40C2,9B,27,Jackpot
+Goofy,10,btltbl.bin,40C3,00,0,-
+Goofy,11,btltbl.bin,40C4,00,0,-
+Goofy,12,btltbl.bin,40C5,9D,29,Charge
+Goofy,13,btltbl.bin,40C6,00,0,-
+Goofy,14,btltbl.bin,40C7,00,0,-
+Goofy,15,btltbl.bin,40C8,85,5,Treasure Magnet
+Goofy,16,btltbl.bin,40C9,00,0,-
+Goofy,17,btltbl.bin,40CA,00,0,-
+Goofy,18,btltbl.bin,40CB,9F,31,Tornado
+Goofy,19,btltbl.bin,40CC,00,0,-
+Goofy,20,btltbl.bin,40CD,00,0,-
+Goofy,21,btltbl.bin,40CE,9C,28,Lucky Strike
+Goofy,22,btltbl.bin,40CF,00,0,-
+Goofy,23,btltbl.bin,40D0,00,0,-
+Goofy,24,btltbl.bin,40D1,07,7,Max Accessories Increase
+Goofy,25,btltbl.bin,40D2,00,0,-
+Goofy,26,btltbl.bin,40D3,00,0,-
+Goofy,27,btltbl.bin,40D4,BF,63,Evolution
+Goofy,28,btltbl.bin,40D5,00,0,-
+Goofy,29,btltbl.bin,40D6,00,0,-
+Goofy,30,btltbl.bin,40D7,89,9,Second Wind
+Goofy,31,btltbl.bin,40D8,00,0,-
+Goofy,32,btltbl.bin,40D9,00,0,-
+Goofy,33,btltbl.bin,40DA,99,25,Second Chance
+Goofy,34,btltbl.bin,40DB,00,0,-
+Goofy,35,btltbl.bin,40DC,00,0,-
+Goofy,36,btltbl.bin,40DD,98,24,MP Rage
+Goofy,37,btltbl.bin,40DE,00,0,-
+Goofy,38,btltbl.bin,40DF,00,0,-
+Goofy,39,btltbl.bin,40E0,A0,32,MP Gift
+Goofy,40,btltbl.bin,40E1,00,0,-
+Goofy,41,btltbl.bin,40E2,00,0,-
+Goofy,42,btltbl.bin,40E3,9A,26,Berserk
+Goofy,43,btltbl.bin,40E4,00,0,-
+Goofy,44,btltbl.bin,40E5,00,0,-
+Goofy,45,btltbl.bin,40E6,97,23,MP Haste
+Goofy,46,btltbl.bin,40E7,00,0,-
+Goofy,47,btltbl.bin,40E8,00,0,-
+Goofy,48,btltbl.bin,40E9,85,5,Treasure Magnet
+Goofy,49,btltbl.bin,40EA,00,0,-
+Goofy,50,btltbl.bin,40EB,00,0,-
+Goofy,51,btltbl.bin,40EC,07,7,Max Accessories Increase
+Goofy,52,btltbl.bin,40ED,00,0,-
+Goofy,53,btltbl.bin,40EE,00,0,-
+Goofy,54,btltbl.bin,40EF,98,24,MP Rage
+Goofy,55,btltbl.bin,40F0,00,0,-
+Goofy,56,btltbl.bin,40F1,00,0,-
+Goofy,57,btltbl.bin,40F2,00,0,-
+Goofy,58,btltbl.bin,40F3,00,0,-
+Goofy,59,btltbl.bin,40F4,00,0,-
+Goofy,60,btltbl.bin,40F5,00,0,-
+Goofy,61,btltbl.bin,40F6,00,0,-
+Goofy,62,btltbl.bin,40F7,00,0,-
+Goofy,63,btltbl.bin,40F8,00,0,-
+Goofy,64,btltbl.bin,40F9,00,0,-
+Goofy,65,btltbl.bin,40FA,00,0,-
+Goofy,66,btltbl.bin,40FB,00,0,-
+Goofy,67,btltbl.bin,40FC,00,0,-
+Goofy,68,btltbl.bin,40FD,00,0,-
+Goofy,69,btltbl.bin,40FE,00,0,-
+Goofy,70,btltbl.bin,40FF,00,0,-
+Goofy,71,btltbl.bin,4100,00,0,-
+Goofy,72,btltbl.bin,4101,00,0,-
+Goofy,73,btltbl.bin,4102,00,0,-
+Goofy,74,btltbl.bin,4103,00,0,-
+Goofy,75,btltbl.bin,4104,00,0,-
+Goofy,76,btltbl.bin,4105,00,0,-
+Goofy,77,btltbl.bin,4106,00,0,-
+Goofy,78,btltbl.bin,4107,00,0,-
+Goofy,79,btltbl.bin,4108,00,0,-
+Goofy,80,btltbl.bin,4109,00,0,-
+Goofy,81,btltbl.bin,410A,00,0,-
+Goofy,82,btltbl.bin,410B,00,0,-
+Goofy,83,btltbl.bin,410C,00,0,-
+Goofy,84,btltbl.bin,410D,00,0,-
+Goofy,85,btltbl.bin,410E,00,0,-
+Goofy,86,btltbl.bin,410F,00,0,-
+Goofy,87,btltbl.bin,4110,00,0,-
+Goofy,88,btltbl.bin,4111,00,0,-
+Goofy,89,btltbl.bin,4112,00,0,-
+Goofy,90,btltbl.bin,4113,00,0,-
+Goofy,91,btltbl.bin,4114,00,0,-
+Goofy,92,btltbl.bin,4115,00,0,-
+Goofy,93,btltbl.bin,4116,00,0,-
+Goofy,94,btltbl.bin,4117,00,0,-
+Goofy,95,btltbl.bin,4118,00,0,-
+Goofy,96,btltbl.bin,4119,00,0,-
+Goofy,97,btltbl.bin,411A,00,0,-
+Goofy,98,btltbl.bin,411B,00,0,-
+Goofy,99,btltbl.bin,411C,00,0,-
+Goofy,100,btltbl.bin,411D,00,0,-

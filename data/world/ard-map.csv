@@ -1,0 +1,225 @@
+World ID,World,ARD,Room
+0,Awakening,dh01.ard,Disembark
+0,Awakening,dh02.ard,[]
+0,Awakening,dh03.ard,[]
+0,Awakening,dh04.ard,???
+0,Awakening,dh05.ard,???
+0,Awakening,dh06.ard,???
+0,Awakening,dh07.ard,???
+1,Destiny Islands,di01.ard,Seashore
+1,Destiny Islands,di02.ard,Seaside Shack
+1,Destiny Islands,di03.ard,Cove
+1,Destiny Islands,di04.ard,???
+1,Destiny Islands,di05.ard,Seaside Shack
+1,Destiny Islands,di06.ard,Seashore (Day 3)
+1,Destiny Islands,di07.ard,Seashore (Day 3)
+1,Destiny Islands,di08.ard,Secret Place
+1,Destiny Islands,di09.ard,Seashore (Darkside Fight)
+1,Destiny Islands,di10.ard,Seashore (Day 3)
+1,Destiny Islands,di11.ard,Secret Place
+1,Destiny Islands,di12.ard,???
+2,Disney Castle,dc01.ard,???
+3,Traverse Town,tw01.ard,1st District
+3,Traverse Town,tw02.ard,2nd District
+3,Traverse Town,tw03.ard,3rd District
+3,Traverse Town,tw04.ard,Vacant House
+3,Traverse Town,tw05.ard,Alleyway
+3,Traverse Town,tw06.ard,Green Room
+3,Traverse Town,tw07.ard,Red Room
+3,Traverse Town,tw08.ard,Hallway
+3,Traverse Town,tw09.ard,Mystical House
+3,Traverse Town,tw10.ard,Item Shop
+3,Traverse Town,tw11.ard,Accessory Shop
+3,Traverse Town,tw12.ard,Item Workshop
+3,Traverse Town,tw13.ard,Geppetto's House
+3,Traverse Town,tw14.ard,Dalmatian's Den
+3,Traverse Town,tw15.ard,Dining Room
+3,Traverse Town,tw16.ard,Living Room
+3,Traverse Town,tw17.ard,Piano Room
+3,Traverse Town,tw18.ard,Gizmo Shop
+3,Traverse Town,tw19.ard,???
+3,Traverse Town,tw20.ard,Magician's Study
+3,Traverse Town,tw21.ard,Magician's Lab
+3,Traverse Town,tw22.ard,???
+3,Traverse Town,tw23.ard,Secret Waterway
+3,Traverse Town,tw24.ard,???
+3,Traverse Town,tw25.ard,3rd District
+3,Traverse Town,tw26.ard,Small House
+4,Wonderland,aw01.ard,Rabbit Hole
+4,Wonderland,aw02.ard,Bizarre Room (Small)
+4,Wonderland,aw03.ard,Bizarre Room (Big)
+4,Wonderland,aw04.ard,Queen's Castle
+4,Wonderland,aw05.ard,Lotus Forest
+4,Wonderland,aw06.ard,???
+4,Wonderland,aw07.ard,Bizarre Room (Sideways 1)
+4,Wonderland,aw08.ard,Bizarre Room (Sideways 2)
+4,Wonderland,aw09.ard,Bizarre Room (Upside Down)
+4,Wonderland,aw10.ard,Teaparty Garden
+5,Deep Jungle,tz01.ard,Treehouse
+5,Deep Jungle,tz02.ard,Camp
+5,Deep Jungle,tz03.ard,Bamboo Thicket
+5,Deep Jungle,tz04.ard,Jungle: Vines
+5,Deep Jungle,tz05.ard,Jungle: Vines 2
+5,Deep Jungle,tz06.ard,Hippo's Lagoon
+5,Deep Jungle,tz07.ard,Climbing Trees
+5,Deep Jungle,tz08.ard,Treetop
+5,Deep Jungle,tz09.ard,Jungle: Tunnel
+5,Deep Jungle,tz10.ard,Jungle: Tunnel
+5,Deep Jungle,tz11.ard,Cavern of Hearts
+5,Deep Jungle,tz12.ard,Jungle: Cliff
+5,Deep Jungle,tz13.ard,Camp
+5,Deep Jungle,tz14.ard,???
+5,Deep Jungle,tz15.ard,Camp: Tent
+5,Deep Jungle,tz16.ard,Green Serpent
+5,Deep Jungle,tz17.ard,Splash Tunnel
+5,Deep Jungle,tz18.ard,Jade Spiral
+5,Deep Jungle,tz19.ard,Panic Fall
+5,Deep Jungle,tz20.ard,Shadow Cavern
+6,100 Acre Wood,po01.ard,Pooh's House
+6,100 Acre Wood,po02.ard,Pooh's Room
+6,100 Acre Wood,po03.ard,Rabbit's House
+6,100 Acre Wood,po04.ard,Rabbit's Room
+6,100 Acre Wood,po05.ard,Hunny Tree
+6,100 Acre Wood,po06.ard,Wood: Hill
+6,100 Acre Wood,po07.ard,Wood: Meadow
+6,100 Acre Wood,po08.ard,Bouncing Spot
+6,100 Acre Wood,po09.ard,Muddy Path
+6,100 Acre Wood,po10.ard,Ending
+6,100 Acre Wood,po11.ard,100 Acre Wood
+6,100 Acre Wood,po12.ard,???
+8,Agrabah,al01.ard,Desert
+8,Agrabah,al02.ard,Desert: Cave
+8,Agrabah,al03.ard,Agrabah: Plaza
+8,Agrabah,al04.ard,Agrabah: Alley
+8,Agrabah,al05.ard,Agrabah: Bazaar
+8,Agrabah,al06.ard,Agrabah: Main Street
+8,Agrabah,al07.ard,Palace Gates
+8,Agrabah,al08.ard,Agrabah: Storage
+8,Agrabah,al09.ard,Cave: Entrance
+8,Agrabah,al10.ard,Cave: Hall
+8,Agrabah,al11.ard,Bottomless Hall
+8,Agrabah,al12.ard,Treasure Room
+8,Agrabah,al13.ard,Relic Chamber
+8,Agrabah,al14.ard,Dark Chamber
+8,Agrabah,al15.ard,Silent Chamber
+8,Agrabah,al16.ard,Hidden Room
+8,Agrabah,al17.ard,Lamp Chamber
+8,Agrabah,al18.ard,Cave: Core
+8,Agrabah,al19.ard,Aladdin's House
+8,Agrabah,al20.ard,???
+8,Agrabah,al21.ard,Cave: Escape
+9,Atlantica,lm01.ard,Atlantica (Undersea Valley)
+9,Atlantica,lm02.ard,Tranquil Grotto
+9,Atlantica,lm03.ard,Calm Depths
+9,Atlantica,lm04.ard,Undersea Gorge
+9,Atlantica,lm05.ard,Undersea Cave
+9,Atlantica,lm06.ard,Undersea Garden
+9,Atlantica,lm08.ard,Sunken Ship
+9,Atlantica,lm09.ard,???
+9,Atlantica,lm10.ard,Den of Tides
+9,Atlantica,lm11.ard,Cavern Nook
+9,Atlantica,lm12.ard,Tidal Abyss
+9,Atlantica,lm13.ard,Undersea Gorge
+9,Atlantica,lm14.ard,Ariel's Grotto
+9,Atlantica,lm15.ard,Triton's Palace
+9,Atlantica,lm16.ard,Triton's Throne (1)
+9,Atlantica,lm17.ard,Triton's Throne (2)
+10,Halloween Town,nm01.ard,Guillotine Square
+10,Halloween Town,nm02.ard,Lab Entryway
+10,Halloween Town,nm03.ard,Graveyard
+10,Halloween Town,nm04.ard,Moonlight Hill
+10,Halloween Town,nm05.ard,Bridge
+10,Halloween Town,nm06.ard,???
+10,Halloween Town,nm07.ard,Oogie's Manor
+10,Halloween Town,nm08.ard,Torture Chamber
+10,Halloween Town,nm09.ard,Manor Ruins
+10,Halloween Town,nm10.ard,Evil Playroom
+10,Halloween Town,nm11.ard,Research Lab
+10,Halloween Town,nm12.ard,Guillotine Gate
+10,Halloween Town,nm13.ard,Cemetary
+11,Olympus Coliseum,he01.ard,???
+11,Olympus Coliseum,he02.ard,Coliseum Lobby
+11,Olympus Coliseum,he03.ard,Coliseum (Preliminaries)
+11,Olympus Coliseum,he04.ard,Main Gates
+11,Olympus Coliseum,he05.ard,???
+11,Olympus Coliseum,he06.ard,Coliseum (Cups)
+11,Olympus Coliseum,he07.ard,Coliseum: Arena
+12,Monstro,pi01.ard,Monstro: Mouth
+12,Monstro,pi02.ard,Monstro: Mouth
+12,Monstro,pi03.ard,Monstro: Stomach
+12,Monstro,pi04.ard,Monstro: Throat
+12,Monstro,pi05.ard,Monstro: Bowels
+12,Monstro,pi06.ard,Monstro: Chamber 1
+12,Monstro,pi07.ard,Monstro: Chamber 2
+12,Monstro,pi08.ard,Monstro: Chamber 3
+12,Monstro,pi09.ard,Monstro: Chamber 4
+12,Monstro,pi10.ard,Monstro: Chamber 5
+12,Monstro,pi11.ard,Monstro: Chamber 6
+12,Monstro,pi32.ard,???
+12,Monstro,pi37.ard,???
+13,Neverland,pp01.ard,Ship: Hold
+13,Neverland,pp02.ard,Ship: Hold
+13,Neverland,pp03.ard,Ship: Hold
+13,Neverland,pp04.ard,Ship: Freezer
+13,Neverland,pp05.ard,Ship: Galley
+13,Neverland,pp06.ard,Ship: Cabin
+13,Neverland,pp07.ard,Pirate Ship
+13,Neverland,pp08.ard,Ship: Hold
+13,Neverland,pp09.ard,Pirate Ship
+13,Neverland,pp10.ard,Clock Tower
+13,Neverland,pp11.ard,Ship: Cabin
+13,Neverland,pp12.ard,Ship: Cabin
+15,Hollow Bastion,pc01.ard,Rising Falls
+15,Hollow Bastion,pc02.ard,Castle Gates
+15,Hollow Bastion,pc03.ard,Great Crest
+15,Hollow Bastion,pc04.ard,High Tower
+15,Hollow Bastion,pc05.ard,Entrance Hall
+15,Hollow Bastion,pc06.ard,Library
+15,Hollow Bastion,pc07.ard,Lift Stop
+15,Hollow Bastion,pc08.ard,Base Level
+15,Hollow Bastion,pc09.ard,Waterway
+15,Hollow Bastion,pc10.ard,Waterway
+15,Hollow Bastion,pc11.ard,Dungeon
+15,Hollow Bastion,pc12.ard,Castle Chapel
+15,Hollow Bastion,pc13.ard,Castle Chapel
+15,Hollow Bastion,pc14.ard,???
+15,Hollow Bastion,pc15.ard,Grand Hall
+15,Hollow Bastion,pc16.ard,Dark Depths
+15,Hollow Bastion,pc17.ard,Villians Meeting
+16,End of the World,ew01.ard,Gate to the Dark
+16,End of the World,ew02.ard,Final Dimension
+16,End of the World,ew03.ard,Final Dimension?
+16,End of the World,ew04.ard,Final Dimension?
+16,End of the World,ew05.ard,Final Dimension?
+16,End of the World,ew06.ard,Final Dimension?
+16,End of the World,ew07.ard,Final Dimension?
+16,End of the World,ew08.ard,Final Dimension?
+16,End of the World,ew09.ard,Final Dimension?
+16,End of the World,ew10.ard,Final Dimension?
+16,End of the World,ew11.ard,Final Dimension?
+16,End of the World,ew12.ard,Final Dimension?
+16,End of the World,ew13.ard,Final Dimension?
+16,End of the World,ew14.ard,Dark Sphere
+16,End of the World,ew15.ard,Giant Crevasse
+16,End of the World,ew16.ard,World Terminus
+16,End of the World,ew17.ard,World Terminus: Traverse Town
+16,End of the World,ew18.ard,World Terminus: Wonderland
+16,End of the World,ew19.ard,World Terminus: Olympus Coliseum
+16,End of the World,ew20.ard,World Terminus: Deep Jungle
+16,End of the World,ew21.ard,World Terminus: Agrabah
+16,End of the World,ew22.ard,World Terminus: Atlantica
+16,End of the World,ew23.ard,World Terminus: Halloween Town
+16,End of the World,ew24.ard,World Terminus: Neverland
+16,End of the World,ew25.ard,World Terminus: 100 Acre Wood?
+16,End of the World,ew26.ard,World Terminus: Hollow Bastion
+16,End of the World,ew27.ard,Volcanic Crater
+16,End of the World,ew28.ard,Volcanic Crater
+16,End of the World,ew29.ard,Linked Worlds
+16,End of the World,ew30.ard,Final Rest
+16,End of the World,ew31.ard,???
+16,End of the World,ew32.ard,Homecoming
+16,End of the World,ew33.ard,???
+16,End of the World,ew34.ard,The Void
+16,End of the World,ew35.ard,Crater
+16,End of the World,ew36.ard,???
+16,End of the World,ew37.ard,???

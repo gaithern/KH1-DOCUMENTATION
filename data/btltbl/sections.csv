@@ -1,0 +1,15 @@
+Start,End,Section,Contents,Steam pointer
+0000,0058,Damage table,"ATK - DEF -> damage lookup (u16 count, then values)",g_pBtltbl 0x2DE5DC0
+0058,0258,btltbl2,"Battle globals: knockback, push, blow-away speeds",g_pBtltbl2 0x2D22D30
+0258,0A58,Text handles,Offsets minted into resource handles at boot,
+0A58,1A58,btltbl6,Not mapped,0x2D36D50
+1A58,2E44,Item table,20-byte rows (see items.csv),pItemTbl 0x2D22D38
+2E58,33D8,btltbl9,Includes accessory stats from 32E6 (see accessory-stats.csv),0x2D36D40
+33D8,39D8,Ability table,"128 x 12-byte rows: AP u16, sort u16, name handle, help handle; row = ability id - 1",g_pAbilityTable 0x2D36D48
+39D8,4B78,"Stats, level-ups, EXP","See starting-stats.csv, *-level-up-*.csv, exp-chart.csv",
+4B78,7508,Attack records,"0x70 bytes each: Sora and party attacks (attack-records.csv) and spells (spell-mp-cost.csv, spell-effectiveness.csv)",
+7508,A9F0,Weapons and other data,Includes weapon stats from 94F8 (see weapon-stats.csv),
+A9F0,B0DC,Attack table,20-byte entries (see attack-table.csv),g_pAttackTable 0x2D5EC40
+BC48,BD28,Sora voice table,11-byte rows (see sora-voice-table.csv); per-character offsets at exe 0x528860,
+C6A8,C8A8,Reward / gift table,u16 gift words read by EV syscalls 583/605/695,g_pRewardTbl 0x2D36D58
+11640,14000,Unused buffer tail,File ends at 0x11640; the load buffer is 0x14000 bytes and nothing reads the tail,

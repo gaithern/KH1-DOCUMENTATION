@@ -1,0 +1,24 @@
+Field Offset,Type,Field,Meaning,Source
+00,i32,Damage formula,0 attacker STR; 1/3/4/5 = x1/x2/x3/x5; 2 none; 6 Sora STR,Code
+04,i32,Hit type (element),"1 physical, 2 Fire, 3 Blizzard, 4 Thunder, 8 %HP, 9 Stop, 0xA Stun, 0xB heal, 0xC no damage",Live
+08,i32,"Reaction level, airborne target","0 none, 2 push, 3 flinch, 4 knockdown, 5 blow-away, 6/7 record motion, 8 Gravity",Live
+0C,i32,"Reaction level, grounded target",Same scale; used when target (flags+0x374 & 0x60) == 0x40,Live
+10,i32,Hit mode,0x30 usual; negative = alternate mode,Code
+14,i32,"Power bonus, airborne target",Added to the damage formula result,Code
+18,i32,Crit chance,x 0.05 x attacker crit stat,Live
+1C,i32,Crit bonus damage,Added on a crit,Live
+20,i32,"Min damage, airborne target",x hit scale,Code
+24,i32,"Max damage, airborne target",x hit scale,Code
+34,i32,Flags,Copied to hit bits 4-5,Code
+38,i32,Flags,Bit 16 -> hit 0x100000; bits -> hit bits 17-20,Code
+3C,i32,Copied to hit +0x68,Meaning unknown,Code
+40,i32,Reaction motion (levels 6/7),Bit 22 = push,Code
+44,i32,Power for special victims,Entity types 4-5 / 9-10,Code
+48,i32,"Power bonus, grounded target",,Code
+4C,i32,"Min damage, grounded target",,Code
+50,i32,"Max damage, grounded target",,Code
+54,f32,Recoil A,x keyblade Recoil,Code
+58,f32,Recoil B,x keyblade Recoil,Code
+5C,f32,Reach,+ keyblade length x entity scale,Code
+68,f32,Hit-count scale,,Code
+6C,i32,Attack ID,,Code

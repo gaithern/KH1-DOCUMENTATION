@@ -1,0 +1,7 @@
+Offset,btltbl2 Offset,Type,Value,Meaning
+006C,14,u16,20,"Level-5 blow-away speed, lightest enemy (lerped by victim stats+0xC4)"
+006E,16,u16,35,"Level-5 blow-away speed, heaviest enemy"
+0070,18,f32,1.35,Level-5 lift = speed x this ratio
+0080,28,f32,4,Level-6/7 push per damage point
+0084,2C,f32,80,Level-2/3 push scale (cap for level-6/7 push)
+0094,3C,f32,16,Level-4 knockdown speed

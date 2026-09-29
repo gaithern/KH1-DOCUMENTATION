@@ -1,0 +1,4 @@
+Accessory,File,Offset,Value (HEX),Value Type,Value,Notes
+Protect Chain,btltbl.bin,32E6,00,Int,0,HP
+Protect Chain,btltbl.bin,32E7,00,Int,0,MP
+Protect Chain,btltbl.bin,32E8,FB,Int,251,STR

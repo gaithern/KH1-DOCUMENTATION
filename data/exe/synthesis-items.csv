@@ -1,0 +1,133 @@
+EGS Address,Steam Address,Offset,Value (HEX),Value,Notes
+548580,5478A0,0,06,6,Item
+548582,5478A2,2,00,0,Requirements Offset
+548583,5478A3,3,03,3,Number of Requirements
+548584,5478A4,4,00,0,Unique Synth
+54858A,5478AA,A,90,144,Item
+54858C,5478AC,C,03,3,Requirements Offset
+54858D,5478AD,D,02,2,Number of Requirements
+54858E,5478AE,E,00,0,Unique Synth
+548594,5478B4,14,27,39,Item
+548596,5478B6,16,05,5,Requirements Offset
+548597,5478B7,17,02,2,Number of Requirements
+548598,5478B8,18,00,0,Unique Synth
+54859E,5478BE,1E,24,36,Item
+5485A0,5478C0,20,07,7,Requirements Offset
+5485A1,5478C1,21,02,2,Number of Requirements
+5485A2,5478C2,22,00,0,Unique Synth
+5485A8,5478C8,28,2A,42,Item
+5485AA,5478CA,2A,09,9,Requirements Offset
+5485AB,5478CB,2B,03,3,Number of Requirements
+5485AC,5478CC,2C,00,0,Unique Synth
+5485B2,5478D2,32,38,56,Item
+5485B4,5478D4,34,0C,12,Requirements Offset
+5485B5,5478D5,35,05,5,Number of Requirements
+5485B6,5478D6,36,00,0,Unique Synth
+5485BC,5478DC,3C,07,7,Item
+5485BE,5478DE,3E,11,17,Requirements Offset
+5485BF,5478DF,3F,04,4,Number of Requirements
+5485C0,5478E0,40,00,0,Unique Synth
+5485C6,5478E6,46,1E,30,Item
+5485C8,5478E8,48,15,21,Requirements Offset
+5485C9,5478E9,49,03,3,Number of Requirements
+5485CA,5478EA,4A,00,0,Unique Synth
+5485D0,5478F0,50,28,40,Item
+5485D2,5478F2,52,18,24,Requirements Offset
+5485D3,5478F3,53,02,2,Number of Requirements
+5485D4,5478F4,54,00,0,Unique Synth
+5485DA,5478FA,5A,25,37,Item
+5485DC,5478FC,5C,1A,26,Requirements Offset
+5485DD,5478FD,5D,02,2,Number of Requirements
+5485DE,5478FE,5E,00,0,Unique Synth
+5485E4,547904,64,2B,43,Item
+5485E6,547906,66,1C,28,Requirements Offset
+5485E7,547907,67,03,3,Number of Requirements
+5485E8,547908,68,00,0,Unique Synth
+5485EE,54790E,6E,43,67,Item
+5485F0,547910,70,1F,31,Requirements Offset
+5485F1,547911,71,05,5,Number of Requirements
+5485F2,547912,72,00,0,Unique Synth
+5485F8,547918,78,9A,154,Item
+5485FA,54791A,7A,24,36,Requirements Offset
+5485FB,54791B,7B,04,4,Number of Requirements
+5485FC,54791C,7C,00,0,Unique Synth
+548602,547922,82,21,33,Item
+548604,547924,84,28,40,Requirements Offset
+548605,547925,85,02,2,Number of Requirements
+548606,547926,86,00,0,Unique Synth
+54860C,54792C,8C,1F,31,Item
+54860E,54792E,8E,2A,42,Requirements Offset
+54860F,54792F,8F,03,3,Number of Requirements
+548610,547930,90,00,0,Unique Synth
+548616,547936,96,29,41,Item
+548618,547938,98,2D,45,Requirements Offset
+548619,547939,99,03,3,Number of Requirements
+54861A,54793A,9A,00,0,Unique Synth
+548620,547940,A0,26,38,Item
+548622,547942,A2,30,48,Requirements Offset
+548623,547943,A3,03,3,Number of Requirements
+548624,547944,A4,00,0,Unique Synth
+54862A,54794A,AA,FE,254,Item
+54862C,54794C,AC,33,51,Requirements Offset
+54862D,54794D,AD,03,3,Number of Requirements
+54862E,54794E,AE,00,0,Unique Synth
+548634,547954,B4,04,4,Item
+548636,547956,B6,36,54,Requirements Offset
+548637,547957,B7,04,4,Number of Requirements
+548638,547958,B8,00,0,Unique Synth
+54863E,54795E,BE,99,153,Item
+548640,547960,C0,3A,58,Requirements Offset
+548641,547961,C1,05,5,Number of Requirements
+548642,547962,C2,00,0,Unique Synth
+548648,547968,C8,2D,45,Item
+54864A,54796A,CA,3F,63,Requirements Offset
+54864B,54796B,CB,03,3,Number of Requirements
+54864C,54796C,CC,00,0,Unique Synth
+548652,547972,D2,23,35,Item
+548654,547974,D4,42,66,Requirements Offset
+548655,547975,D5,03,3,Number of Requirements
+548656,547976,D6,00,0,Unique Synth
+54865C,54797C,DC,2C,44,Item
+54865E,54797E,DE,45,69,Requirements Offset
+54865F,54797F,DF,05,5,Number of Requirements
+548660,547980,E0,00,0,Unique Synth
+548666,547986,E6,2F,47,Item
+548668,547988,E8,4A,74,Requirements Offset
+548669,547989,E9,05,5,Number of Requirements
+54866A,54798A,EA,00,0,Unique Synth
+548670,547990,F0,9C,156,Item
+548672,547992,F2,4F,79,Requirements Offset
+548673,547993,F3,03,3,Number of Requirements
+548674,547994,F4,00,0,Unique Synth
+54867A,54799A,FA,08,8,Item
+54867C,54799C,FC,52,82,Requirements Offset
+54867D,54799D,FD,04,4,Number of Requirements
+54867E,54799E,FE,00,0,Unique Synth
+548684,5479A4,104,98,152,Item
+548686,5479A6,106,56,86,Requirements Offset
+548687,5479A7,107,05,5,Number of Requirements
+548688,5479A8,108,00,0,Unique Synth
+54868E,5479AE,10E,44,68,Item
+548690,5479B0,110,5B,91,Requirements Offset
+548691,5479B1,111,04,4,Number of Requirements
+548692,5479B2,112,00,0,Unique Synth
+548698,5479B8,118,3B,59,Item
+54869A,5479BA,11A,5F,95,Requirements Offset
+54869B,5479BB,11B,05,5,Number of Requirements
+54869C,5479BC,11C,00,0,Unique Synth
+5486A2,5479C2,122,2E,46,Item
+5486A4,5479C4,124,64,100,Requirements Offset
+5486A5,5479C5,125,05,5,Number of Requirements
+5486A6,5479C6,126,00,0,Unique Synth
+5486AC,5479CC,12C,75,117,Item
+5486AE,5479CE,12E,69,105,Requirements Offset
+5486AF,5479CF,12F,04,4,Number of Requirements
+5486B0,5479D0,130,00,0,Unique Synth
+5486B6,5479D6,136,85,133,Item
+5486B8,5479D8,138,6D,109,Requirements Offset
+5486B9,5479D9,139,04,4,Number of Requirements
+5486BA,5479DA,13A,00,0,Unique Synth
+5486C0,5479E0,140,64,100,Item
+5486C2,5479E2,142,71,113,Requirements Offset
+5486C3,5479E3,143,05,5,Number of Requirements
+5486C4,5479E4,144,01,1,Unique Synth

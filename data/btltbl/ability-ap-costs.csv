@@ -1,0 +1,60 @@
+File,Offset,Value (HEX),Value (Int),Ability,Party Member
+btltbl.bin,3408,02,2,Treasure Magnet,Any
+btltbl.bin,3414,01,1,Combo Plus,Sora
+btltbl.bin,3420,01,1,Air Combo Plus,Sora
+btltbl.bin,342C,02,2,Critical Plus,Any
+btltbl.bin,3438,03,3,Second Wind,Allies
+btltbl.bin,3444,01,1,Scan,Sora
+btltbl.bin,3450,03,3,Sonic Blade,Sora
+btltbl.bin,345C,04,4,Ars Arcanum,Sora
+btltbl.bin,3468,03,3,Strike Raid,Sora
+btltbl.bin,3474,04,4,Ragnarok,Sora
+btltbl.bin,3480,01,1,Trinity Limit,Sora
+btltbl.bin,348C,01,1,Cheer,Any
+btltbl.bin,3498,01,1,Vortex,Sora
+btltbl.bin,34A4,02,2,Aerial Sweep,Sora
+btltbl.bin,34B0,02,2,Counter Attack,Sora
+btltbl.bin,34BC,02,2,Blitz,Sora
+btltbl.bin,34C8,02,2,Guard,Sora
+btltbl.bin,34D4,01,1,Dodge Roll,Sora
+btltbl.bin,34E0,03,3,MP Haste,Any
+btltbl.bin,34EC,03,3,MP Rage,Any
+btltbl.bin,34F8,05,5,Second Chance,Any
+btltbl.bin,3504,01,1,Berserk,Any
+btltbl.bin,3510,02,2,Jackpot,Any
+btltbl.bin,351C,02,2,Lucky Strike,Any
+btltbl.bin,3528,01,1,Charge,Goofy
+btltbl.bin,3534,01,1,Rocket,Goofy
+btltbl.bin,3540,02,2,Tornado,Goofy
+btltbl.bin,354C,03,3,MP Gift,Goofy
+btltbl.bin,3558,02,2,Raging Boar,Tarzan
+btltbl.bin,3564,02,2,Asp´s Bite,Tarzan
+btltbl.bin,3570,03,3,Healing Herb,Tarzan
+btltbl.bin,357C,03,3,Wind Armor,Tarzan
+btltbl.bin,3588,02,2,Cresent,Aladdin
+btltbl.bin,3594,02,2,Sandstorm,Aladdin
+btltbl.bin,35A0,01,1,Applause!,Jack
+btltbl.bin,35AC,02,2,Balzing Fury,Jack
+btltbl.bin,35B8,02,2,Icy Terror,Jack
+btltbl.bin,35C4,03,3,Bolts of Sorrow,Jack
+btltbl.bin,35D0,03,3,Ghostly Scream,Jack
+btltbl.bin,35DC,02,2,Hummingbird,Peter Pan
+btltbl.bin,35E8,04,4,Time-Out,Peter Pan
+btltbl.bin,35F4,03,3,Storm´s Eye,Peter Pan
+btltbl.bin,3600,02,2,Ferocious Lunge,Beast
+btltbl.bin,360C,03,3,Furious Bellow,Beast
+btltbl.bin,3618,01,1,Spiral Wave,Ariel
+btltbl.bin,3624,03,3,Thunder Potion,Ariel
+btltbl.bin,3630,03,3,Cure Potion,Ariel
+btltbl.bin,363C,03,3,Aero Potion,Ariel
+btltbl.bin,3648,01,1,Slapshot,Sora
+btltbl.bin,3654,01,1,Sliding Dash,Sora
+btltbl.bin,3660,02,2,Hurricane Blast,Sora
+btltbl.bin,366C,03,3,Ripple Drive,Sora
+btltbl.bin,3678,02,2,Stun Impact,Sora
+btltbl.bin,3684,02,2,Gravity Break,Sora
+btltbl.bin,3690,02,2,Zantetsuken,Sora
+btltbl.bin,369C,02,2,Tech Boost,Sora
+btltbl.bin,36A8,01,1,Encounter Plus,Sora
+btltbl.bin,36B4,05,5,Leaf Bracer,Any
+btltbl.bin,36C0,03,3,Evolution,Goofy

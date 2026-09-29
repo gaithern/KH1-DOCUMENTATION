@@ -1,0 +1,393 @@
+Shop,Version,Shop Slot,EGS Address,Steam Address,Value (HEX),Value (DEC),Type,Item Type
+Item Shop,Initial,-,4FF3C0,4FEE00,04 00 00 00,4,Number of Items in Store,-
+Item Shop,Initial,1,4FF3C4,4FEE04,01 00 00 00,1,Item,Potion
+Item Shop,Initial,2,4FF3C8,4FEE08,02 00 00 00,2,Item,Hi-Potion
+Item Shop,Initial,3,4FF3CC,4FEE0C,03 00 00 00,3,Item,Ether
+Item Shop,Initial,4,4FF3D0,4FEE10,8E 00 00 00,142,Item,Tent
+Item Shop,Initial,5,4FF3D4,4FEE14,00 00 00 00,0,Item,NA
+Item Shop,Initial,6,4FF3D8,4FEE18,00 00 00 00,0,Item,NA
+Item Shop,Initial,7,4FF3DC,4FEE1C,00 00 00 00,0,Item,NA
+Item Shop,Initial,8,4FF3E0,4FEE20,00 00 00 00,0,Item,NA
+Item Shop,Initial,9,4FF3E4,4FEE24,00 00 00 00,0,Item,NA
+Item Shop,Initial,10,4FF3E8,4FEE28,00 00 00 00,0,Item,NA
+Item Shop,Initial,11,4FF3EC,4FEE2C,00 00 00 00,0,Item,NA
+Item Shop,Initial,12,4FF3F0,4FEE30,00 00 00 00,0,Item,NA
+Item Shop,Initial,13,4FF3F4,4FEE34,00 00 00 00,0,Item,NA
+Item Shop,Initial,14,4FF3F8,4FEE38,00 00 00 00,0,Item,NA
+Item Shop,Initial,15,4FF3FC,4FEE3C,00 00 00 00,0,Item,NA
+Item Shop,Initial,16,4FF400,4FEE40,00 00 00 00,0,Item,NA
+Item Shop,Initial,17,4FF404,4FEE44,00 00 00 00,0,Item,NA
+Item Shop,Initial,18,4FF408,4FEE48,00 00 00 00,0,Item,NA
+Item Shop,Initial,19,4FF40C,4FEE4C,00 00 00 00,0,Item,NA
+Item Shop,Initial,20,4FF410,4FEE50,00 00 00 00,0,Item,NA
+Item Shop,Initial,21,4FF414,4FEE54,00 00 00 00,0,Item,NA
+Item Shop,Initial,22,4FF418,4FEE58,00 00 00 00,0,Item,NA
+Item Shop,Initial,23,4FF41C,4FEE5C,00 00 00 00,0,Item,NA
+Item Shop,Initial,24,4FF420,4FEE60,00 00 00 00,0,Item,NA
+Item Shop,Initial,25,4FF424,4FEE64,00 00 00 00,0,Item,NA
+Item Shop,Initial,26,4FF428,4FEE68,00 00 00 00,0,Item,NA
+Item Shop,Initial,27,4FF42C,4FEE6C,00 00 00 00,0,Item,NA
+Item Shop,Initial,28,4FF430,4FEE70,00 00 00 00,0,Item,NA
+Item Shop,Initial,29,4FF434,4FEE74,00 00 00 00,0,Item,NA
+Item Shop,Initial,30,4FF438,4FEE78,00 00 00 00,0,Item,NA
+Item Shop,Initial,31,4FF43C,4FEE7C,00 00 00 00,0,Item,NA
+Item Shop,Initial,32,4FF440,4FEE80,00 00 00 00,0,Item,NA
+Item Shop,Initial,33,4FF444,4FEE84,00 00 00 00,0,Item,NA
+Item Shop,Initial,34,4FF448,4FEE88,00 00 00 00,0,Item,NA
+Item Shop,Initial,35,4FF44C,4FEE8C,00 00 00 00,0,Item,NA
+Item Shop,Initial,36,4FF450,4FEE90,00 00 00 00,0,Item,NA
+Item Shop,Initial,37,4FF454,4FEE94,00 00 00 00,0,Item,NA
+Item Shop,Initial,38,4FF458,4FEE98,00 00 00 00,0,Item,NA
+Item Shop,Initial,39,4FF45C,4FEE9C,00 00 00 00,0,Item,NA
+Item Shop,Initial,40,4FF460,4FEEA0,00 00 00 00,0,Item,NA
+Item Shop,Initial,41,4FF464,4FEEA4,00 00 00 00,0,Item,NA
+Item Shop,Initial,42,4FF468,4FEEA8,00 00 00 00,0,Item,NA
+Item Shop,Initial,43,4FF46C,4FEEAC,00 00 00 00,0,Item,NA
+Item Shop,Initial,44,4FF470,4FEEB0,00 00 00 00,0,Item,NA
+Item Shop,Initial,45,4FF474,4FEEB4,00 00 00 00,0,Item,NA
+Item Shop,Initial,46,4FF478,4FEEB8,00 00 00 00,0,Item,NA
+Item Shop,Initial,47,4FF47C,4FEEBC,00 00 00 00,0,Item,NA
+Item Shop,Initial,48,4FF480,4FEEC0,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,-,4FF494,4FEED4,08 00 00 00,8,Number of Items in Store,-
+Item Shop,After Guard Armor,1,4FF498,4FEED8,01 00 00 00,1,Item,Potion
+Item Shop,After Guard Armor,2,4FF49C,4FEEDC,02 00 00 00,2,Item,Hi-Potion
+Item Shop,After Guard Armor,3,4FF4A0,4FEEE0,03 00 00 00,3,Item,Ether
+Item Shop,After Guard Armor,4,4FF4A4,4FEEE4,8E 00 00 00,142,Item,Tent
+Item Shop,After Guard Armor,5,4FF4A8,4FEEE8,68 00 00 00,104,Item,Morning Star
+Item Shop,After Guard Armor,6,4FF4AC,4FEEEC,6C 00 00 00,108,Item,Warhammer
+Item Shop,After Guard Armor,7,4FF4B0,4FEEF0,7D 00 00 00,125,Item,Smasher
+Item Shop,After Guard Armor,8,4FF4B4,4FEEF4,7A 00 00 00,122,Item,Stout Shield
+Item Shop,After Guard Armor,9,4FF4B8,4FEEF8,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,10,4FF4BC,4FEEFC,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,11,4FF4C0,4FEF00,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,12,4FF4C4,4FEF04,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,13,4FF4C8,4FEF08,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,14,4FF4CC,4FEF0C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,15,4FF4D0,4FEF10,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,16,4FF4D4,4FEF14,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,17,4FF4D8,4FEF18,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,18,4FF4DC,4FEF1C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,19,4FF4E0,4FEF20,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,20,4FF4E4,4FEF24,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,21,4FF4E8,4FEF28,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,22,4FF4EC,4FEF2C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,23,4FF4F0,4FEF30,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,24,4FF4F4,4FEF34,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,25,4FF4F8,4FEF38,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,26,4FF4FC,4FEF3C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,27,4FF500,4FEF40,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,28,4FF504,4FEF44,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,29,4FF508,4FEF48,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,30,4FF50C,4FEF4C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,31,4FF510,4FEF50,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,32,4FF514,4FEF54,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,33,4FF518,4FEF58,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,34,4FF51C,4FEF5C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,35,4FF520,4FEF60,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,36,4FF524,4FEF64,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,37,4FF528,4FEF68,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,38,4FF52C,4FEF6C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,39,4FF530,4FEF70,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,40,4FF534,4FEF74,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,41,4FF538,4FEF78,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,42,4FF53C,4FEF7C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,43,4FF540,4FEF80,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,44,4FF544,4FEF84,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,45,4FF548,4FEF88,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,46,4FF54C,4FEF8C,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,47,4FF550,4FEF90,00 00 00 00,0,Item,NA
+Item Shop,After Guard Armor,48,4FF554,4FEF94,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,-,4FF568,4FEFA8,0F 00 00 00,15,Number of Items in Store,-
+Item Shop,After Agrabah,1,4FF56C,4FEFAC,01 00 00 00,1,Item,Potion
+Item Shop,After Agrabah,2,4FF570,4FEFB0,02 00 00 00,2,Item,Hi-Potion
+Item Shop,After Agrabah,3,4FF574,4FEFB4,03 00 00 00,3,Item,Ether
+Item Shop,After Agrabah,4,4FF578,4FEFB8,8E 00 00 00,142,Item,Tent
+Item Shop,After Agrabah,5,4FF57C,4FEFBC,8F 00 00 00,143,Item,Camping Set
+Item Shop,After Agrabah,6,4FF580,4FEFC0,68 00 00 00,104,Item,Morning Star
+Item Shop,After Agrabah,7,4FF584,4FEFC4,69 00 00 00,105,Item,Shooting Star
+Item Shop,After Agrabah,8,4FF588,4FEFC8,6A 00 00 00,106,Item,Magus Staff
+Item Shop,After Agrabah,9,4FF58C,4FEFCC,6C 00 00 00,108,Item,Warhammer
+Item Shop,After Agrabah,10,4FF590,4FEFD0,6D 00 00 00,109,Item,Silver Mallet
+Item Shop,After Agrabah,11,4FF594,4FEFD4,7D 00 00 00,125,Item,Smasher
+Item Shop,After Agrabah,12,4FF598,4FEFD8,7E 00 00 00,126,Item,Gigas Fist
+Item Shop,After Agrabah,13,4FF59C,4FEFDC,78 00 00 00,120,Item,Mythril Shield
+Item Shop,After Agrabah,14,4FF5A0,4FEFE0,7A 00 00 00,122,Item,Stout Shield
+Item Shop,After Agrabah,15,4FF5A4,4FEFE4,7B 00 00 00,123,Item,Golem Shield
+Item Shop,After Agrabah,16,4FF5A8,4FEFE8,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,17,4FF5AC,4FEFEC,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,18,4FF5B0,4FEFF0,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,19,4FF5B4,4FEFF4,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,20,4FF5B8,4FEFF8,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,21,4FF5BC,4FEFFC,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,22,4FF5C0,4FF000,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,23,4FF5C4,4FF004,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,24,4FF5C8,4FF008,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,25,4FF5CC,4FF00C,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,26,4FF5D0,4FF010,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,27,4FF5D4,4FF014,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,28,4FF5D8,4FF018,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,29,4FF5DC,4FF01C,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,30,4FF5E0,4FF020,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,31,4FF5E4,4FF024,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,32,4FF5E8,4FF028,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,33,4FF5EC,4FF02C,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,34,4FF5F0,4FF030,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,35,4FF5F4,4FF034,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,36,4FF5F8,4FF038,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,37,4FF5FC,4FF03C,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,38,4FF600,4FF040,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,39,4FF604,4FF044,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,40,4FF608,4FF048,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,41,4FF60C,4FF04C,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,42,4FF610,4FF050,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,43,4FF614,4FF054,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,44,4FF618,4FF058,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,45,4FF61C,4FF05C,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,46,4FF620,4FF060,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,47,4FF624,4FF064,00 00 00 00,0,Item,NA
+Item Shop,After Agrabah,48,4FF628,4FF068,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,-,4FF63C,4FF07C,14 00 00 00,20,Number of Items in Store,-
+Item Shop,After Riku Ansem,1,4FF640,4FF080,01 00 00 00,1,Item,Potion
+Item Shop,After Riku Ansem,2,4FF644,4FF084,02 00 00 00,2,Item,Hi-Potion
+Item Shop,After Riku Ansem,3,4FF648,4FF088,03 00 00 00,3,Item,Ether
+Item Shop,After Riku Ansem,4,4FF64C,4FF08C,8E 00 00 00,142,Item,Tent
+Item Shop,After Riku Ansem,5,4FF650,4FF090,8F 00 00 00,143,Item,Camping Set
+Item Shop,After Riku Ansem,6,4FF654,4FF094,FF 00 00 00,255,Item,Orichalcum
+Item Shop,After Riku Ansem,7,4FF658,4FF098,68 00 00 00,104,Item,Morning Star
+Item Shop,After Riku Ansem,8,4FF65C,4FF09C,69 00 00 00,105,Item,Shooting Star
+Item Shop,After Riku Ansem,9,4FF660,4FF0A0,6A 00 00 00,106,Item,Magus Staff
+Item Shop,After Riku Ansem,10,4FF664,4FF0A4,6B 00 00 00,107,Item,Wisdom Staff
+Item Shop,After Riku Ansem,11,4FF668,4FF0A8,6C 00 00 00,108,Item,Warhammer
+Item Shop,After Riku Ansem,12,4FF66C,4FF0AC,6D 00 00 00,109,Item,Silver Mallet
+Item Shop,After Riku Ansem,13,4FF670,4FF0B0,6E 00 00 00,110,Item,Grand Mallet
+Item Shop,After Riku Ansem,14,4FF674,4FF0B4,7D 00 00 00,125,Item,Smasher
+Item Shop,After Riku Ansem,15,4FF678,4FF0B8,7E 00 00 00,126,Item,Gigas Fist
+Item Shop,After Riku Ansem,16,4FF67C,4FF0BC,78 00 00 00,120,Item,Mythril Shield
+Item Shop,After Riku Ansem,17,4FF680,4FF0C0,79 00 00 00,121,Item,Onyx Shield
+Item Shop,After Riku Ansem,18,4FF684,4FF0C4,7A 00 00 00,122,Item,Stout Shield
+Item Shop,After Riku Ansem,19,4FF688,4FF0C8,7B 00 00 00,123,Item,Golem Shield
+Item Shop,After Riku Ansem,20,4FF68C,4FF0CC,7C 00 00 00,124,Item,Adamant Shield
+Item Shop,After Riku Ansem,21,4FF690,4FF0D0,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,22,4FF694,4FF0D4,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,23,4FF698,4FF0D8,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,24,4FF69C,4FF0DC,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,25,4FF6A0,4FF0E0,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,26,4FF6A4,4FF0E4,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,27,4FF6A8,4FF0E8,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,28,4FF6AC,4FF0EC,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,29,4FF6B0,4FF0F0,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,30,4FF6B4,4FF0F4,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,31,4FF6B8,4FF0F8,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,32,4FF6BC,4FF0FC,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,33,4FF6C0,4FF100,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,34,4FF6C4,4FF104,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,35,4FF6C8,4FF108,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,36,4FF6CC,4FF10C,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,37,4FF6D0,4FF110,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,38,4FF6D4,4FF114,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,39,4FF6D8,4FF118,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,40,4FF6DC,4FF11C,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,41,4FF6E0,4FF120,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,42,4FF6E4,4FF124,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,43,4FF6E8,4FF128,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,44,4FF6EC,4FF12C,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,45,4FF6F0,4FF130,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,46,4FF6F4,4FF134,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,47,4FF6F8,4FF138,00 00 00 00,0,Item,NA
+Item Shop,After Riku Ansem,48,4FF6FC,4FF13C,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,-,4FF710,4FF150,06 00 00 00,6,Number of Items in Store,-
+Accessory Shop,Initial,1,4FF714,4FF154,11 00 00 00,17,Item,Protect Chain
+Accessory Shop,Initial,2,4FF718,4FF158,14 00 00 00,20,Item,Fire Ring
+Accessory Shop,Initial,3,4FF71C,4FF15C,17 00 00 00,23,Item,Blizzard Ring
+Accessory Shop,Initial,4,4FF720,4FF160,1A 00 00 00,26,Item,Thunder Ring
+Accessory Shop,Initial,5,4FF724,4FF164,1D 00 00 00,29,Item,Ability Stud
+Accessory Shop,Initial,6,4FF728,4FF168,47 00 00 00,71,Item,Obsidian Ring
+Accessory Shop,Initial,7,4FF72C,4FF16C,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,8,4FF730,4FF170,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,9,4FF734,4FF174,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,10,4FF738,4FF178,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,11,4FF73C,4FF17C,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,12,4FF740,4FF180,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,13,4FF744,4FF184,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,14,4FF748,4FF188,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,15,4FF74C,4FF18C,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,16,4FF750,4FF190,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,17,4FF754,4FF194,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,18,4FF758,4FF198,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,19,4FF75C,4FF19C,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,20,4FF760,4FF1A0,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,21,4FF764,4FF1A4,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,22,4FF768,4FF1A8,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,23,4FF76C,4FF1AC,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,24,4FF770,4FF1B0,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,25,4FF774,4FF1B4,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,26,4FF778,4FF1B8,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,27,4FF77C,4FF1BC,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,28,4FF780,4FF1C0,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,29,4FF784,4FF1C4,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,30,4FF788,4FF1C8,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,31,4FF78C,4FF1CC,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,32,4FF790,4FF1D0,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,33,4FF794,4FF1D4,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,34,4FF798,4FF1D8,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,35,4FF79C,4FF1DC,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,36,4FF7A0,4FF1E0,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,37,4FF7A4,4FF1E4,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,38,4FF7A8,4FF1E8,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,39,4FF7AC,4FF1EC,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,40,4FF7B0,4FF1F0,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,41,4FF7B4,4FF1F4,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,42,4FF7B8,4FF1F8,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,43,4FF7BC,4FF1FC,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,44,4FF7C0,4FF200,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,45,4FF7C4,4FF204,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,46,4FF7C8,4FF208,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,47,4FF7CC,4FF20C,00 00 00 00,0,Item,NA
+Accessory Shop,Initial,48,4FF7D0,4FF210,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,-,4FF7E4,4FF224,0C 00 00 00,12,Number of Items in Store,-
+Accessory Shop,After Agrabah,1,4FF7E8,4FF228,11 00 00 00,17,Item,Protect Chain
+Accessory Shop,After Agrabah,2,4FF7EC,4FF22C,14 00 00 00,20,Item,Fire Ring
+Accessory Shop,After Agrabah,3,4FF7F0,4FF230,17 00 00 00,23,Item,Blizzard Ring
+Accessory Shop,After Agrabah,4,4FF7F4,4FF234,1A 00 00 00,26,Item,Thunder Ring
+Accessory Shop,After Agrabah,5,4FF7F8,4FF238,1D 00 00 00,29,Item,Ability Stud
+Accessory Shop,After Agrabah,6,4FF7FC,4FF23C,47 00 00 00,71,Item,Obsidian Ring
+Accessory Shop,After Agrabah,7,4FF800,4FF240,12 00 00 00,18,Item,Protera Chain
+Accessory Shop,After Agrabah,8,4FF804,4FF244,15 00 00 00,21,Item,Fira Ring
+Accessory Shop,After Agrabah,9,4FF808,4FF248,18 00 00 00,24,Item,Blizzara Ring
+Accessory Shop,After Agrabah,10,4FF80C,4FF24C,1B 00 00 00,27,Item,Thundara Ring
+Accessory Shop,After Agrabah,11,4FF810,4FF250,20 00 00 00,32,Item,Chaos Ring
+Accessory Shop,After Agrabah,12,4FF814,4FF254,22 00 00 00,34,Item,Element Ring
+Accessory Shop,After Agrabah,13,4FF818,4FF258,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,14,4FF81C,4FF25C,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,15,4FF820,4FF260,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,16,4FF824,4FF264,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,17,4FF828,4FF268,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,18,4FF82C,4FF26C,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,19,4FF830,4FF270,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,20,4FF834,4FF274,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,21,4FF838,4FF278,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,22,4FF83C,4FF27C,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,23,4FF840,4FF280,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,24,4FF844,4FF284,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,25,4FF848,4FF288,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,26,4FF84C,4FF28C,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,27,4FF850,4FF290,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,28,4FF854,4FF294,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,29,4FF858,4FF298,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,30,4FF85C,4FF29C,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,31,4FF860,4FF2A0,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,32,4FF864,4FF2A4,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,33,4FF868,4FF2A8,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,34,4FF86C,4FF2AC,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,35,4FF870,4FF2B0,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,36,4FF874,4FF2B4,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,37,4FF878,4FF2B8,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,38,4FF87C,4FF2BC,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,39,4FF880,4FF2C0,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,40,4FF884,4FF2C4,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,41,4FF888,4FF2C8,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,42,4FF88C,4FF2CC,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,43,4FF890,4FF2D0,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,44,4FF894,4FF2D4,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,45,4FF898,4FF2D8,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,46,4FF89C,4FF2DC,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,47,4FF8A0,4FF2E0,00 00 00 00,0,Item,NA
+Accessory Shop,After Agrabah,48,4FF8A4,4FF2E4,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,-,4FF8B8,4FF2F8,13 00 00 00,19,Number of Items in Store,-
+Accessory Shop,After Riku Ansem,1,4FF8BC,4FF2FC,11 00 00 00,17,Item,Protect Chain
+Accessory Shop,After Riku Ansem,2,4FF8C0,4FF300,14 00 00 00,20,Item,Fire Ring
+Accessory Shop,After Riku Ansem,3,4FF8C4,4FF304,17 00 00 00,23,Item,Blizzard Ring
+Accessory Shop,After Riku Ansem,4,4FF8C8,4FF308,1A 00 00 00,26,Item,Thunder Ring
+Accessory Shop,After Riku Ansem,5,4FF8CC,4FF30C,1D 00 00 00,29,Item,Ability Stud
+Accessory Shop,After Riku Ansem,6,4FF8D0,4FF310,47 00 00 00,71,Item,Obsidian Ring
+Accessory Shop,After Riku Ansem,7,4FF8D4,4FF314,12 00 00 00,18,Item,Protera Chain
+Accessory Shop,After Riku Ansem,8,4FF8D8,4FF318,15 00 00 00,21,Item,Fira Ring
+Accessory Shop,After Riku Ansem,9,4FF8DC,4FF31C,18 00 00 00,24,Item,Blizzara Ring
+Accessory Shop,After Riku Ansem,10,4FF8E0,4FF320,1B 00 00 00,27,Item,Thundara Ring
+Accessory Shop,After Riku Ansem,11,4FF8E4,4FF324,20 00 00 00,32,Item,Chaos Ring
+Accessory Shop,After Riku Ansem,12,4FF8E8,4FF328,22 00 00 00,34,Item,Element Ring
+Accessory Shop,After Riku Ansem,13,4FF8EC,4FF32C,13 00 00 00,19,Item,Protega Chain
+Accessory Shop,After Riku Ansem,14,4FF8F0,4FF330,16 00 00 00,22,Item,Firaga Ring
+Accessory Shop,After Riku Ansem,15,4FF8F4,4FF334,19 00 00 00,25,Item,Blizzaga Ring
+Accessory Shop,After Riku Ansem,16,4FF8F8,4FF338,1C 00 00 00,28,Item,Thundaga Ring
+Accessory Shop,After Riku Ansem,17,4FF8FC,4FF33C,3D 00 00 00,61,Item,Firagun Band
+Accessory Shop,After Riku Ansem,18,4FF900,4FF340,3E 00 00 00,62,Item,Blizzagun Band
+Accessory Shop,After Riku Ansem,19,4FF904,4FF344,3F 00 00 00,63,Item,Thundagun Band
+Accessory Shop,After Riku Ansem,20,4FF908,4FF348,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,21,4FF90C,4FF34C,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,22,4FF910,4FF350,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,23,4FF914,4FF354,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,24,4FF918,4FF358,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,25,4FF91C,4FF35C,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,26,4FF920,4FF360,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,27,4FF924,4FF364,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,28,4FF928,4FF368,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,29,4FF92C,4FF36C,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,30,4FF930,4FF370,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,31,4FF934,4FF374,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,32,4FF938,4FF378,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,33,4FF93C,4FF37C,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,34,4FF940,4FF380,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,35,4FF944,4FF384,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,36,4FF948,4FF388,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,37,4FF94C,4FF38C,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,38,4FF950,4FF390,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,39,4FF954,4FF394,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,40,4FF958,4FF398,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,41,4FF95C,4FF39C,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,42,4FF960,4FF3A0,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,43,4FF964,4FF3A4,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,44,4FF968,4FF3A8,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,45,4FF96C,4FF3AC,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,46,4FF970,4FF3B0,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,47,4FF974,4FF3B4,00 00 00 00,0,Item,NA
+Accessory Shop,After Riku Ansem,48,4FF978,4FF3B8,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,-,4FF98C,4FF3CC,05 00 00 00,5,Number of Items in Store,-
+Agrabah Shop,Initial,1,4FF990,4FF3D0,01 00 00 00,1,Item,Potion
+Agrabah Shop,Initial,2,4FF994,4FF3D4,02 00 00 00,2,Item,Hi-Potion
+Agrabah Shop,Initial,3,4FF998,4FF3D8,03 00 00 00,3,Item,Ether
+Agrabah Shop,Initial,4,4FF99C,4FF3DC,8E 00 00 00,142,Item,Tent
+Agrabah Shop,Initial,5,4FF9A0,4FF3E0,8F 00 00 00,143,Item,Camping Set
+Agrabah Shop,Initial,6,4FF9A4,4FF3E4,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,7,4FF9A8,4FF3E8,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,8,4FF9AC,4FF3EC,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,9,4FF9B0,4FF3F0,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,10,4FF9B4,4FF3F4,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,11,4FF9B8,4FF3F8,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,12,4FF9BC,4FF3FC,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,13,4FF9C0,4FF400,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,14,4FF9C4,4FF404,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,15,4FF9C8,4FF408,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,16,4FF9CC,4FF40C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,17,4FF9D0,4FF410,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,18,4FF9D4,4FF414,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,19,4FF9D8,4FF418,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,20,4FF9DC,4FF41C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,21,4FF9E0,4FF420,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,22,4FF9E4,4FF424,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,23,4FF9E8,4FF428,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,24,4FF9EC,4FF42C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,25,4FF9F0,4FF430,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,26,4FF9F4,4FF434,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,27,4FF9F8,4FF438,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,28,4FF9FC,4FF43C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,29,4FFA00,4FF440,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,30,4FFA04,4FF444,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,31,4FFA08,4FF448,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,32,4FFA0C,4FF44C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,33,4FFA10,4FF450,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,34,4FFA14,4FF454,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,35,4FFA18,4FF458,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,36,4FFA1C,4FF45C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,37,4FFA20,4FF460,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,38,4FFA24,4FF464,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,39,4FFA28,4FF468,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,40,4FFA2C,4FF46C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,41,4FFA30,4FF470,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,42,4FFA34,4FF474,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,43,4FFA38,4FF478,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,44,4FFA3C,4FF47C,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,45,4FFA40,4FF480,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,46,4FFA44,4FF484,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,47,4FFA48,4FF488,00 00 00 00,0,Item,NA
+Agrabah Shop,Initial,48,4FFA4C,4FF48C,00 00 00 00,0,Item,NA

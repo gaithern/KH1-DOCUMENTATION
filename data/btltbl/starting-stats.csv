@@ -1,0 +1,208 @@
+Character,File,Stat,Offset,Value (HEX),Value (DEC)
+Sora,btltbl.bin,HP,39D8,12,18
+Sora,btltbl.bin,MP,39D9,03,3
+Sora,btltbl.bin,AP,39DA,03,3
+Sora,btltbl.bin,STR,39DB,04,4
+Sora,btltbl.bin,DEF,39DC,03,3
+Sora,btltbl.bin,???,39DD,64,100
+Sora,btltbl.bin,???,39DE,64,100
+Sora,btltbl.bin,???,39DF,64,100
+Sora,btltbl.bin,???,39E0,64,100
+Sora,btltbl.bin,???,39E1,64,100
+Sora,btltbl.bin,???,39E2,64,100
+Sora,btltbl.bin,???,39E3,64,100
+Sora,btltbl.bin,???,39E4,64,100
+Sora,btltbl.bin,???,39E5,64,100
+Sora,btltbl.bin,???,39E6,64,100
+Sora,btltbl.bin,???,39E7,64,100
+Sora,btltbl.bin,???,39E8,64,100
+Sora,btltbl.bin,???,39E9,64,100
+Sora,btltbl.bin,???,39EA,64,100
+Sora,btltbl.bin,???,39EB,64,100
+Sora,btltbl.bin,???,39EC,64,100
+Sora,btltbl.bin,Accessory Slots,39ED,02,2
+Sora,btltbl.bin,Item Slots,39EE,03,3
+Donald,btltbl.bin,HP,39EF,0C,12
+Donald,btltbl.bin,MP,39F0,03,3
+Donald,btltbl.bin,AP,39F1,01,1
+Donald,btltbl.bin,STR,39F2,01,1
+Donald,btltbl.bin,DEF,39F3,01,1
+Donald,btltbl.bin,???,39F4,64,100
+Donald,btltbl.bin,???,39F5,64,100
+Donald,btltbl.bin,???,39F6,50,80
+Donald,btltbl.bin,???,39F7,50,80
+Donald,btltbl.bin,???,39F8,50,80
+Donald,btltbl.bin,???,39F9,50,80
+Donald,btltbl.bin,???,39FA,64,100
+Donald,btltbl.bin,???,39FB,64,100
+Donald,btltbl.bin,???,39FC,64,100
+Donald,btltbl.bin,???,39FD,64,100
+Donald,btltbl.bin,???,39FE,64,100
+Donald,btltbl.bin,???,39FF,64,100
+Donald,btltbl.bin,???,3A00,64,100
+Donald,btltbl.bin,???,3A01,64,100
+Donald,btltbl.bin,???,3A02,64,100
+Donald,btltbl.bin,???,3A03,64,100
+Donald,btltbl.bin,Accessory Slots,3A04,02,2
+Donald,btltbl.bin,Item Slots,3A05,02,2
+Goofy,btltbl.bin,HP,3A06,15,21
+Goofy,btltbl.bin,MP,3A07,01,1
+Goofy,btltbl.bin,AP,3A08,01,1
+Goofy,btltbl.bin,STR,3A09,04,4
+Goofy,btltbl.bin,DEF,3A0A,01,1
+Goofy,btltbl.bin,???,3A0B,64,100
+Goofy,btltbl.bin,???,3A0C,64,100
+Goofy,btltbl.bin,???,3A0D,96,150
+Goofy,btltbl.bin,???,3A0E,96,150
+Goofy,btltbl.bin,???,3A0F,96,150
+Goofy,btltbl.bin,???,3A10,96,150
+Goofy,btltbl.bin,???,3A11,64,100
+Goofy,btltbl.bin,???,3A12,64,100
+Goofy,btltbl.bin,???,3A13,64,100
+Goofy,btltbl.bin,???,3A14,64,100
+Goofy,btltbl.bin,???,3A15,64,100
+Goofy,btltbl.bin,???,3A16,64,100
+Goofy,btltbl.bin,???,3A17,64,100
+Goofy,btltbl.bin,???,3A18,64,100
+Goofy,btltbl.bin,???,3A19,64,100
+Goofy,btltbl.bin,???,3A1A,64,100
+Goofy,btltbl.bin,Accessory Slots,3A1B,02,2
+Goofy,btltbl.bin,Item Slots,3A1C,04,4
+Tarzan,btltbl.bin,HP,3A1D,12,18
+Tarzan,btltbl.bin,MP,3A1E,02,2
+Tarzan,btltbl.bin,AP,3A1F,13,19
+Tarzan,btltbl.bin,STR,3A20,03,3
+Tarzan,btltbl.bin,DEF,3A21,04,4
+Tarzan,btltbl.bin,???,3A22,64,100
+Tarzan,btltbl.bin,???,3A23,64,100
+Tarzan,btltbl.bin,???,3A24,64,100
+Tarzan,btltbl.bin,???,3A25,64,100
+Tarzan,btltbl.bin,???,3A26,64,100
+Tarzan,btltbl.bin,???,3A27,64,100
+Tarzan,btltbl.bin,???,3A28,64,100
+Tarzan,btltbl.bin,???,3A29,64,100
+Tarzan,btltbl.bin,???,3A2A,64,100
+Tarzan,btltbl.bin,???,3A2B,64,100
+Tarzan,btltbl.bin,???,3A2C,64,100
+Tarzan,btltbl.bin,???,3A2D,64,100
+Tarzan,btltbl.bin,???,3A2E,64,100
+Tarzan,btltbl.bin,???,3A2F,64,100
+Tarzan,btltbl.bin,???,3A30,64,100
+Tarzan,btltbl.bin,???,3A31,64,100
+Tarzan,btltbl.bin,Accessory Slots,3A32,01,1
+Tarzan,btltbl.bin,Item Slots,3A33,03,3
+Aladdin,btltbl.bin,HP,3A4B,12,18
+Aladdin,btltbl.bin,MP,3A4C,02,2
+Aladdin,btltbl.bin,AP,3A4D,0B,11
+Aladdin,btltbl.bin,STR,3A4E,01,1
+Aladdin,btltbl.bin,DEF,3A4F,02,2
+Aladdin,btltbl.bin,???,3A50,64,100
+Aladdin,btltbl.bin,???,3A51,64,100
+Aladdin,btltbl.bin,???,3A52,64,100
+Aladdin,btltbl.bin,???,3A53,64,100
+Aladdin,btltbl.bin,???,3A54,64,100
+Aladdin,btltbl.bin,???,3A55,64,100
+Aladdin,btltbl.bin,???,3A56,64,100
+Aladdin,btltbl.bin,???,3A57,64,100
+Aladdin,btltbl.bin,???,3A58,64,100
+Aladdin,btltbl.bin,???,3A59,64,100
+Aladdin,btltbl.bin,???,3A5A,64,100
+Aladdin,btltbl.bin,???,3A5B,64,100
+Aladdin,btltbl.bin,???,3A5C,64,100
+Aladdin,btltbl.bin,???,3A5D,64,100
+Aladdin,btltbl.bin,???,3A5E,64,100
+Aladdin,btltbl.bin,???,3A5F,64,100
+Aladdin,btltbl.bin,Accessory Slots,3A60,02,2
+Aladdin,btltbl.bin,Item Slots,3A61,06,6
+Ariel,btltbl.bin,HP,3A62,0C,12
+Ariel,btltbl.bin,MP,3A63,02,2
+Ariel,btltbl.bin,AP,3A64,15,21
+Ariel,btltbl.bin,STR,3A65,01,1
+Ariel,btltbl.bin,DEF,3A66,01,1
+Ariel,btltbl.bin,???,3A67,64,100
+Ariel,btltbl.bin,???,3A68,64,100
+Ariel,btltbl.bin,???,3A69,64,100
+Ariel,btltbl.bin,???,3A6A,64,100
+Ariel,btltbl.bin,???,3A6B,64,100
+Ariel,btltbl.bin,???,3A6C,64,100
+Ariel,btltbl.bin,???,3A6D,64,100
+Ariel,btltbl.bin,???,3A6E,64,100
+Ariel,btltbl.bin,???,3A6F,64,100
+Ariel,btltbl.bin,???,3A70,64,100
+Ariel,btltbl.bin,???,3A71,64,100
+Ariel,btltbl.bin,???,3A72,64,100
+Ariel,btltbl.bin,???,3A73,64,100
+Ariel,btltbl.bin,???,3A74,64,100
+Ariel,btltbl.bin,???,3A75,64,100
+Ariel,btltbl.bin,???,3A76,64,100
+Ariel,btltbl.bin,Accessory Slots,3A77,03,3
+Ariel,btltbl.bin,Item Slots,3A78,05,5
+Jack,btltbl.bin,HP,3A79,12,18
+Jack,btltbl.bin,MP,3A7A,02,2
+Jack,btltbl.bin,AP,3A7B,11,17
+Jack,btltbl.bin,STR,3A7C,0A,10
+Jack,btltbl.bin,DEF,3A7D,01,1
+Jack,btltbl.bin,???,3A7E,64,100
+Jack,btltbl.bin,???,3A7F,64,100
+Jack,btltbl.bin,???,3A80,64,100
+Jack,btltbl.bin,???,3A81,64,100
+Jack,btltbl.bin,???,3A82,64,100
+Jack,btltbl.bin,???,3A83,64,100
+Jack,btltbl.bin,???,3A84,64,100
+Jack,btltbl.bin,???,3A85,64,100
+Jack,btltbl.bin,???,3A86,64,100
+Jack,btltbl.bin,???,3A87,64,100
+Jack,btltbl.bin,???,3A88,64,100
+Jack,btltbl.bin,???,3A89,64,100
+Jack,btltbl.bin,???,3A8A,64,100
+Jack,btltbl.bin,???,3A8B,64,100
+Jack,btltbl.bin,???,3A8C,64,100
+Jack,btltbl.bin,???,3A8D,64,100
+Jack,btltbl.bin,Accessory Slots,3A8E,02,2
+Jack,btltbl.bin,Item Slots,3A8F,03,3
+Peter Pan,btltbl.bin,HP,3A90,0F,15
+Peter Pan,btltbl.bin,MP,3A91,02,2
+Peter Pan,btltbl.bin,AP,3A92,16,22
+Peter Pan,btltbl.bin,STR,3A93,05,5
+Peter Pan,btltbl.bin,DEF,3A94,01,1
+Peter Pan,btltbl.bin,???,3A95,64,100
+Peter Pan,btltbl.bin,???,3A96,64,100
+Peter Pan,btltbl.bin,???,3A97,64,100
+Peter Pan,btltbl.bin,???,3A98,64,100
+Peter Pan,btltbl.bin,???,3A99,64,100
+Peter Pan,btltbl.bin,???,3A9A,64,100
+Peter Pan,btltbl.bin,???,3A9B,64,100
+Peter Pan,btltbl.bin,???,3A9C,64,100
+Peter Pan,btltbl.bin,???,3A9D,64,100
+Peter Pan,btltbl.bin,???,3A9E,64,100
+Peter Pan,btltbl.bin,???,3A9F,64,100
+Peter Pan,btltbl.bin,???,3AA0,64,100
+Peter Pan,btltbl.bin,???,3AA1,64,100
+Peter Pan,btltbl.bin,???,3AA2,64,100
+Peter Pan,btltbl.bin,???,3AA3,64,100
+Peter Pan,btltbl.bin,???,3AA4,64,100
+Peter Pan,btltbl.bin,Accessory Slots,3AA5,02,2
+Peter Pan,btltbl.bin,Item Slots,3AA6,06,6
+Beast,btltbl.bin,HP,3AA7,1E,30
+Beast,btltbl.bin,MP,3AA8,02,2
+Beast,btltbl.bin,AP,3AA9,11,17
+Beast,btltbl.bin,STR,3AAA,0A,10
+Beast,btltbl.bin,DEF,3AAB,04,4
+Beast,btltbl.bin,???,3AAC,64,100
+Beast,btltbl.bin,???,3AAD,64,100
+Beast,btltbl.bin,???,3AAE,64,100
+Beast,btltbl.bin,???,3AAF,64,100
+Beast,btltbl.bin,???,3AB0,64,100
+Beast,btltbl.bin,???,3AB1,64,100
+Beast,btltbl.bin,???,3AB2,64,100
+Beast,btltbl.bin,???,3AB3,64,100
+Beast,btltbl.bin,???,3AB4,64,100
+Beast,btltbl.bin,???,3AB5,64,100
+Beast,btltbl.bin,???,3AB6,64,100
+Beast,btltbl.bin,???,3AB7,64,100
+Beast,btltbl.bin,???,3AB8,64,100
+Beast,btltbl.bin,???,3AB9,64,100
+Beast,btltbl.bin,???,3ABA,64,100
+Beast,btltbl.bin,???,3ABB,64,100
+Beast,btltbl.bin,Accessory Slots,3ABC,01,1
+Beast,btltbl.bin,Item Slots,3ABD,08,8

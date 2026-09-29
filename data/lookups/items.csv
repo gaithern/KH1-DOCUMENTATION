@@ -1,0 +1,256 @@
+Idx,Idx (Hex),Name
+1,01,Potion
+2,02,Hi-Potion
+3,03,Ether
+4,04,Elixir
+5,05,B05
+6,06,Mega-Potion
+7,07,Mega-Ether
+8,08,Megalixir
+9,09,Fury Stone
+10,0A,Power Stone
+11,0B,Energy Stone
+12,0C,Blazing Stone
+13,0D,Frost Stone
+14,0E,Lightning Stone
+15,0F,Dazzling Stone
+16,10,Stormy Stone
+17,11,Protect Chain
+18,12,Protera Chain
+19,13,Protega Chain
+20,14,Fire Ring
+21,15,Fira Ring
+22,16,Firaga Ring
+23,17,Blizzard Ring
+24,18,Blizzara Ring
+25,19,Blizzaga Ring
+26,1A,Thunder Ring
+27,1B,Thundara Ring
+28,1C,Thundaga Ring
+29,1D,Ability Stud
+30,1E,Guard Earring
+31,1F,Master Earring
+32,20,Chaos Ring
+33,21,Dark Ring
+34,22,Element Ring
+35,23,Three Stars
+36,24,Power Chain
+37,25,Golem Chain
+38,26,Titan Chain
+39,27,Energy Bangle
+40,28,Angel Bangle
+41,29,Gaia Bangle
+42,2A,Magic Armlet
+43,2B,Rune Armlet
+44,2C,Atlas Armlet
+45,2D,Heartguard
+46,2E,Ribbon
+47,2F,Crystal Crown
+48,30,Brave Warrior
+49,31,Ifrit's Horn
+50,32,Inferno Band
+51,33,White Fang
+52,34,Ray of Light
+53,35,Holy Circlet
+54,36,Raven's Claw
+55,37,Omega Arts
+56,38,EXP Earring
+57,39,A41
+58,3A,EXP Ring
+59,3B,EXP Bracelet
+60,3C,EXP Necklace
+61,3D,Firagun Band
+62,3E,Blizzagun Band
+63,3F,Thundagun Band
+64,40,Ifrit Belt
+65,41,Shiva Belt
+66,42,Ramuh Belt
+67,43,Moogle Badge
+68,44,Cosmic Arts
+69,45,Royal Crown
+70,46,Prime Cap
+71,47,Obsidian Ring
+72,48,A56
+73,49,A57
+74,4A,A58
+75,4B,A59
+76,4C,A60
+77,4D,A61
+78,4E,A62
+79,4F,A63
+80,50,A64
+81,51,Kingdom Key
+82,52,Dream Sword
+83,53,Dream Shield
+84,54,Dream Rod
+85,55,Wooden Sword
+86,56,Jungle King
+87,57,Three Wishes
+88,58,Fairy Harp
+89,59,Pumpkinhead
+90,5A,Crabclaw
+91,5B,Divine Rose
+92,5C,Spellbinder
+93,5D,Olympia
+94,5E,Lionheart
+95,5F,Metal Chocobo
+96,60,Oathkeeper
+97,61,Oblivion
+98,62,Lady Luck
+99,63,Wishing Star
+100,64,Ultima Weapon
+101,65,Diamond Dust
+102,66,One-Winged Angel
+103,67,Mage's Staff
+104,68,Morning Star
+105,69,Shooting Star
+106,6A,Magus Staff
+107,6B,Wisdom Staff
+108,6C,Warhammer
+109,6D,Silver Mallet
+110,6E,Grand Mallet
+111,6F,Lord Fortune
+112,70,Violetta
+113,71,Dream Rod (Donald)
+114,72,Save the Queen
+115,73,Wizard's Relic
+116,74,Meteor Strike
+117,75,Fantasista
+118,76,Unused (Donald)
+119,77,Knight's Shield
+120,78,Mythril Shield
+121,79,Onyx Shield
+122,7A,Stout Shield
+123,7B,Golem Shield
+124,7C,Adamant Shield
+125,7D,Smasher
+126,7E,Gigas Fist
+127,7F,Genji Shield
+128,80,Herc's Shield
+129,81,Dream Shield (Goofy)
+130,82,Save the King
+131,83,Defender
+132,84,Mighty Shield
+133,85,Seven Elements
+134,86,Unused (Goofy)
+135,87,Spear
+136,88,No Weapon
+137,89,Genie
+138,8A,No Weapon
+139,8B,No Weapon
+140,8C,Tinker Bell
+141,8D,Claws
+142,8E,Tent
+143,8F,Camping Set
+144,90,Cottage
+145,91,C04
+146,92,C05
+147,93,C06
+148,94,C07
+149,95,Ansem's Report 11
+150,96,Ansem's Report 12
+151,97,Ansem's Report 13
+152,98,Power Up
+153,99,Defense Up
+154,9A,AP Up
+155,9B,Serenity Power
+156,9C,Dark Matter
+157,9D,Mythril Stone
+158,9E,Fire Arts
+159,9F,Blizzard Arts
+160,A0,Thunder Arts
+161,A1,Cure Arts
+162,A2,Gravity Arts
+163,A3,Stop Arts
+164,A4,Aero Arts
+165,A5,Shiitank Rank
+166,A6,Matsutake Rank
+167,A7,Mystery Mold
+168,A8,Ansem's Report 1
+169,A9,Ansem's Report 2
+170,AA,Ansem's Report 3
+171,AB,Ansem's Report 4
+172,AC,Ansem's Report 5
+173,AD,Ansem's Report 6
+174,AE,Ansem's Report 7
+175,AF,Ansem's Report 8
+176,B0,Ansem's Report 9
+177,B1,Ansem's Report 10
+178,B2,Khama Vol. 8
+179,B3,Salegg Vol. 6
+180,B4,Azal Vol. 3
+181,B5,Mava Vol. 3
+182,B6,Mava Vol. 6
+183,B7,Theon Vol. 6
+184,B8,Nahara Vol. 5
+185,B9,Hafet Vol. 4
+186,BA,Empty Bottle
+187,BB,Old Book
+188,BC,Emblem Piece (Flame)
+189,BD,Emblem Piece (Chest)
+190,BE,Emblem Piece (Statue)
+191,BF,Emblem Piece (Fountain)
+192,C0,Log
+193,C1,Cloth
+194,C2,Rope
+195,C3,Seagull Egg
+196,C4,Fish
+197,C5,Mushroom
+198,C6,Coconut
+199,C7,Drinking Water
+200,C8,Navi-G Piece 1
+201,C9,Navi-G Piece 2
+202,CA,Navi-Gummi Unused
+203,CB,Navi-G Piece 3
+204,CC,Navi-G Piece 4
+205,CD,Navi-Gummi
+206,CE,Watergleam
+207,CF,Naturespark
+208,D0,Fireglow
+209,D1,Earthshine
+210,D2,Crystal Trident
+211,D3,Postcard
+212,D4,Torn Page 1
+213,D5,Torn Page 2
+214,D6,Torn Page 3
+215,D7,Torn Page 4
+216,D8,Torn Page 5
+217,D9,Slide 1
+218,DA,Slide 2
+219,DB,Slide 3
+220,DC,Slide 4
+221,DD,Slide 5
+222,DE,Slide 6
+223,DF,Footprints
+224,E0,Claw Marks
+225,E1,Stench
+226,E2,Antenna
+227,E3,Forget-Me-Not
+228,E4,Jack-In-The-Box
+229,E5,Entry Pass
+230,E6,Hero License
+231,E7,Pretty Stone
+232,E8,N41
+233,E9,Lucid Shard
+234,EA,Lucid Gem
+235,EB,Lucid Crystal
+236,EC,Spirit Shard
+237,ED,Spirit Gem
+238,EE,Power Shard
+239,EF,Power Gem
+240,F0,Power Crystal
+241,F1,Blaze Shard
+242,F2,Blaze Gem
+243,F3,Frost Shard
+244,F4,Frost Gem
+245,F5,Thunder Shard
+246,F6,Thunder Gem
+247,F7,Shiny Crystal
+248,F8,Bright Shard
+249,F9,Bright Gem
+250,FA,Bright Crystal
+251,FB,Mystery Goo
+252,FC,Gale
+253,FD,Mythril Shard
+254,FE,Mythril
+255,FF,Orichalcum
