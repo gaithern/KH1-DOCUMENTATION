@@ -1,0 +1,10 @@
+Name,File,Offset,Type,Value (HEX),Value,Description
+Blow-away Speed (Min),btltbl.bin,6C,u16,14,20,Level 5 reaction horizontal speed when the target's stats +0xC4 is 0; lerped toward Blow-away Speed (Max) as it approaches 1
+Blow-away Speed (Max),btltbl.bin,6E,u16,23,35,Level 5 reaction horizontal speed when the target's stats +0xC4 is 1
+Blow-away Launch Ratio,btltbl.bin,70,float,CC CC AC 3F,1.35,Level 5 reaction upward speed = horizontal speed × this
+Sonic Blade MP Cost,btltbl.bin,14C,u16,C8,200,MP Cost
+Ars Arcanum MP Cost,btltbl.bin,14E,u16,12C,300,MP Cost
+Strike Raid MP Cost,btltbl.bin,150,u16,C8,200,MP Cost
+Ragnarok MP Cost,btltbl.bin,152,u16,12C,300,MP Cost
+Trinity Limit MP Cost,btltbl.bin,154,u16,12C,300,MP Cost
+Berserk Power Bonus,btltbl.bin,156,u8,04,4,Added to a Strength-based hit's base power (Hit Parameters Damage Source 0) when the attacker has Berserk equipped and is in critical HP

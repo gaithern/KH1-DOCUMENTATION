@@ -1,0 +1,21 @@
+Voice Set (HEX),Voice Set (Dec),File,Offset,Value (HEX),Priority,Clip 1 (HEX),Clip 1 (Dec),Weight 1,Clip 2 (HEX),Clip 2 (Dec),Weight 2,Clip 3 (HEX),Clip 3 (Dec),Weight 3,Clip 4 (HEX),Clip 4 (Dec),Weight 4,Clip 5 (HEX),Clip 5 (Dec),Weight 5,Description
+00,0,btltbl.bin,BC48,03 0A 00 0B 00 0C 00 FF 00 FF 00,3,0A,10,0,0B,11,0,0C,12,0,FF,-1,0,FF,-1,0,Small Hurt
+01,1,btltbl.bin,BC53,03 0D 00 0E 00 FF 00 FF 00 FF 00,3,0D,13,0,0E,14,0,FF,-1,0,FF,-1,0,FF,-1,0,Large Hurt
+02,2,btltbl.bin,BC5E,03 10 00 FF 00 FF 00 FF 00 FF 00,3,10,16,0,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Death
+03,3,btltbl.bin,BC69,03 FD 64 12 32 13 32 FF 00 FF 00,3,FD,-3,100,12,18,50,13,19,50,FF,-1,0,FF,-1,0,Use Item (self)
+04,4,btltbl.bin,BC74,03 15 00 16 00 17 00 18 00 1C 00,3,15,21,0,16,22,0,17,23,0,18,24,0,1C,28,0,Normal attack
+05,5,btltbl.bin,BC7F,03 19 00 1A 00 1B 00 21 00 FF 00,3,19,25,0,1A,26,0,1B,27,0,21,33,0,FF,-1,0,Normal finisher
+06,6,btltbl.bin,BC8A,03 1D 00 1F 00 20 00 FF 00 FF 00,3,1D,29,0,1F,31,0,20,32,0,FF,-1,0,FF,-1,0,Special finisher
+07,7,btltbl.bin,BC95,03 28 4B 1E 19 FF 00 FF 00 FF 00,3,28,40,75,1E,30,25,FF,-1,0,FF,-1,0,FF,-1,0,Fire
+08,8,btltbl.bin,BCA0,03 29 4B 1E 19 FF 00 FF 00 FF 00,3,29,41,75,1E,30,25,FF,-1,0,FF,-1,0,FF,-1,0,Blizzard
+09,9,btltbl.bin,BCAB,03 2A 4B 12 19 FF 00 FF 00 FF 00,3,2A,42,75,12,18,25,FF,-1,0,FF,-1,0,FF,-1,0,Thunder
+0A,10,btltbl.bin,BCB6,03 FD 64 2B 4B 13 19 FF 00 FF 00,3,FD,-3,100,2B,43,75,13,19,25,FF,-1,0,FF,-1,0,Cure
+0B,11,btltbl.bin,BCC1,03 2C 4B 1E 00 FF 00 FF 00 FF 00,3,2C,44,75,1E,30,0,FF,-1,0,FF,-1,0,FF,-1,0,Gravity
+0C,12,btltbl.bin,BCCC,03 2D 4B 12 00 FF 00 FF 00 FF 00,3,2D,45,75,12,18,0,FF,-1,0,FF,-1,0,FF,-1,0,Stop
+0D,13,btltbl.bin,BCD7,03 FD 64 2E 32 2F 32 FF 00 FF 00,3,FD,-3,100,2E,46,50,2F,47,50,FF,-1,0,FF,-1,0,Aero
+0E,14,btltbl.bin,BCE2,03 22 00 24 00 1D 00 1F 00 FF 00,3,22,34,0,24,36,0,1D,29,0,1F,31,0,FF,-1,0,Summon attack
+0F,15,btltbl.bin,BCED,03 23 00 26 00 FF 00 FF 00 FF 00,3,23,35,0,26,38,0,FF,-1,0,FF,-1,0,FF,-1,0,Summon start
+10,16,btltbl.bin,BCF8,02 FD 64 FF 00 FF 00 FF 00 FF 00,2,FD,-3,100,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Nothing on keyblade swing (probably depends on target)
+11,17,btltbl.bin,BD03,03 25 4B 1E 19 FF 00 FF 00 FF 00,3,25,37,75,1E,30,25,FF,-1,0,FF,-1,0,FF,-1,0,Summon attack 2
+12,18,btltbl.bin,BD0E,03 26 00 FF 00 FF 00 FF 00 FF 00,3,26,38,0,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Summon start 2
+13,19,btltbl.bin,BD19,03 18 00 FF 00 FF 00 FF 00 FF 00,3,18,24,0,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Normal attack

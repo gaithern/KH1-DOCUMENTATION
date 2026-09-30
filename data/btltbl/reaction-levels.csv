@@ -1,0 +1,10 @@
+Reaction Level (HEX),Reaction Level (Dec),Name,Description
+00,0,Unknown,
+01,1,Unknown,
+02,2,Push,Pushed along the hit direction; no flinch motion
+03,3,Flinch,Directional flinch motion (front or back); no push
+04,4,Knockdown,Knocked down; speed set by a global battle setting
+05,5,Blow-away,Launched away; speed from Blow-away Speed (Min/Max) and Blow-away Launch Ratio in global-battle-settings.csv; knockdown instead if the target lacks the blow-away motion or is airborne
+06,6,Hit Parameters Motion,Plays the motion in Hit Parameters +40; no reaction on targets that lack that motion
+07,7,Hit Parameters Motion,Same as 6; only outranks 6 when both land on the same frame
+08,8,Gravity,Gravity spell squash

@@ -1,0 +1,196 @@
+Keyblade,File,Offset,Effect ID (HEX),Effect ID (Dec),Effect Name
+Kingdom Key,xw_ex_5010.wpn,90,00,0,Hit Effect
+Kingdom Key,xw_ex_5010.wpn,B0,01,1,None
+Kingdom Key,xw_ex_5010.wpn,D0,02,2,Crit Effect
+Kingdom Key,xw_ex_5010.wpn,F0,05,5,Keyblade Trail
+Kingdom Key,xw_ex_5010.wpn,110,06,6,Keyblade Trail (duplicate?)
+Kingdom Key,xw_ex_5010.wpn,130,07,7,Keyblade Trail (duplicate?)
+Kingdom Key,xw_ex_5010.wpn,150,08,8,None
+Kingdom Key,xw_ex_5010.wpn,170,09,9,None
+Kingdom Key,xw_ex_5010.wpn,190,0A,10,None
+Dream Sword,xw_dh_5000.wpn,90,00,0,Hit Effect
+Dream Sword,xw_dh_5000.wpn,B0,01,1,None
+Dream Sword,xw_dh_5000.wpn,D0,02,2,Crit Effect
+Dream Sword,xw_dh_5000.wpn,F0,05,5,Keyblade Trail
+Dream Sword,xw_dh_5000.wpn,110,06,6,Keyblade Trail (duplicate?)
+Dream Sword,xw_dh_5000.wpn,130,07,7,Keyblade Trail (duplicate?)
+Dream Sword,xw_dh_5000.wpn,150,08,8,None
+Dream Sword,xw_dh_5000.wpn,170,09,9,None
+Dream Sword,xw_dh_5000.wpn,190,0A,10,None
+Dream Shield,xw_dh_5010.wpn,90,00,0,Hit Effect
+Dream Shield,xw_dh_5010.wpn,B0,01,1,None
+Dream Shield,xw_dh_5010.wpn,D0,02,2,Crit Effect
+Dream Shield,xw_dh_5010.wpn,F0,08,8,None
+Dream Shield,xw_dh_5010.wpn,110,09,9,None
+Dream Shield,xw_dh_5010.wpn,130,0A,10,None
+Dream Rod,xw_dh_5020.wpn,90,00,0,Hit Effect
+Dream Rod,xw_dh_5020.wpn,B0,01,1,None
+Dream Rod,xw_dh_5020.wpn,D0,02,2,Crit Effect
+Dream Rod,xw_dh_5020.wpn,F0,05,5,Keyblade Trail
+Dream Rod,xw_dh_5020.wpn,110,06,6,Keyblade Trail (duplicate?)
+Dream Rod,xw_dh_5020.wpn,130,07,7,Keyblade Trail (duplicate?)
+Dream Rod,xw_dh_5020.wpn,150,08,8,None
+Dream Rod,xw_dh_5020.wpn,170,09,9,None
+Dream Rod,xw_dh_5020.wpn,190,0A,10,None
+Wooden Sword,xw_di_5000.wpn,90,00,0,Hit Effect
+Wooden Sword,xw_di_5000.wpn,B0,01,1,None
+Wooden Sword,xw_di_5000.wpn,D0,02,2,Crit Effect
+Wooden Sword,xw_di_5000.wpn,F0,05,5,Keyblade Trail
+Wooden Sword,xw_di_5000.wpn,110,06,6,Keyblade Trail (duplicate?)
+Wooden Sword,xw_di_5000.wpn,130,07,7,Keyblade Trail (duplicate?)
+Wooden Sword,xw_di_5000.wpn,150,08,8,None
+Wooden Sword,xw_di_5000.wpn,170,09,9,None
+Wooden Sword,xw_di_5000.wpn,190,0A,10,None
+Jungle King,xw_ex_5020.wpn,90,00,0,Hit Effect
+Jungle King,xw_ex_5020.wpn,B0,01,1,None
+Jungle King,xw_ex_5020.wpn,D0,02,2,Crit Effect
+Jungle King,xw_ex_5020.wpn,F0,05,5,Keyblade Trail
+Jungle King,xw_ex_5020.wpn,110,06,6,Keyblade Trail (duplicate?)
+Jungle King,xw_ex_5020.wpn,130,07,7,Keyblade Trail (duplicate?)
+Jungle King,xw_ex_5020.wpn,150,08,8,None
+Jungle King,xw_ex_5020.wpn,170,09,9,None
+Jungle King,xw_ex_5020.wpn,190,0A,10,None
+Three Wishes,xw_ex_5030.wpn,90,00,0,Hit Effect
+Three Wishes,xw_ex_5030.wpn,B0,01,1,None
+Three Wishes,xw_ex_5030.wpn,D0,02,2,Crit Effect
+Three Wishes,xw_ex_5030.wpn,F0,05,5,Keyblade Trail
+Three Wishes,xw_ex_5030.wpn,110,06,6,Keyblade Trail (duplicate?)
+Three Wishes,xw_ex_5030.wpn,130,07,7,Keyblade Trail (duplicate?)
+Three Wishes,xw_ex_5030.wpn,150,08,8,None
+Three Wishes,xw_ex_5030.wpn,170,09,9,None
+Three Wishes,xw_ex_5030.wpn,190,0A,10,None
+Fairy Harp,xw_ex_5040.wpn,90,00,0,Hit Effect
+Fairy Harp,xw_ex_5040.wpn,B0,01,1,None
+Fairy Harp,xw_ex_5040.wpn,D0,02,2,Crit Effect
+Fairy Harp,xw_ex_5040.wpn,F0,05,5,Keyblade Trail
+Fairy Harp,xw_ex_5040.wpn,110,06,6,Keyblade Trail (duplicate?)
+Fairy Harp,xw_ex_5040.wpn,130,07,7,Keyblade Trail (duplicate?)
+Fairy Harp,xw_ex_5040.wpn,150,08,8,None
+Fairy Harp,xw_ex_5040.wpn,170,09,9,None
+Fairy Harp,xw_ex_5040.wpn,190,0A,10,None
+Pumpkinhead,xw_ex_5050.wpn,90,00,0,Hit Effect
+Pumpkinhead,xw_ex_5050.wpn,B0,01,1,None
+Pumpkinhead,xw_ex_5050.wpn,D0,02,2,Crit Effect
+Pumpkinhead,xw_ex_5050.wpn,F0,05,5,Keyblade Trail
+Pumpkinhead,xw_ex_5050.wpn,110,06,6,Keyblade Trail (duplicate?)
+Pumpkinhead,xw_ex_5050.wpn,130,07,7,Keyblade Trail (duplicate?)
+Pumpkinhead,xw_ex_5050.wpn,150,08,8,None
+Pumpkinhead,xw_ex_5050.wpn,170,09,9,None
+Pumpkinhead,xw_ex_5050.wpn,190,0A,10,None
+Crabclaw,xw_ex_5060.wpn,90,00,0,Hit Effect
+Crabclaw,xw_ex_5060.wpn,B0,01,1,None
+Crabclaw,xw_ex_5060.wpn,D0,02,2,Crit Effect
+Crabclaw,xw_ex_5060.wpn,F0,05,5,Keyblade Trail
+Crabclaw,xw_ex_5060.wpn,110,06,6,Keyblade Trail (duplicate?)
+Crabclaw,xw_ex_5060.wpn,130,07,7,Keyblade Trail (duplicate?)
+Crabclaw,xw_ex_5060.wpn,150,08,8,None
+Crabclaw,xw_ex_5060.wpn,170,09,9,None
+Crabclaw,xw_ex_5060.wpn,190,0A,10,None
+Divine Rose,xw_ex_5070.wpn,90,00,0,Hit Effect
+Divine Rose,xw_ex_5070.wpn,B0,01,1,None
+Divine Rose,xw_ex_5070.wpn,D0,02,2,Crit Effect
+Divine Rose,xw_ex_5070.wpn,F0,05,5,Keyblade Trail
+Divine Rose,xw_ex_5070.wpn,110,06,6,Keyblade Trail (duplicate?)
+Divine Rose,xw_ex_5070.wpn,130,07,7,Keyblade Trail (duplicate?)
+Divine Rose,xw_ex_5070.wpn,150,08,8,None
+Divine Rose,xw_ex_5070.wpn,170,09,9,None
+Divine Rose,xw_ex_5070.wpn,190,0A,10,None
+Spellbinder,xw_ex_5080.wpn,90,00,0,Hit Effect
+Spellbinder,xw_ex_5080.wpn,B0,01,1,None
+Spellbinder,xw_ex_5080.wpn,D0,02,2,Crit Effect
+Spellbinder,xw_ex_5080.wpn,F0,05,5,Keyblade Trail
+Spellbinder,xw_ex_5080.wpn,110,06,6,Keyblade Trail (duplicate?)
+Spellbinder,xw_ex_5080.wpn,130,07,7,Keyblade Trail (duplicate?)
+Spellbinder,xw_ex_5080.wpn,150,08,8,None
+Spellbinder,xw_ex_5080.wpn,170,09,9,None
+Spellbinder,xw_ex_5080.wpn,190,0A,10,None
+Olympia,xw_ex_5090.wpn,90,00,0,Hit Effect
+Olympia,xw_ex_5090.wpn,B0,01,1,None
+Olympia,xw_ex_5090.wpn,D0,02,2,Crit Effect
+Olympia,xw_ex_5090.wpn,F0,05,5,Keyblade Trail
+Olympia,xw_ex_5090.wpn,110,06,6,Keyblade Trail (duplicate?)
+Olympia,xw_ex_5090.wpn,130,07,7,Keyblade Trail (duplicate?)
+Olympia,xw_ex_5090.wpn,150,08,8,None
+Olympia,xw_ex_5090.wpn,170,09,9,None
+Olympia,xw_ex_5090.wpn,190,0A,10,None
+Lionheart,xw_ex_5100.wpn,90,00,0,Hit Effect
+Lionheart,xw_ex_5100.wpn,B0,01,1,None
+Lionheart,xw_ex_5100.wpn,D0,02,2,Crit Effect
+Lionheart,xw_ex_5100.wpn,F0,05,5,Keyblade Trail
+Lionheart,xw_ex_5100.wpn,110,06,6,Keyblade Trail (duplicate?)
+Lionheart,xw_ex_5100.wpn,130,07,7,Keyblade Trail (duplicate?)
+Lionheart,xw_ex_5100.wpn,150,08,8,None
+Lionheart,xw_ex_5100.wpn,170,09,9,None
+Lionheart,xw_ex_5100.wpn,190,0A,10,None
+Metal Chocobo,xw_ex_5110.wpn,90,00,0,Hit Effect
+Metal Chocobo,xw_ex_5110.wpn,B0,01,1,None
+Metal Chocobo,xw_ex_5110.wpn,D0,02,2,Crit Effect
+Metal Chocobo,xw_ex_5110.wpn,F0,05,5,Keyblade Trail
+Metal Chocobo,xw_ex_5110.wpn,110,06,6,Keyblade Trail (duplicate?)
+Metal Chocobo,xw_ex_5110.wpn,130,07,7,Keyblade Trail (duplicate?)
+Metal Chocobo,xw_ex_5110.wpn,150,08,8,None
+Metal Chocobo,xw_ex_5110.wpn,170,09,9,None
+Metal Chocobo,xw_ex_5110.wpn,190,0A,10,None
+Oathkeeper,xw_ex_5120.wpn,90,00,0,Hit Effect
+Oathkeeper,xw_ex_5120.wpn,B0,01,1,None
+Oathkeeper,xw_ex_5120.wpn,D0,02,2,Crit Effect
+Oathkeeper,xw_ex_5120.wpn,F0,05,5,Keyblade Trail
+Oathkeeper,xw_ex_5120.wpn,110,06,6,Keyblade Trail (duplicate?)
+Oathkeeper,xw_ex_5120.wpn,130,07,7,Keyblade Trail (duplicate?)
+Oathkeeper,xw_ex_5120.wpn,150,08,8,None
+Oathkeeper,xw_ex_5120.wpn,170,09,9,None
+Oathkeeper,xw_ex_5120.wpn,190,0A,10,None
+Oblivion,xw_ex_5130.wpn,90,00,0,Hit Effect
+Oblivion,xw_ex_5130.wpn,B0,01,1,None
+Oblivion,xw_ex_5130.wpn,D0,02,2,Crit Effect
+Oblivion,xw_ex_5130.wpn,F0,05,5,Keyblade Trail
+Oblivion,xw_ex_5130.wpn,110,06,6,Keyblade Trail (duplicate?)
+Oblivion,xw_ex_5130.wpn,130,07,7,Keyblade Trail (duplicate?)
+Oblivion,xw_ex_5130.wpn,150,08,8,None
+Oblivion,xw_ex_5130.wpn,170,09,9,None
+Oblivion,xw_ex_5130.wpn,190,0A,10,None
+Lady Luck,xw_ex_5140.wpn,90,00,0,Hit Effect
+Lady Luck,xw_ex_5140.wpn,B0,01,1,None
+Lady Luck,xw_ex_5140.wpn,D0,02,2,Crit Effect
+Lady Luck,xw_ex_5140.wpn,F0,05,5,Keyblade Trail
+Lady Luck,xw_ex_5140.wpn,110,06,6,Keyblade Trail (duplicate?)
+Lady Luck,xw_ex_5140.wpn,130,07,7,Keyblade Trail (duplicate?)
+Lady Luck,xw_ex_5140.wpn,150,08,8,None
+Lady Luck,xw_ex_5140.wpn,170,09,9,None
+Lady Luck,xw_ex_5140.wpn,190,0A,10,None
+Wishing Star,xw_ex_5150.wpn,90,00,0,Hit Effect
+Wishing Star,xw_ex_5150.wpn,B0,01,1,None
+Wishing Star,xw_ex_5150.wpn,D0,02,2,Crit Effect
+Wishing Star,xw_ex_5150.wpn,F0,05,5,Keyblade Trail
+Wishing Star,xw_ex_5150.wpn,110,06,6,Keyblade Trail (duplicate?)
+Wishing Star,xw_ex_5150.wpn,130,07,7,Keyblade Trail (duplicate?)
+Wishing Star,xw_ex_5150.wpn,150,08,8,None
+Wishing Star,xw_ex_5150.wpn,170,09,9,None
+Wishing Star,xw_ex_5150.wpn,190,0A,10,None
+Ultima Weapon,xw_ex_5160.wpn,90,00,0,Hit Effect
+Ultima Weapon,xw_ex_5160.wpn,B0,01,1,None
+Ultima Weapon,xw_ex_5160.wpn,D0,02,2,Crit Effect
+Ultima Weapon,xw_ex_5160.wpn,F0,05,5,Keyblade Trail
+Ultima Weapon,xw_ex_5160.wpn,110,06,6,Keyblade Trail (duplicate?)
+Ultima Weapon,xw_ex_5160.wpn,130,07,7,Keyblade Trail (duplicate?)
+Ultima Weapon,xw_ex_5160.wpn,150,08,8,None
+Ultima Weapon,xw_ex_5160.wpn,170,09,9,None
+Ultima Weapon,xw_ex_5160.wpn,190,0A,10,None
+Diamond Dust,xw_ex_5190.wpn,90,06,6,Keyblade Trail (duplicate?)
+Diamond Dust,xw_ex_5190.wpn,B0,07,7,Keyblade Trail (duplicate?)
+Diamond Dust,xw_ex_5190.wpn,D0,08,8,None
+Diamond Dust,xw_ex_5190.wpn,F0,09,9,None
+Diamond Dust,xw_ex_5190.wpn,110,0A,10,None
+Diamond Dust,xw_ex_5190.wpn,130,00,0,Hit Effect
+Diamond Dust,xw_ex_5190.wpn,150,01,1,None
+Diamond Dust,xw_ex_5190.wpn,170,02,2,Crit Effect
+Diamond Dust,xw_ex_5190.wpn,190,05,5,Keyblade Trail
+One-Winged Angel,xw_ex_5200.wpn,90,00,0,Hit Effect
+One-Winged Angel,xw_ex_5200.wpn,B0,01,1,None
+One-Winged Angel,xw_ex_5200.wpn,D0,02,2,Crit Effect
+One-Winged Angel,xw_ex_5200.wpn,F0,05,5,Keyblade Trail
+One-Winged Angel,xw_ex_5200.wpn,110,06,6,Keyblade Trail (duplicate?)
+One-Winged Angel,xw_ex_5200.wpn,130,07,7,Keyblade Trail (duplicate?)
+One-Winged Angel,xw_ex_5200.wpn,150,08,8,None
+One-Winged Angel,xw_ex_5200.wpn,170,09,9,None
+One-Winged Angel,xw_ex_5200.wpn,190,0A,10,None

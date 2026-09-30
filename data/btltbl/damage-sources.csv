@@ -1,0 +1,8 @@
+Damage Source (HEX),Damage Source (Dec),Name,Description
+00,0,Strength,Attacker's Strength; plus Berserk Power Bonus (global-battle-settings.csv) when Berserk is equipped and the attacker is in critical HP
+01,1,Max MP,Attacker's max MP
+02,2,None,No damage
+03,3,Max MP x2,Attacker's max MP × 2
+04,4,Max MP x3,Attacker's max MP × 3
+05,5,Max MP x5,Attacker's max MP × 5
+06,6,Sora's Strength,Sora's Strength regardless of the attacker

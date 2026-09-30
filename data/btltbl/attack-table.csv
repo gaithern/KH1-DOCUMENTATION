@@ -1,0 +1,235 @@
+Character ID,Character,Attack Index,Attack Index (Hex),Attack Name,File,Offset,Motion ID (HEX),Motion ID (Dec),Keyblade Trail (HEX),Keyblade Trail (Dec),Persistent Weapon Effect (HEX),Persistent Weapon Effect (Dec),Hit Parameters Offset (HEX),Hit Parameters Offset (Dec),Lift (HEX),Lift (Float),Voice Set (HEX),Voice Set (Dec),Hit Sound (HEX),Hit Sound (Dec),Wall Hit Sound (HEX),Wall Hit Sound (Dec),Crit Hit Sound (HEX),Crit Hit Sound (Dec)
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9F0,D6,214,05,5,FF,-1,4CC8,19656,00 00 00 00,0,04,4,03,3,05,5,06,6
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA04,CD,205,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,04,4,05,5,06,6
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA18,CC,204,05,5,FF,-1,4B78,19320,00 00 70 42,60,04,4,00,0,05,5,06,6
+0,Sora,3,03,Stun Impact,btltbl.bin,AA2C,D8,216,05,5,FF,-1,4EF8,20216,00 00 00 00,0,06,6,1B,27,05,5,1B,27
+0,Sora,4,04,Gravity Break,btltbl.bin,AA40,D9,217,05,5,FF,-1,4F68,20328,00 00 00 00,0,06,6,17,23,05,5,17,23
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA54,DA,218,05,5,FF,-1,4FD8,20440,00 00 00 00,0,06,6,18,24,05,5,18,24
+0,Sora,6,06,Blitz,btltbl.bin,AA68,D2,210,05,5,FF,-1,4D38,19768,00 00 00 00,0,06,6,1B,27,05,5,06,6
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA7C,D7,215,05,5,FF,-1,4E88,20104,00 00 00 00,0,05,5,17,23,05,5,17,23
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA90,CB,203,05,5,FF,-1,4C58,19544,00 00 00 00,0,05,5,03,3,05,5,06,6
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAA4,D0,208,05,5,FF,-1,50B8,20664,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,10,0A,Vortex,btltbl.bin,AAB8,D3,211,05,5,FF,-1,4CC8,19656,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,11,0B,Swipe,btltbl.bin,AACC,C9,201,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,12,0C,Slapshot,btltbl.bin,AAE0,CF,207,05,5,FF,-1,5128,20776,00 00 00 00,0,04,4,00,0,05,5,06,6
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AAF4,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
+0,Sora,14,0E,Thurst,btltbl.bin,AB08,CA,202,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB1C,D1,209,05,5,FF,-1,5048,20552,00 00 20 42,40,05,5,1B,27,05,5,06,6
+0,Sora,16,10,Air Finisher,btltbl.bin,AB30,CE,206,05,5,FF,-1,4C58,19544,00 00 20 42,40,05,5,03,3,05,5,06,6
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB44,CD,205,05,5,FF,-1,4BE8,19432,00 00 A0 41,20,04,4,04,4,05,5,06,6
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB58,CC,204,05,5,FF,-1,4B78,19320,00 00 A0 41,20,04,4,00,0,05,5,06,6
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB6C,CE,206,05,5,FF,-1,4C58,19544,00 00 00 41,8,05,5,03,3,05,5,06,6
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB80,CD,205,05,5,FF,-1,4B78,19320,00 00 00 41,8,04,4,04,4,05,5,06,6
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,AB94,CC,204,05,5,FF,-1,4B78,19320,00 00 00 41,8,04,4,00,0,05,5,06,6
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABA8,CB,203,05,5,FF,-1,4C58,19544,00 00 00 00,0,05,5,03,3,05,5,06,6
+0,Sora,23,17,Swipe 2,btltbl.bin,ABBC,C9,201,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,24,18,Swipe 3,btltbl.bin,ABD0,C9,201,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABE4,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
+0,Sora,26,1A,Thrust 2,btltbl.bin,ABF8,CA,202,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC0C,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,FF,-1,02,2,05,5,06,6
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC20,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC34,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC48,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC5C,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC70,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC84,CA,202,FF,-1,FF,-1,5C88,23688,00 00 00 00,0,06,6,12,18,05,5,12,18
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,AC98,D3,211,05,5,FF,-1,5A58,23128,00 00 00 00,0,FF,-1,04,4,05,5,06,6
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACAC,D4,212,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,00,0,05,5,06,6
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACC0,D5,213,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACD4,D6,214,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,FF,-1,01,1,05,5,06,6
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACE8,D7,215,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,ACFC,D8,216,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,FF,-1,04,4,05,5,06,6
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD10,D9,217,FF,-1,FF,-1,5B38,23352,00 00 00 00,0,05,5,13,19,05,5,13,19
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD24,DA,218,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD38,DB,219,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD4C,DC,220,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD60,DD,221,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,03,3,05,5,06,6
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD74,DE,222,FF,-1,FF,-1,52E8,21224,00 00 00 00,0,05,5,00,0,05,5,06,6
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD88,DF,223,FF,-1,FF,-1,5BA8,23464,00 00 00 00,0,06,6,14,20,05,5,14,20
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,AD9C,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,FF,-1,02,2,05,5,06,6
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADB0,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADC4,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADD8,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,05,5,02,2,05,5,06,6
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADEC,E8,232,05,5,FF,-1,5668,22120,00 00 00 00,0,06,6,18,24,19,25,18,24
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE00,E7,231,FF,-1,FF,-1,55F8,22008,00 00 00 00,0,04,4,02,2,05,5,06,6
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE14,E8,232,FF,-1,FF,-1,5668,22120,00 00 00 00,0,06,6,FF,-1,FF,-1,FF,-1
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE28,F1,241,05,5,FF,-1,5A58,23128,00 00 70 42,60,FF,-1,04,4,05,5,06,6
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE3C,F2,242,FF,-1,FF,-1,5A58,23128,00 00 20 42,40,04,4,00,0,05,5,06,6
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE50,F3,243,FF,-1,FF,-1,5A58,23128,00 00 20 42,40,FF,-1,01,1,05,5,06,6
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE64,F4,244,FF,-1,FF,-1,5A58,23128,00 00 20 42,40,04,4,01,1,05,5,06,6
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE78,F5,245,FF,-1,FF,-1,5AC8,23240,00 00 20 42,40,05,5,17,23,05,5,17,23
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE8C,CC,204,05,5,FF,-1,4B78,19320,00 00 A0 41,20,04,4,00,0,05,5,06,6
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEA0,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
+0,Sora,61,3D,Guard 2,btltbl.bin,AEB4,D4,212,05,5,FF,-1,4DA8,19880,00 00 00 00,0,13,19,00,0,05,5,06,6
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AEC8,D5,213,05,5,FF,-1,4E18,19992,00 00 00 00,0,05,5,03,3,05,5,06,6
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEDC,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEF0,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF04,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF18,CC,204,FF,-1,FF,-1,6858,26712,00 00 F0 C1,-30,04,4,01,1,02,2,03,3
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF2C,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,01,1,02,2,03,3
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF40,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF54,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF68,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF7C,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF90,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFA4,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFB8,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFCC,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 41,8,04,4,01,1,02,2,03,3
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFE0,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 41,8,04,4,01,1,02,2,03,3
+1,Donald,11,0B,Air overhand swing,btltbl.bin,AFF4,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 41,8,04,4,01,1,02,2,03,3
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B008,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B01C,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B030,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B044,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B058,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B06C,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B080,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B094,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0A8,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0BC,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0D0,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0E4,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,0,00,Unknown,btltbl.bin,B0F8,CD,205,FF,-1,FF,-1,6E08,28168,00 00 48 C2,-50,04,4,01,1,02,2,03,3
+2,Goofy,1,01,Unknown,btltbl.bin,B10C,FFFF,-1,FF,-1,FF,-1,6E78,28280,00 00 00 00,0,FF,-1,00,0,02,2,03,3
+2,Goofy,2,02,Unknown,btltbl.bin,B120,CB,203,FF,-1,FF,-1,6FC8,28616,00 00 00 00,0,05,5,03,3,02,2,03,3
+2,Goofy,3,03,Unknown,btltbl.bin,B134,C9,201,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,4,04,Unknown,btltbl.bin,B148,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,5,05,Unknown,btltbl.bin,B15C,CA,202,FF,-1,FF,-1,6F58,28504,00 00 00 00,0,06,6,03,3,02,2,03,3
+2,Goofy,6,06,Unknown,btltbl.bin,B170,CF,207,FF,-1,FF,-1,7038,28728,00 00 00 00,0,06,6,03,3,02,2,03,3
+2,Goofy,7,07,Unknown,btltbl.bin,B184,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,8,08,Unknown,btltbl.bin,B198,CC,204,FF,-1,FF,-1,6E08,28168,00 00 48 C2,-50,04,4,01,1,02,2,03,3
+2,Goofy,9,09,Unknown,btltbl.bin,B1AC,CF,207,FF,-1,FF,-1,7038,28728,00 00 00 00,0,06,6,03,3,02,2,03,3
+2,Goofy,10,0A,Unknown,btltbl.bin,B1C0,CD,205,FF,-1,FF,-1,6E08,28168,00 00 00 41,8,04,4,01,1,02,2,03,3
+2,Goofy,11,0B,Unknown,btltbl.bin,B1D4,CC,204,FF,-1,FF,-1,6E08,28168,00 00 00 41,8,04,4,01,1,02,2,03,3
+2,Goofy,12,0C,Unknown,btltbl.bin,B1E8,CF,207,FF,-1,FF,-1,7038,28728,00 00 00 00,0,06,6,03,3,02,2,03,3
+2,Goofy,13,0D,Unknown,btltbl.bin,B1FC,C9,201,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,14,0E,Unknown,btltbl.bin,B210,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,15,0F,Unknown,btltbl.bin,B224,CA,202,FF,-1,FF,-1,6F58,28504,00 00 00 00,0,06,6,03,3,02,2,03,3
+2,Goofy,16,10,Unknown,btltbl.bin,B238,FFFF,-1,FF,-1,FF,-1,6EE8,28392,00 00 00 00,0,FF,-1,FF,-1,FF,-1,FF,-1
+2,Goofy,17,11,Unknown,btltbl.bin,B24C,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,18,12,Unknown,btltbl.bin,B260,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,19,13,Unknown,btltbl.bin,B274,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,20,14,Unknown,btltbl.bin,B288,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,21,15,Unknown,btltbl.bin,B29C,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,22,16,Unknown,btltbl.bin,B2B0,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,23,17,Unknown,btltbl.bin,B2C4,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,24,18,Unknown,btltbl.bin,B2D8,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,25,19,Unknown,btltbl.bin,B2EC,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,26,1A,Unknown,btltbl.bin,B300,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,27,1B,Unknown,btltbl.bin,B314,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,28,1C,Unknown,btltbl.bin,B328,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,29,1D,Unknown,btltbl.bin,B33C,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,30,1E,Unknown,btltbl.bin,B350,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+2,Goofy,31,1F,Unknown,btltbl.bin,B364,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
+3,Tarzan,0,00,Unknown,btltbl.bin,B378,CD,205,05,5,FF,-1,73B8,29624,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+3,Tarzan,1,01,Unknown,btltbl.bin,B38C,CC,204,05,5,FF,-1,73B8,29624,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+3,Tarzan,2,02,Unknown,btltbl.bin,B3A0,C8,200,05,5,FF,-1,7498,29848,00 00 00 00,0,05,5,00,0,01,1,02,2
+3,Tarzan,3,03,Unknown,btltbl.bin,B3B4,CB,203,05,5,FF,-1,7428,29736,00 00 00 00,0,06,6,00,0,01,1,02,2
+3,Tarzan,4,04,Unknown,btltbl.bin,B3C8,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,5,05,Unknown,btltbl.bin,B3DC,CA,202,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,6,06,Unknown,btltbl.bin,B3F0,C8,200,05,5,FF,-1,7498,29848,00 00 00 00,0,05,5,00,0,01,1,02,2
+3,Tarzan,7,07,Unknown,btltbl.bin,B404,CB,203,05,5,FF,-1,7428,29736,00 00 00 00,0,06,6,00,0,01,1,02,2
+3,Tarzan,8,08,Unknown,btltbl.bin,B418,CC,204,05,5,FF,-1,73B8,29624,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+3,Tarzan,9,09,Unknown,btltbl.bin,B42C,C8,200,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,10,0A,Unknown,btltbl.bin,B440,CC,204,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,11,0B,Unknown,btltbl.bin,B454,C8,200,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,12,0C,Unknown,btltbl.bin,B468,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,13,0D,Unknown,btltbl.bin,B47C,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,14,0E,Unknown,btltbl.bin,B490,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4A4,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+3,Tarzan,16,10,Unknown,btltbl.bin,B4B8,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,0,00,Unknown,btltbl.bin,B4D0,CC,204,03,3,FF,-1,7818,30744,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+5,Aladdin,1,01,Unknown,btltbl.bin,B4E4,CD,205,03,3,FF,-1,7818,30744,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+5,Aladdin,2,02,Unknown,btltbl.bin,B4F8,CB,203,03,3,FF,-1,7888,30856,00 00 00 00,0,05,5,00,0,01,1,02,2
+5,Aladdin,3,03,Unknown,btltbl.bin,B50C,C9,201,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,4,04,Unknown,btltbl.bin,B520,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,5,05,Unknown,btltbl.bin,B534,CA,202,03,3,FF,-1,78F8,30968,00 00 00 00,0,06,6,00,0,01,1,02,2
+5,Aladdin,6,06,Unknown,btltbl.bin,B548,C9,201,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,7,07,Unknown,btltbl.bin,B55C,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,8,08,Unknown,btltbl.bin,B570,CD,205,03,3,FF,-1,7818,30744,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+5,Aladdin,9,09,Unknown,btltbl.bin,B584,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,10,0A,Unknown,btltbl.bin,B598,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5AC,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5C0,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5D4,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5E8,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,15,0F,Unknown,btltbl.bin,B5FC,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+5,Aladdin,16,10,Unknown,btltbl.bin,B610,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,0,00,Unknown,btltbl.bin,BA68,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 00 00,0,06,6,00,0,01,1,02,2
+6,Ariel,1,01,Unknown,btltbl.bin,BA7C,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,2,02,Unknown,btltbl.bin,BA90,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,3,03,Unknown,btltbl.bin,BAA4,C9,201,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,4,04,Unknown,btltbl.bin,BAB8,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,5,05,Unknown,btltbl.bin,BACC,CA,202,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,6,06,Unknown,btltbl.bin,BAE0,C9,201,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,7,07,Unknown,btltbl.bin,BAF4,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,8,08,Unknown,btltbl.bin,BB08,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 00 00,0,06,6,00,0,01,1,02,2
+6,Ariel,9,09,Unknown,btltbl.bin,BB1C,C8,200,FF,-1,FF,-1,7C78,31864,00 00 40 41,12,04,4,00,0,01,1,02,2
+6,Ariel,10,0A,Unknown,btltbl.bin,BB30,C8,200,FF,-1,FF,-1,7C78,31864,00 00 C0 40,6,04,4,00,0,01,1,02,2
+6,Ariel,11,0B,Unknown,btltbl.bin,BB44,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 C0 40,6,06,6,00,0,01,1,02,2
+6,Ariel,12,0C,Unknown,btltbl.bin,BB58,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,13,0D,Unknown,btltbl.bin,BB6C,C9,201,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,14,0E,Unknown,btltbl.bin,BB80,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,15,0F,Unknown,btltbl.bin,BB94,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 00 00,0,06,6,00,0,01,1,02,2
+6,Ariel,16,10,Unknown,btltbl.bin,BBA8,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,17,11,Unknown,btltbl.bin,BBBC,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,18,12,Unknown,btltbl.bin,BBD0,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,19,13,Unknown,btltbl.bin,BBE4,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,20,14,Unknown,btltbl.bin,BBF8,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,21,15,Unknown,btltbl.bin,BC0C,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,22,16,Unknown,btltbl.bin,BC20,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+6,Ariel,23,17,Unknown,btltbl.bin,BC34,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,0,00,Unknown,btltbl.bin,B780,CC,204,FF,-1,FF,-1,81B8,33208,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+7,Jack,1,01,Unknown,btltbl.bin,B794,CC,204,FF,-1,FF,-1,81B8,33208,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+7,Jack,2,02,Unknown,btltbl.bin,B7A8,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,3,03,Unknown,btltbl.bin,B7BC,C9,201,FF,-1,FF,-1,8148,33096,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,4,04,Unknown,btltbl.bin,B7D0,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,5,05,Unknown,btltbl.bin,B7E4,CA,202,FF,-1,FF,-1,8298,33432,00 00 00 00,0,06,6,00,0,01,1,02,2
+7,Jack,6,06,Unknown,btltbl.bin,B7F8,C9,201,FF,-1,FF,-1,8148,33096,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,7,07,Unknown,btltbl.bin,B80C,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,8,08,Unknown,btltbl.bin,B820,CA,202,FF,-1,FF,-1,8298,33432,00 00 00 00,0,06,6,00,0,01,1,02,2
+7,Jack,9,09,Unknown,btltbl.bin,B834,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,10,0A,Unknown,btltbl.bin,B848,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,11,0B,Unknown,btltbl.bin,B85C,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,12,0C,Unknown,btltbl.bin,B870,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,13,0D,Unknown,btltbl.bin,B884,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,14,0E,Unknown,btltbl.bin,B898,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,15,0F,Unknown,btltbl.bin,B8AC,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+7,Jack,16,10,Unknown,btltbl.bin,B8C0,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8D8,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8EC,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,2,02,Unknown,btltbl.bin,B900,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,3,03,Unknown,btltbl.bin,B914,CB,203,03,3,FF,-1,8618,34328,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,4,04,Unknown,btltbl.bin,B928,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,5,05,Unknown,btltbl.bin,B93C,C9,201,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,6,06,Unknown,btltbl.bin,B950,CB,203,03,3,FF,-1,8618,34328,00 00 00 00,0,06,6,00,0,01,1,02,2
+8,Peter Pan,7,07,Unknown,btltbl.bin,B964,C9,201,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,8,08,Unknown,btltbl.bin,B978,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,9,09,Unknown,btltbl.bin,B98C,CB,203,03,3,FF,-1,8618,34328,00 00 00 00,0,06,6,00,0,01,1,02,2
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9A0,C9,201,03,3,FF,-1,8538,34104,00 00 00 41,8,04,4,00,0,01,1,02,2
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9B4,C8,200,03,3,FF,-1,85A8,34216,00 00 00 41,8,04,4,00,0,01,1,02,2
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9C8,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9DC,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9F0,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA04,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA18,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA2C,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA40,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA54,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,0,00,Unknown,btltbl.bin,B628,CC,204,FF,-1,FF,-1,8A08,35336,00 00 48 C2,-50,04,4,00,0,01,1,02,2
+9,Beast,1,01,Unknown,btltbl.bin,B63C,CE,206,FF,-1,FF,-1,8B58,35672,00 00 00 00,0,FF,-1,04,4,01,1,04,4
+9,Beast,2,02,Unknown,btltbl.bin,B650,CB,203,FF,-1,FF,-1,8AE8,35560,00 00 00 00,0,07,7,03,3,01,1,03,3
+9,Beast,3,03,Unknown,btltbl.bin,B664,C9,201,FF,-1,FF,-1,8A08,35336,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,4,04,Unknown,btltbl.bin,B678,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,5,05,Unknown,btltbl.bin,B68C,CA,202,FF,-1,FF,-1,8A78,35448,00 00 00 00,0,05,5,00,0,01,1,02,2
+9,Beast,6,06,Unknown,btltbl.bin,B6A0,C9,201,FF,-1,FF,-1,8A08,35336,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,7,07,Unknown,btltbl.bin,B6B4,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,8,08,Unknown,btltbl.bin,B6C8,CD,205,FF,-1,FF,-1,8A08,35336,00 00 48 C2,-50,05,5,00,0,01,1,02,2
+9,Beast,9,09,Unknown,btltbl.bin,B6DC,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,10,0A,Unknown,btltbl.bin,B6F0,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,11,0B,Unknown,btltbl.bin,B704,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,12,0C,Unknown,btltbl.bin,B718,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,13,0D,Unknown,btltbl.bin,B72C,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,14,0E,Unknown,btltbl.bin,B740,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,15,0F,Unknown,btltbl.bin,B754,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+9,Beast,16,10,Unknown,btltbl.bin,B768,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2

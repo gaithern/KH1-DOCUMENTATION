@@ -1,0 +1,17 @@
+Hit Type (HEX),Hit Type (Dec),Name,Description
+00,0,Unknown,Normal damage without the physical hit spark
+01,1,Physical,Normal damage with the physical hit spark
+02,2,Fire,Fire damage
+03,3,Blizzard,Blizzard damage
+04,4,Thunder,Thunder damage
+05,5,Unknown,No visible effect
+06,6,Unknown,No visible effect
+07,7,Unknown,No visible effect
+08,8,Percent HP,Damage is a percentage of the target's max HP
+09,9,Stop,No damage; freezes the target for power × target Stop multiplier seconds; no effect if the multiplier is 0
+0A,10,Stun,Stuns the target
+0B,11,Heal,Heals the target by the hit's power
+0C,12,Unknown,No damage
+0D,13,Unknown,Normal damage
+0E,14,Unknown,Normal damage
+0F,15,Unknown,Normal damage
