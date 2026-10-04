@@ -1,0 +1,102 @@
+Music ID,Name,Found As,SCD,Stream,Codec,Channels,Sample Rate,Total Samples,Duration (s),Loops,Loop Start (Sample),Loop Start (s),Loop End (Sample),Loop End (s),Stream Size (Bytes)
+97,Disappeared,music097.bgm,music097.win32.scd,0,Ogg Vorbis,2,48000,5370949,111.895,Yes,1049920,21.873,5370949,111.895,2395178
+98,One-Winged Angel (from FINAL FANTASY VII),music098.bgm,music098.win32.scd,0,Ogg Vorbis,2,48000,4705301,98.027,Yes,97088,2.023,4705301,98.027,2158910
+99,Disappeared,music099.bgm,music099.win32.scd,0,Ogg Vorbis,2,48000,7017253,146.193,Yes,2695744,56.161,7017253,146.193,3079713
+100,N/A,music100.dat,music100.win32.scd,,None (empty SCD stub),,,,,,,,,,
+101,Deep Jungle,music101.dat,music101.win32.scd,0,Ogg Vorbis,2,48000,5195566,108.241,Yes,1355392,28.237,5195566,108.241,3343191
+102,Having a Wild Time,music102.dat,music102.win32.scd,0,Ogg Vorbis,2,48000,3365707,70.119,Yes,324864,6.768,3365707,70.119,1917105
+103,Olympus Coliseum,music103.bgm / music103.dat,music103.win32.scd,0,Ogg Vorbis,2,48000,3207897,66.831,Yes,710592,14.804,3207897,66.831,1695306
+104,Traverse Town,music104.dat,music104.win32.scd,0,Ogg Vorbis,2,48000,1782799,37.142,Yes,135872,2.831,1782799,37.142,931403
+105,Destiny Islands,music105.dat,music105.win32.scd,0,Ogg Vorbis,2,48000,2426463,50.551,Yes,122368,2.549,2426463,50.551,1411169
+106,Where is This?,music106.bgm,music106.win32.scd,0,Ogg Vorbis,2,48000,1578000,32.875,No,,,,,777179
+107,A Walk in Adante,music107.bgm,music107.win32.scd,0,Ogg Vorbis,2,48000,1675388,34.904,No,,,,,747880
+108,The Heartless Has Come (portion),music108.bgm,music108.win32.scd,0,Ogg Vorbis,2,48000,490017,10.209,No,,,,,210385
+109,Where is This? (portion),music109.bgm,music109.win32.scd,0,Ogg Vorbis,2,48000,1517326,31.611,No,,,,,713619
+110,Dearly Beloved,music110.bgm / music110.dat,music110.win32.scd,0,Ogg Vorbis,2,48000,1576017,32.834,Yes,179712,3.744,1576017,32.834,703619
+111,Shrouding Dark Cloud,music111.bgm / music111.dat,music111.win32.scd,0,Ogg Vorbis,2,48000,3224952,67.186,Yes,500608,10.429,3224952,67.186,1821369
+112,Hand in Hand,music112.dat,music112.win32.scd,0,Ogg Vorbis,2,48000,3429628,71.451,Yes,393024,8.188,3429628,71.451,1874073
+113,The Heartless Has Come,music113.bgm,music113.win32.scd,0,Ogg Vorbis,2,48000,1164712,24.265,No,,,,,527825
+114,The Heartless Has Come (final bit),music114.bgm,music114.win32.scd,0,Ogg Vorbis,2,48000,651172,13.566,Yes,218944,4.561,651172,13.566,348520
+115,The Heartless Has Come (portion),music115.bgm,music115.win32.scd,0,Ogg Vorbis,2,48000,570000,11.875,No,,,,,206668
+116,Welcome to Wonderland,music116.dat,music116.win32.scd,0,Ogg Vorbis,2,48000,2685015,55.938,Yes,272832,5.684,2685015,55.938,1354124
+117,A Very Small Wish,music117.dat,music117.win32.scd,0,Ogg Vorbis,2,48000,3151017,65.646,Yes,233280,4.860,3151017,65.646,1526262
+118,To Our Surprise,music118.bgm / music118.dat,music118.win32.scd,0,Ogg Vorbis,2,48000,3059926,63.748,Yes,278144,5.795,3059926,63.748,1621696
+119,Bustin' Up on the Beach,music119.dat,music119.win32.scd,0,Ogg Vorbis,2,48000,2590836,53.976,Yes,66752,1.391,2590836,53.976,1308123
+120,Go for it!,music120.bgm / music120.dat,music120.win32.scd,0,Ogg Vorbis,2,48000,3065431,63.863,Yes,578816,12.059,3065431,63.863,1720742
+121,Monstrous Monstro,music121.dat,music121.win32.scd,0,Ogg Vorbis,2,48000,2614639,54.472,Yes,336832,7.017,2614639,54.472,1366545
+122,Blast Away! (Gummi Ship I),music122.dat,music122.win32.scd,0,Ogg Vorbis,2,48000,2598715,54.140,Yes,261376,5.445,2598715,54.140,1389670
+123,Blast Away! (Gummi Ship II),music123.dat,music123.win32.scd,0,Ogg Vorbis,2,48000,2367814,49.329,Yes,158592,3.304,2367814,49.329,1327490
+124,Shipmeisters' Humoresque,music124.dat,music124.win32.scd,0,Ogg Vorbis,2,48000,3368008,70.167,Yes,607488,12.656,3368008,70.167,1617627
+125,Precious Stars in the Sky,music125.dat,music125.win32.scd,0,Ogg Vorbis,2,48000,1978753,41.224,Yes,660416,13.759,1978753,41.224,1006552
+126,Turning the Key,music126.bgm,music126.win32.scd,0,Ogg Vorbis,2,48000,816923,17.019,No,,,,,399751
+127,A Day in Agrabah,music127.dat,music127.win32.scd,0,Ogg Vorbis,2,48000,3812457,79.426,Yes,1545984,32.208,3812457,79.426,2109607
+128,Arabian Dream,music128.dat,music128.win32.scd,0,Ogg Vorbis,2,48000,2928375,61.008,Yes,521088,10.856,2928375,61.008,1611455
+129,Captain Hook's Pirate Ship,music129.dat,music129.win32.scd,0,Ogg Vorbis,2,48000,3073670,64.035,Yes,848960,17.687,3073670,64.035,1475240
+130,Never Land Sky,music130.dat,music130.win32.scd,0,Ogg Vorbis,2,48000,2036475,42.427,Yes,348096,7.252,2036475,42.427,1029243
+131,Night of Fate,music131.dat,music131.win32.scd,0,Ogg Vorbis,2,48000,3152087,65.668,Yes,472832,9.851,3152087,65.668,1678729
+132,Dive into the Heart,music132.bgm,music132.win32.scd,0,Ogg Vorbis,2,48000,2141452,44.614,Yes,367168,7.649,2141452,44.614,1024800
+132,Dive into the Heart,music132.bgm,music132.win32.scd,1,Ogg Vorbis,2,48000,3324720,69.265,Yes,958016,19.959,3324720,69.265,1600230
+132,Dive into the Heart,music132.bgm,music132.win32.scd,2,Ogg Vorbis,2,48000,2958691,61.639,Yes,1186368,24.716,2958691,61.639,1472196
+132,Dive into the Heart,music132.bgm,music132.win32.scd,3,Ogg Vorbis,2,48000,3071907,63.998,Yes,1304640,27.180,3071907,63.998,1486459
+132,Dive into the Heart,music132.bgm,music132.win32.scd,4,Ogg Vorbis,2,48000,3082481,64.218,Yes,720000,15.000,3082481,64.218,1648471
+132,Dive into the Heart,music132.bgm,music132.win32.scd,5,Ogg Vorbis,2,48000,414352,8.632,Yes,401600,8.367,414352,8.632,204314
+132,Dive into the Heart,music132.bgm,music132.win32.scd,6,Ogg Vorbis,2,48000,786201,16.379,Yes,752192,15.671,786201,16.379,383767
+132,Dive into the Heart,music132.bgm,music132.win32.scd,7,Ogg Vorbis,2,48000,2809273,58.527,Yes,444224,9.255,2809273,58.527,1431132
+137,N/A,music137.bgm,music137.win32.scd,,None (empty SCD stub),,,,,,,,,,
+140,Under the Sea,music140.dat,music140.win32.scd,0,Ogg Vorbis,2,48000,2750956,57.312,Yes,504576,10.512,2750956,57.312,1587383
+141,Winnie the Pooh,music141.dat,music141.win32.scd,0,Ogg Vorbis,2,48000,4907520,102.240,Yes,2347328,48.903,4907520,102.240,2367093
+142,Dive into the Heart,music142.bgm,music142.win32.scd,0,Ogg Vorbis,2,48000,2955466,61.572,Yes,590400,12.300,2955466,61.572,1488051
+143,Mickey Mouse March,music143.bgm / music143.dat,music143.win32.scd,0,Ogg Vorbis,2,48000,1512074,31.502,Yes,464256,9.672,1512074,31.502,800438
+144,This is Halloween,music144.dat,music144.win32.scd,0,Ogg Vorbis,2,48000,3298757,68.724,Yes,247424,5.155,3298757,68.724,1640295
+145,Destiny's Force,music145.bgm,music145.win32.scd,0,Ogg Vorbis,2,48000,4352507,90.677,Yes,733760,15.287,4352507,90.677,2338628
+146,Pirate's Gigue,music146.dat,music146.win32.scd,0,Ogg Vorbis,2,48000,2440240,50.838,Yes,348096,7.252,2440240,50.838,1435687
+147,An Adventure in Atlantica,music147.dat,music147.win32.scd,0,Ogg Vorbis,2,48000,2879974,59.999,Yes,435840,9.080,2879974,59.999,1747948
+148,Blast Away! (Gummi Ship III),music148.dat,music148.win32.scd,0,Ogg Vorbis,2,48000,2451456,51.072,Yes,147328,3.069,2451456,51.072,1285209
+149,Spooks of Halloween Town,music149.dat,music149.win32.scd,0,Ogg Vorbis,2,48000,3005392,62.612,Yes,250816,5.225,3005392,62.612,1484922
+150,Squirming Evil,music150.bgm,music150.win32.scd,0,Ogg Vorbis,2,48000,2305947,48.041,Yes,72896,1.519,2305947,48.041,1439695
+151,The Deep End,music151.bgm,music151.win32.scd,0,Ogg Vorbis,2,48000,2877657,59.951,Yes,139840,2.913,2877657,59.951,1413602
+152,Hollow Bastion,music152.dat,music152.win32.scd,0,Ogg Vorbis,2,48000,3680440,76.676,Yes,799872,16.664,3680440,76.676,1875300
+153,Scherzo Di Notte,music153.dat,music153.win32.scd,0,Ogg Vorbis,2,48000,2589198,53.942,Yes,365888,7.623,2589198,53.942,1338340
+154,End of the World,music154.dat,music154.win32.scd,0,Ogg Vorbis,2,48000,4541975,94.624,Yes,405312,8.444,4541975,94.624,2215410
+155,Fragments of Sorrow,music155.dat,music155.win32.scd,0,Ogg Vorbis,2,48000,3104003,64.667,Yes,147648,3.076,3104003,64.667,1567345
+156,Guardando nel buio,music156.bgm,music156.win32.scd,0,Ogg Vorbis,2,48000,6498455,135.384,Yes,884416,18.425,6498455,135.384,3114451
+157,Holy Bananas!,music157.bgm / music157.dat,music157.win32.scd,0,Ogg Vorbis,2,48000,3270245,68.130,Yes,466240,9.713,3270245,68.130,1672986
+158,Bounce-O-Rama,music158.bgm,music158.win32.scd,0,Ogg Vorbis,2,48000,2444088,50.919,Yes,173888,3.623,2444088,50.919,1098826
+159,Once Upon a Time,music159.bgm,music159.win32.scd,0,Ogg Vorbis,2,48000,955136,19.899,No,,,,,348127
+160,Kairi I,music160.bgm,music160.win32.scd,0,Ogg Vorbis,2,48000,1997898,41.623,Yes,600000,12.500,1997898,41.623,1030475
+161,Kairi II,music161.bgm,music161.win32.scd,0,Ogg Vorbis,2,48000,1725439,35.947,Yes,677888,14.123,1725439,35.947,890307
+162,Villains of a Sort (Beginning Only),music162.bgm,music162.win32.scd,0,Ogg Vorbis,2,48000,632847,13.184,No,,,,,255131
+163,Villains of a Sort,music163.bgm,music163.win32.scd,0,Ogg Vorbis,2,48000,1509072,31.439,Yes,360384,7.508,1509072,31.439,763701
+164,Road to a Hero,music164.bgm,music164.win32.scd,0,Ogg Vorbis,2,48000,2041304,42.527,Yes,202944,4.228,2041304,42.527,976980
+165,This is Halloween (Alternate),music165.bgm,music165.win32.scd,0,Ogg Vorbis,2,48000,2159972,44.999,Yes,238144,4.961,2159972,44.999,954987
+166,Villains of a Sort (Alternate?),music166.bgm,music166.win32.scd,0,Ogg Vorbis,2,48000,1098141,22.878,No,,,,,430621
+167,Villains of a Sort (Alternate?),music167.bgm,music167.win32.scd,0,Ogg Vorbis,2,48000,655655,13.659,No,,,,,260245
+168,Villains of a Sort (Alternate?),music168.bgm,music168.win32.scd,0,Ogg Vorbis,2,48000,1173333,24.444,Yes,318016,6.625,1173333,24.444,545952
+169,Villains of a Sort (Alternate?),music169.bgm,music169.win32.scd,0,Ogg Vorbis,2,48000,734573,15.304,No,,,,,291076
+170,A Piece of Peace,music170.bgm,music170.win32.scd,0,Ogg Vorbis,2,48000,960333,20.007,Yes,320128,6.669,960333,20.007,489041
+171,Villains of a Sort (Alternate?),music171.bgm,music171.win32.scd,0,Ogg Vorbis,2,48000,280984,5.854,No,,,,,112449
+172,A Walk in Adante,music172.bgm,music172.win32.scd,0,Ogg Vorbis,2,48000,2089724,43.536,Yes,935104,19.481,2089724,43.536,953646
+173,No Time to Think,music173.bgm,music173.win32.scd,0,Ogg Vorbis,2,48000,596180,12.420,Yes,46912,0.977,596180,12.420,320909
+174,An Intense Situation,music174.bgm,music174.win32.scd,0,Ogg Vorbis,2,48000,976015,20.334,Yes,151232,3.151,976015,20.334,509009
+175,???,music175.bgm,music175.win32.scd,0,Ogg Vorbis,2,48000,576000,12.000,No,,,,,252389
+176,???,music176.bgm,music176.win32.scd,0,Ogg Vorbis,2,48000,2350354,48.966,Yes,907840,18.913,2350354,48.966,1158302
+177,Tricksy Clock,music177.bgm,music177.win32.scd,0,Ogg Vorbis,2,48000,1925584,40.116,No,,,,,834366
+178,???,music178.bgm,music178.win32.scd,0,Ogg Vorbis,2,48000,2340005,48.750,Yes,178496,3.719,2340005,48.750,1053448
+179,Miracle,music179.bgm,music179.win32.scd,0,Ogg Vorbis,2,48000,741876,15.456,No,,,,,360501
+180,Kairi III,music180.bgm,music180.win32.scd,0,Ogg Vorbis,2,48000,2464691,51.348,Yes,1100224,22.921,2464691,51.348,1223687
+181,HIKARI (KINGDOM HEARTS Instrumental Version),music181.bgm,music181.win32.scd,0,Ogg Vorbis,2,48000,3338985,69.562,No,,,,,1590166
+182,Mickey Mouse March (Intro),music182.bgm,music182.win32.scd,0,Ogg Vorbis,2,48000,277522,5.782,No,,,,,124296
+183,Oopsy-Daisy,music183.bgm,music183.win32.scd,0,Ogg Vorbis,2,48000,1173120,24.440,No,,,,,450499
+184,Merlin's Magical House,music184.bgm / music184.dat,music184.win32.scd,0,Ogg Vorbis,2,48000,2285982,47.625,Yes,274304,5.715,2285982,47.625,1223406
+185,Forze Del Male,music185.bgm,music185.win32.scd,0,Ogg Vorbis,2,48000,5092182,106.087,Yes,536256,11.172,5092182,106.087,2453619
+186,Oopsy-Daisy,music186.bgm,music186.win32.scd,0,Ogg Vorbis,2,48000,106088,2.210,No,,,,,46614
+187,Just an Itty Bitty Too Much,music187.bgm,music187.win32.scd,0,Ogg Vorbis,2,48000,920793,19.183,Yes,344832,7.184,920793,19.183,395024
+188,???,music188.bgm,music188.win32.scd,0,Ogg Vorbis,2,48000,2070018,43.125,Yes,269824,5.621,2070018,43.125,1062803
+189,Blast Away! (Gummi Ship I) (Slowed End),music189.bgm,music189.win32.scd,0,Ogg Vorbis,2,48000,492926,10.269,No,,,,,231709
+190,Blast Away! (Gummi Ship I) (Orchestral Hit End),music190.bgm,music190.win32.scd,0,Ogg Vorbis,2,48000,563478,11.739,No,,,,,226181
+191,Beyond the Door,music191.bgm,music191.win32.scd,0,Ogg Vorbis,2,48000,3365466,70.114,No,,,,,1697386
+192,Always on My Mind,music192.bgm,music192.win32.scd,0,Ogg Vorbis,2,48000,7272871,151.518,No,,,,,3278035
+193,Dearly Beloved -Reprise-,music193.bgm,music193.win32.scd,0,Ogg Vorbis,2,48000,1728972,36.020,Yes,192896,4.019,1728972,36.020,743997
+194,Guardando nel buio (section),music194.bgm,music194.win32.scd,0,Ogg Vorbis,2,48000,5910935,123.144,Yes,296640,6.180,5910935,123.144,2822079
+196,One-Winged Angel (from FINAL FANTASY VII),music196.bgm,music196.win32.scd,0,Ogg Vorbis,2,48000,5569365,116.028,Yes,961088,20.023,5569365,116.028,2618481
+197,A Night on the Bare Mountain,music197.bgm,music197.win32.scd,0,Ogg Vorbis,2,48000,6579784,137.079,Yes,956864,19.935,6579784,137.079,3154291
