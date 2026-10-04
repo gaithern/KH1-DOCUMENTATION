@@ -1,4 +1,1409 @@
-Accessory,File,Offset,Value (HEX),Value Type,Value,Notes
-Protect Chain,btltbl.bin,32E6,00,Int,0,HP
-Protect Chain,btltbl.bin,32E7,00,Int,0,MP
-Protect Chain,btltbl.bin,32E8,FB,Int,251,STR
+Record Index,Item Index,Accessory,File,Offset,Field,Value (HEX),Value
+0,17,Protect Chain,btltbl.bin,2E58,Max HP,00,0
+0,17,Protect Chain,btltbl.bin,2E59,Max MP,00,0
+0,17,Protect Chain,btltbl.bin,2E5A,STR,00,0
+0,17,Protect Chain,btltbl.bin,2E5B,DEF,01,1
+0,17,Protect Chain,btltbl.bin,2E5C,AP,00,0
+0,17,Protect Chain,btltbl.bin,2E5D,??? (+05),00,0
+0,17,Protect Chain,btltbl.bin,2E5E,Resist 00 Unknown,64,100
+0,17,Protect Chain,btltbl.bin,2E5F,Resist 01 Physical,64,100
+0,17,Protect Chain,btltbl.bin,2E60,Resist 02 Fire,64,100
+0,17,Protect Chain,btltbl.bin,2E61,Resist 03 Blizzard,64,100
+0,17,Protect Chain,btltbl.bin,2E62,Resist 04 Thunder,64,100
+0,17,Protect Chain,btltbl.bin,2E63,Resist 05 Unknown,64,100
+0,17,Protect Chain,btltbl.bin,2E64,Resist 06 Unknown,64,100
+0,17,Protect Chain,btltbl.bin,2E65,Resist 07 Unknown,64,100
+0,17,Protect Chain,btltbl.bin,2E66,Resist 08 Percent HP,64,100
+0,17,Protect Chain,btltbl.bin,2E67,Resist 09 Stop,64,100
+0,17,Protect Chain,btltbl.bin,2E68,Resist 0A Stun,64,100
+0,17,Protect Chain,btltbl.bin,2E69,Resist 0B Heal,64,100
+0,17,Protect Chain,btltbl.bin,2E6A,Resist 0C Unknown,64,100
+0,17,Protect Chain,btltbl.bin,2E6B,Resist 0D Unknown,64,100
+0,17,Protect Chain,btltbl.bin,2E6C,Resist 0E Unknown,64,100
+0,17,Protect Chain,btltbl.bin,2E6D,Resist 0F Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E6E,Max HP,00,0
+1,18,Protera Chain,btltbl.bin,2E6F,Max MP,00,0
+1,18,Protera Chain,btltbl.bin,2E70,STR,00,0
+1,18,Protera Chain,btltbl.bin,2E71,DEF,02,2
+1,18,Protera Chain,btltbl.bin,2E72,AP,00,0
+1,18,Protera Chain,btltbl.bin,2E73,??? (+05),00,0
+1,18,Protera Chain,btltbl.bin,2E74,Resist 00 Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E75,Resist 01 Physical,64,100
+1,18,Protera Chain,btltbl.bin,2E76,Resist 02 Fire,64,100
+1,18,Protera Chain,btltbl.bin,2E77,Resist 03 Blizzard,64,100
+1,18,Protera Chain,btltbl.bin,2E78,Resist 04 Thunder,64,100
+1,18,Protera Chain,btltbl.bin,2E79,Resist 05 Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E7A,Resist 06 Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E7B,Resist 07 Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E7C,Resist 08 Percent HP,64,100
+1,18,Protera Chain,btltbl.bin,2E7D,Resist 09 Stop,64,100
+1,18,Protera Chain,btltbl.bin,2E7E,Resist 0A Stun,64,100
+1,18,Protera Chain,btltbl.bin,2E7F,Resist 0B Heal,64,100
+1,18,Protera Chain,btltbl.bin,2E80,Resist 0C Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E81,Resist 0D Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E82,Resist 0E Unknown,64,100
+1,18,Protera Chain,btltbl.bin,2E83,Resist 0F Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E84,Max HP,00,0
+2,19,Protega Chain,btltbl.bin,2E85,Max MP,00,0
+2,19,Protega Chain,btltbl.bin,2E86,STR,00,0
+2,19,Protega Chain,btltbl.bin,2E87,DEF,03,3
+2,19,Protega Chain,btltbl.bin,2E88,AP,00,0
+2,19,Protega Chain,btltbl.bin,2E89,??? (+05),00,0
+2,19,Protega Chain,btltbl.bin,2E8A,Resist 00 Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E8B,Resist 01 Physical,64,100
+2,19,Protega Chain,btltbl.bin,2E8C,Resist 02 Fire,64,100
+2,19,Protega Chain,btltbl.bin,2E8D,Resist 03 Blizzard,64,100
+2,19,Protega Chain,btltbl.bin,2E8E,Resist 04 Thunder,64,100
+2,19,Protega Chain,btltbl.bin,2E8F,Resist 05 Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E90,Resist 06 Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E91,Resist 07 Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E92,Resist 08 Percent HP,64,100
+2,19,Protega Chain,btltbl.bin,2E93,Resist 09 Stop,64,100
+2,19,Protega Chain,btltbl.bin,2E94,Resist 0A Stun,64,100
+2,19,Protega Chain,btltbl.bin,2E95,Resist 0B Heal,64,100
+2,19,Protega Chain,btltbl.bin,2E96,Resist 0C Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E97,Resist 0D Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E98,Resist 0E Unknown,64,100
+2,19,Protega Chain,btltbl.bin,2E99,Resist 0F Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2E9A,Max HP,00,0
+3,20,Fire Ring,btltbl.bin,2E9B,Max MP,00,0
+3,20,Fire Ring,btltbl.bin,2E9C,STR,00,0
+3,20,Fire Ring,btltbl.bin,2E9D,DEF,01,1
+3,20,Fire Ring,btltbl.bin,2E9E,AP,00,0
+3,20,Fire Ring,btltbl.bin,2E9F,??? (+05),00,0
+3,20,Fire Ring,btltbl.bin,2EA0,Resist 00 Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2EA1,Resist 01 Physical,64,100
+3,20,Fire Ring,btltbl.bin,2EA2,Resist 02 Fire,50,80
+3,20,Fire Ring,btltbl.bin,2EA3,Resist 03 Blizzard,64,100
+3,20,Fire Ring,btltbl.bin,2EA4,Resist 04 Thunder,64,100
+3,20,Fire Ring,btltbl.bin,2EA5,Resist 05 Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2EA6,Resist 06 Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2EA7,Resist 07 Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2EA8,Resist 08 Percent HP,64,100
+3,20,Fire Ring,btltbl.bin,2EA9,Resist 09 Stop,64,100
+3,20,Fire Ring,btltbl.bin,2EAA,Resist 0A Stun,64,100
+3,20,Fire Ring,btltbl.bin,2EAB,Resist 0B Heal,64,100
+3,20,Fire Ring,btltbl.bin,2EAC,Resist 0C Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2EAD,Resist 0D Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2EAE,Resist 0E Unknown,64,100
+3,20,Fire Ring,btltbl.bin,2EAF,Resist 0F Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EB0,Max HP,00,0
+4,21,Fira Ring,btltbl.bin,2EB1,Max MP,00,0
+4,21,Fira Ring,btltbl.bin,2EB2,STR,00,0
+4,21,Fira Ring,btltbl.bin,2EB3,DEF,02,2
+4,21,Fira Ring,btltbl.bin,2EB4,AP,00,0
+4,21,Fira Ring,btltbl.bin,2EB5,??? (+05),00,0
+4,21,Fira Ring,btltbl.bin,2EB6,Resist 00 Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EB7,Resist 01 Physical,64,100
+4,21,Fira Ring,btltbl.bin,2EB8,Resist 02 Fire,50,80
+4,21,Fira Ring,btltbl.bin,2EB9,Resist 03 Blizzard,64,100
+4,21,Fira Ring,btltbl.bin,2EBA,Resist 04 Thunder,64,100
+4,21,Fira Ring,btltbl.bin,2EBB,Resist 05 Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EBC,Resist 06 Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EBD,Resist 07 Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EBE,Resist 08 Percent HP,64,100
+4,21,Fira Ring,btltbl.bin,2EBF,Resist 09 Stop,64,100
+4,21,Fira Ring,btltbl.bin,2EC0,Resist 0A Stun,64,100
+4,21,Fira Ring,btltbl.bin,2EC1,Resist 0B Heal,64,100
+4,21,Fira Ring,btltbl.bin,2EC2,Resist 0C Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EC3,Resist 0D Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EC4,Resist 0E Unknown,64,100
+4,21,Fira Ring,btltbl.bin,2EC5,Resist 0F Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2EC6,Max HP,00,0
+5,22,Firaga Ring,btltbl.bin,2EC7,Max MP,00,0
+5,22,Firaga Ring,btltbl.bin,2EC8,STR,00,0
+5,22,Firaga Ring,btltbl.bin,2EC9,DEF,03,3
+5,22,Firaga Ring,btltbl.bin,2ECA,AP,00,0
+5,22,Firaga Ring,btltbl.bin,2ECB,??? (+05),00,0
+5,22,Firaga Ring,btltbl.bin,2ECC,Resist 00 Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2ECD,Resist 01 Physical,64,100
+5,22,Firaga Ring,btltbl.bin,2ECE,Resist 02 Fire,50,80
+5,22,Firaga Ring,btltbl.bin,2ECF,Resist 03 Blizzard,64,100
+5,22,Firaga Ring,btltbl.bin,2ED0,Resist 04 Thunder,64,100
+5,22,Firaga Ring,btltbl.bin,2ED1,Resist 05 Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2ED2,Resist 06 Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2ED3,Resist 07 Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2ED4,Resist 08 Percent HP,64,100
+5,22,Firaga Ring,btltbl.bin,2ED5,Resist 09 Stop,64,100
+5,22,Firaga Ring,btltbl.bin,2ED6,Resist 0A Stun,64,100
+5,22,Firaga Ring,btltbl.bin,2ED7,Resist 0B Heal,64,100
+5,22,Firaga Ring,btltbl.bin,2ED8,Resist 0C Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2ED9,Resist 0D Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2EDA,Resist 0E Unknown,64,100
+5,22,Firaga Ring,btltbl.bin,2EDB,Resist 0F Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EDC,Max HP,00,0
+6,23,Blizzard Ring,btltbl.bin,2EDD,Max MP,00,0
+6,23,Blizzard Ring,btltbl.bin,2EDE,STR,00,0
+6,23,Blizzard Ring,btltbl.bin,2EDF,DEF,01,1
+6,23,Blizzard Ring,btltbl.bin,2EE0,AP,00,0
+6,23,Blizzard Ring,btltbl.bin,2EE1,??? (+05),00,0
+6,23,Blizzard Ring,btltbl.bin,2EE2,Resist 00 Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EE3,Resist 01 Physical,64,100
+6,23,Blizzard Ring,btltbl.bin,2EE4,Resist 02 Fire,64,100
+6,23,Blizzard Ring,btltbl.bin,2EE5,Resist 03 Blizzard,50,80
+6,23,Blizzard Ring,btltbl.bin,2EE6,Resist 04 Thunder,64,100
+6,23,Blizzard Ring,btltbl.bin,2EE7,Resist 05 Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EE8,Resist 06 Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EE9,Resist 07 Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EEA,Resist 08 Percent HP,64,100
+6,23,Blizzard Ring,btltbl.bin,2EEB,Resist 09 Stop,64,100
+6,23,Blizzard Ring,btltbl.bin,2EEC,Resist 0A Stun,64,100
+6,23,Blizzard Ring,btltbl.bin,2EED,Resist 0B Heal,64,100
+6,23,Blizzard Ring,btltbl.bin,2EEE,Resist 0C Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EEF,Resist 0D Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EF0,Resist 0E Unknown,64,100
+6,23,Blizzard Ring,btltbl.bin,2EF1,Resist 0F Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2EF2,Max HP,00,0
+7,24,Blizzara Ring,btltbl.bin,2EF3,Max MP,00,0
+7,24,Blizzara Ring,btltbl.bin,2EF4,STR,00,0
+7,24,Blizzara Ring,btltbl.bin,2EF5,DEF,02,2
+7,24,Blizzara Ring,btltbl.bin,2EF6,AP,00,0
+7,24,Blizzara Ring,btltbl.bin,2EF7,??? (+05),00,0
+7,24,Blizzara Ring,btltbl.bin,2EF8,Resist 00 Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2EF9,Resist 01 Physical,64,100
+7,24,Blizzara Ring,btltbl.bin,2EFA,Resist 02 Fire,64,100
+7,24,Blizzara Ring,btltbl.bin,2EFB,Resist 03 Blizzard,50,80
+7,24,Blizzara Ring,btltbl.bin,2EFC,Resist 04 Thunder,64,100
+7,24,Blizzara Ring,btltbl.bin,2EFD,Resist 05 Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2EFE,Resist 06 Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2EFF,Resist 07 Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2F00,Resist 08 Percent HP,64,100
+7,24,Blizzara Ring,btltbl.bin,2F01,Resist 09 Stop,64,100
+7,24,Blizzara Ring,btltbl.bin,2F02,Resist 0A Stun,64,100
+7,24,Blizzara Ring,btltbl.bin,2F03,Resist 0B Heal,64,100
+7,24,Blizzara Ring,btltbl.bin,2F04,Resist 0C Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2F05,Resist 0D Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2F06,Resist 0E Unknown,64,100
+7,24,Blizzara Ring,btltbl.bin,2F07,Resist 0F Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F08,Max HP,00,0
+8,25,Blizzaga Ring,btltbl.bin,2F09,Max MP,00,0
+8,25,Blizzaga Ring,btltbl.bin,2F0A,STR,00,0
+8,25,Blizzaga Ring,btltbl.bin,2F0B,DEF,03,3
+8,25,Blizzaga Ring,btltbl.bin,2F0C,AP,00,0
+8,25,Blizzaga Ring,btltbl.bin,2F0D,??? (+05),00,0
+8,25,Blizzaga Ring,btltbl.bin,2F0E,Resist 00 Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F0F,Resist 01 Physical,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F10,Resist 02 Fire,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F11,Resist 03 Blizzard,50,80
+8,25,Blizzaga Ring,btltbl.bin,2F12,Resist 04 Thunder,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F13,Resist 05 Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F14,Resist 06 Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F15,Resist 07 Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F16,Resist 08 Percent HP,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F17,Resist 09 Stop,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F18,Resist 0A Stun,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F19,Resist 0B Heal,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F1A,Resist 0C Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F1B,Resist 0D Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F1C,Resist 0E Unknown,64,100
+8,25,Blizzaga Ring,btltbl.bin,2F1D,Resist 0F Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F1E,Max HP,00,0
+9,26,Thunder Ring,btltbl.bin,2F1F,Max MP,00,0
+9,26,Thunder Ring,btltbl.bin,2F20,STR,00,0
+9,26,Thunder Ring,btltbl.bin,2F21,DEF,01,1
+9,26,Thunder Ring,btltbl.bin,2F22,AP,00,0
+9,26,Thunder Ring,btltbl.bin,2F23,??? (+05),00,0
+9,26,Thunder Ring,btltbl.bin,2F24,Resist 00 Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F25,Resist 01 Physical,64,100
+9,26,Thunder Ring,btltbl.bin,2F26,Resist 02 Fire,64,100
+9,26,Thunder Ring,btltbl.bin,2F27,Resist 03 Blizzard,64,100
+9,26,Thunder Ring,btltbl.bin,2F28,Resist 04 Thunder,50,80
+9,26,Thunder Ring,btltbl.bin,2F29,Resist 05 Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F2A,Resist 06 Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F2B,Resist 07 Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F2C,Resist 08 Percent HP,64,100
+9,26,Thunder Ring,btltbl.bin,2F2D,Resist 09 Stop,64,100
+9,26,Thunder Ring,btltbl.bin,2F2E,Resist 0A Stun,64,100
+9,26,Thunder Ring,btltbl.bin,2F2F,Resist 0B Heal,64,100
+9,26,Thunder Ring,btltbl.bin,2F30,Resist 0C Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F31,Resist 0D Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F32,Resist 0E Unknown,64,100
+9,26,Thunder Ring,btltbl.bin,2F33,Resist 0F Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F34,Max HP,00,0
+10,27,Thundara Ring,btltbl.bin,2F35,Max MP,00,0
+10,27,Thundara Ring,btltbl.bin,2F36,STR,00,0
+10,27,Thundara Ring,btltbl.bin,2F37,DEF,02,2
+10,27,Thundara Ring,btltbl.bin,2F38,AP,00,0
+10,27,Thundara Ring,btltbl.bin,2F39,??? (+05),00,0
+10,27,Thundara Ring,btltbl.bin,2F3A,Resist 00 Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F3B,Resist 01 Physical,64,100
+10,27,Thundara Ring,btltbl.bin,2F3C,Resist 02 Fire,64,100
+10,27,Thundara Ring,btltbl.bin,2F3D,Resist 03 Blizzard,64,100
+10,27,Thundara Ring,btltbl.bin,2F3E,Resist 04 Thunder,50,80
+10,27,Thundara Ring,btltbl.bin,2F3F,Resist 05 Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F40,Resist 06 Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F41,Resist 07 Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F42,Resist 08 Percent HP,64,100
+10,27,Thundara Ring,btltbl.bin,2F43,Resist 09 Stop,64,100
+10,27,Thundara Ring,btltbl.bin,2F44,Resist 0A Stun,64,100
+10,27,Thundara Ring,btltbl.bin,2F45,Resist 0B Heal,64,100
+10,27,Thundara Ring,btltbl.bin,2F46,Resist 0C Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F47,Resist 0D Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F48,Resist 0E Unknown,64,100
+10,27,Thundara Ring,btltbl.bin,2F49,Resist 0F Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F4A,Max HP,00,0
+11,28,Thundaga Ring,btltbl.bin,2F4B,Max MP,00,0
+11,28,Thundaga Ring,btltbl.bin,2F4C,STR,00,0
+11,28,Thundaga Ring,btltbl.bin,2F4D,DEF,03,3
+11,28,Thundaga Ring,btltbl.bin,2F4E,AP,00,0
+11,28,Thundaga Ring,btltbl.bin,2F4F,??? (+05),00,0
+11,28,Thundaga Ring,btltbl.bin,2F50,Resist 00 Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F51,Resist 01 Physical,64,100
+11,28,Thundaga Ring,btltbl.bin,2F52,Resist 02 Fire,64,100
+11,28,Thundaga Ring,btltbl.bin,2F53,Resist 03 Blizzard,64,100
+11,28,Thundaga Ring,btltbl.bin,2F54,Resist 04 Thunder,50,80
+11,28,Thundaga Ring,btltbl.bin,2F55,Resist 05 Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F56,Resist 06 Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F57,Resist 07 Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F58,Resist 08 Percent HP,64,100
+11,28,Thundaga Ring,btltbl.bin,2F59,Resist 09 Stop,64,100
+11,28,Thundaga Ring,btltbl.bin,2F5A,Resist 0A Stun,64,100
+11,28,Thundaga Ring,btltbl.bin,2F5B,Resist 0B Heal,64,100
+11,28,Thundaga Ring,btltbl.bin,2F5C,Resist 0C Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F5D,Resist 0D Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F5E,Resist 0E Unknown,64,100
+11,28,Thundaga Ring,btltbl.bin,2F5F,Resist 0F Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F60,Max HP,00,0
+12,29,Ability Stud,btltbl.bin,2F61,Max MP,00,0
+12,29,Ability Stud,btltbl.bin,2F62,STR,00,0
+12,29,Ability Stud,btltbl.bin,2F63,DEF,00,0
+12,29,Ability Stud,btltbl.bin,2F64,AP,02,2
+12,29,Ability Stud,btltbl.bin,2F65,??? (+05),00,0
+12,29,Ability Stud,btltbl.bin,2F66,Resist 00 Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F67,Resist 01 Physical,64,100
+12,29,Ability Stud,btltbl.bin,2F68,Resist 02 Fire,64,100
+12,29,Ability Stud,btltbl.bin,2F69,Resist 03 Blizzard,64,100
+12,29,Ability Stud,btltbl.bin,2F6A,Resist 04 Thunder,64,100
+12,29,Ability Stud,btltbl.bin,2F6B,Resist 05 Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F6C,Resist 06 Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F6D,Resist 07 Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F6E,Resist 08 Percent HP,64,100
+12,29,Ability Stud,btltbl.bin,2F6F,Resist 09 Stop,64,100
+12,29,Ability Stud,btltbl.bin,2F70,Resist 0A Stun,64,100
+12,29,Ability Stud,btltbl.bin,2F71,Resist 0B Heal,64,100
+12,29,Ability Stud,btltbl.bin,2F72,Resist 0C Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F73,Resist 0D Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F74,Resist 0E Unknown,64,100
+12,29,Ability Stud,btltbl.bin,2F75,Resist 0F Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F76,Max HP,00,0
+13,30,Guard Earring,btltbl.bin,2F77,Max MP,00,0
+13,30,Guard Earring,btltbl.bin,2F78,STR,00,0
+13,30,Guard Earring,btltbl.bin,2F79,DEF,01,1
+13,30,Guard Earring,btltbl.bin,2F7A,AP,03,3
+13,30,Guard Earring,btltbl.bin,2F7B,??? (+05),00,0
+13,30,Guard Earring,btltbl.bin,2F7C,Resist 00 Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F7D,Resist 01 Physical,64,100
+13,30,Guard Earring,btltbl.bin,2F7E,Resist 02 Fire,64,100
+13,30,Guard Earring,btltbl.bin,2F7F,Resist 03 Blizzard,64,100
+13,30,Guard Earring,btltbl.bin,2F80,Resist 04 Thunder,64,100
+13,30,Guard Earring,btltbl.bin,2F81,Resist 05 Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F82,Resist 06 Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F83,Resist 07 Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F84,Resist 08 Percent HP,64,100
+13,30,Guard Earring,btltbl.bin,2F85,Resist 09 Stop,64,100
+13,30,Guard Earring,btltbl.bin,2F86,Resist 0A Stun,64,100
+13,30,Guard Earring,btltbl.bin,2F87,Resist 0B Heal,64,100
+13,30,Guard Earring,btltbl.bin,2F88,Resist 0C Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F89,Resist 0D Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F8A,Resist 0E Unknown,64,100
+13,30,Guard Earring,btltbl.bin,2F8B,Resist 0F Unknown,64,100
+14,31,Master Earring,btltbl.bin,2F8C,Max HP,00,0
+14,31,Master Earring,btltbl.bin,2F8D,Max MP,00,0
+14,31,Master Earring,btltbl.bin,2F8E,STR,00,0
+14,31,Master Earring,btltbl.bin,2F8F,DEF,02,2
+14,31,Master Earring,btltbl.bin,2F90,AP,04,4
+14,31,Master Earring,btltbl.bin,2F91,??? (+05),00,0
+14,31,Master Earring,btltbl.bin,2F92,Resist 00 Unknown,64,100
+14,31,Master Earring,btltbl.bin,2F93,Resist 01 Physical,64,100
+14,31,Master Earring,btltbl.bin,2F94,Resist 02 Fire,64,100
+14,31,Master Earring,btltbl.bin,2F95,Resist 03 Blizzard,64,100
+14,31,Master Earring,btltbl.bin,2F96,Resist 04 Thunder,64,100
+14,31,Master Earring,btltbl.bin,2F97,Resist 05 Unknown,64,100
+14,31,Master Earring,btltbl.bin,2F98,Resist 06 Unknown,64,100
+14,31,Master Earring,btltbl.bin,2F99,Resist 07 Unknown,64,100
+14,31,Master Earring,btltbl.bin,2F9A,Resist 08 Percent HP,64,100
+14,31,Master Earring,btltbl.bin,2F9B,Resist 09 Stop,64,100
+14,31,Master Earring,btltbl.bin,2F9C,Resist 0A Stun,64,100
+14,31,Master Earring,btltbl.bin,2F9D,Resist 0B Heal,64,100
+14,31,Master Earring,btltbl.bin,2F9E,Resist 0C Unknown,64,100
+14,31,Master Earring,btltbl.bin,2F9F,Resist 0D Unknown,64,100
+14,31,Master Earring,btltbl.bin,2FA0,Resist 0E Unknown,64,100
+14,31,Master Earring,btltbl.bin,2FA1,Resist 0F Unknown,64,100
+15,32,Chaos Ring,btltbl.bin,2FA2,Max HP,00,0
+15,32,Chaos Ring,btltbl.bin,2FA3,Max MP,00,0
+15,32,Chaos Ring,btltbl.bin,2FA4,STR,00,0
+15,32,Chaos Ring,btltbl.bin,2FA5,DEF,02,2
+15,32,Chaos Ring,btltbl.bin,2FA6,AP,00,0
+15,32,Chaos Ring,btltbl.bin,2FA7,??? (+05),00,0
+15,32,Chaos Ring,btltbl.bin,2FA8,Resist 00 Unknown,64,100
+15,32,Chaos Ring,btltbl.bin,2FA9,Resist 01 Physical,64,100
+15,32,Chaos Ring,btltbl.bin,2FAA,Resist 02 Fire,64,100
+15,32,Chaos Ring,btltbl.bin,2FAB,Resist 03 Blizzard,64,100
+15,32,Chaos Ring,btltbl.bin,2FAC,Resist 04 Thunder,64,100
+15,32,Chaos Ring,btltbl.bin,2FAD,Resist 05 Unknown,50,80
+15,32,Chaos Ring,btltbl.bin,2FAE,Resist 06 Unknown,64,100
+15,32,Chaos Ring,btltbl.bin,2FAF,Resist 07 Unknown,64,100
+15,32,Chaos Ring,btltbl.bin,2FB0,Resist 08 Percent HP,64,100
+15,32,Chaos Ring,btltbl.bin,2FB1,Resist 09 Stop,64,100
+15,32,Chaos Ring,btltbl.bin,2FB2,Resist 0A Stun,64,100
+15,32,Chaos Ring,btltbl.bin,2FB3,Resist 0B Heal,64,100
+15,32,Chaos Ring,btltbl.bin,2FB4,Resist 0C Unknown,64,100
+15,32,Chaos Ring,btltbl.bin,2FB5,Resist 0D Unknown,64,100
+15,32,Chaos Ring,btltbl.bin,2FB6,Resist 0E Unknown,64,100
+15,32,Chaos Ring,btltbl.bin,2FB7,Resist 0F Unknown,64,100
+16,33,Dark Ring,btltbl.bin,2FB8,Max HP,00,0
+16,33,Dark Ring,btltbl.bin,2FB9,Max MP,00,0
+16,33,Dark Ring,btltbl.bin,2FBA,STR,00,0
+16,33,Dark Ring,btltbl.bin,2FBB,DEF,03,3
+16,33,Dark Ring,btltbl.bin,2FBC,AP,00,0
+16,33,Dark Ring,btltbl.bin,2FBD,??? (+05),00,0
+16,33,Dark Ring,btltbl.bin,2FBE,Resist 00 Unknown,64,100
+16,33,Dark Ring,btltbl.bin,2FBF,Resist 01 Physical,64,100
+16,33,Dark Ring,btltbl.bin,2FC0,Resist 02 Fire,64,100
+16,33,Dark Ring,btltbl.bin,2FC1,Resist 03 Blizzard,64,100
+16,33,Dark Ring,btltbl.bin,2FC2,Resist 04 Thunder,64,100
+16,33,Dark Ring,btltbl.bin,2FC3,Resist 05 Unknown,50,80
+16,33,Dark Ring,btltbl.bin,2FC4,Resist 06 Unknown,64,100
+16,33,Dark Ring,btltbl.bin,2FC5,Resist 07 Unknown,64,100
+16,33,Dark Ring,btltbl.bin,2FC6,Resist 08 Percent HP,64,100
+16,33,Dark Ring,btltbl.bin,2FC7,Resist 09 Stop,64,100
+16,33,Dark Ring,btltbl.bin,2FC8,Resist 0A Stun,64,100
+16,33,Dark Ring,btltbl.bin,2FC9,Resist 0B Heal,64,100
+16,33,Dark Ring,btltbl.bin,2FCA,Resist 0C Unknown,64,100
+16,33,Dark Ring,btltbl.bin,2FCB,Resist 0D Unknown,64,100
+16,33,Dark Ring,btltbl.bin,2FCC,Resist 0E Unknown,64,100
+16,33,Dark Ring,btltbl.bin,2FCD,Resist 0F Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FCE,Max HP,00,0
+17,34,Element Ring,btltbl.bin,2FCF,Max MP,00,0
+17,34,Element Ring,btltbl.bin,2FD0,STR,00,0
+17,34,Element Ring,btltbl.bin,2FD1,DEF,02,2
+17,34,Element Ring,btltbl.bin,2FD2,AP,00,0
+17,34,Element Ring,btltbl.bin,2FD3,??? (+05),00,0
+17,34,Element Ring,btltbl.bin,2FD4,Resist 00 Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FD5,Resist 01 Physical,64,100
+17,34,Element Ring,btltbl.bin,2FD6,Resist 02 Fire,50,80
+17,34,Element Ring,btltbl.bin,2FD7,Resist 03 Blizzard,50,80
+17,34,Element Ring,btltbl.bin,2FD8,Resist 04 Thunder,50,80
+17,34,Element Ring,btltbl.bin,2FD9,Resist 05 Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FDA,Resist 06 Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FDB,Resist 07 Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FDC,Resist 08 Percent HP,64,100
+17,34,Element Ring,btltbl.bin,2FDD,Resist 09 Stop,64,100
+17,34,Element Ring,btltbl.bin,2FDE,Resist 0A Stun,64,100
+17,34,Element Ring,btltbl.bin,2FDF,Resist 0B Heal,64,100
+17,34,Element Ring,btltbl.bin,2FE0,Resist 0C Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FE1,Resist 0D Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FE2,Resist 0E Unknown,64,100
+17,34,Element Ring,btltbl.bin,2FE3,Resist 0F Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FE4,Max HP,00,0
+18,35,Three Stars,btltbl.bin,2FE5,Max MP,00,0
+18,35,Three Stars,btltbl.bin,2FE6,STR,00,0
+18,35,Three Stars,btltbl.bin,2FE7,DEF,04,4
+18,35,Three Stars,btltbl.bin,2FE8,AP,00,0
+18,35,Three Stars,btltbl.bin,2FE9,??? (+05),00,0
+18,35,Three Stars,btltbl.bin,2FEA,Resist 00 Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FEB,Resist 01 Physical,64,100
+18,35,Three Stars,btltbl.bin,2FEC,Resist 02 Fire,50,80
+18,35,Three Stars,btltbl.bin,2FED,Resist 03 Blizzard,50,80
+18,35,Three Stars,btltbl.bin,2FEE,Resist 04 Thunder,50,80
+18,35,Three Stars,btltbl.bin,2FEF,Resist 05 Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FF0,Resist 06 Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FF1,Resist 07 Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FF2,Resist 08 Percent HP,64,100
+18,35,Three Stars,btltbl.bin,2FF3,Resist 09 Stop,64,100
+18,35,Three Stars,btltbl.bin,2FF4,Resist 0A Stun,64,100
+18,35,Three Stars,btltbl.bin,2FF5,Resist 0B Heal,64,100
+18,35,Three Stars,btltbl.bin,2FF6,Resist 0C Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FF7,Resist 0D Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FF8,Resist 0E Unknown,64,100
+18,35,Three Stars,btltbl.bin,2FF9,Resist 0F Unknown,64,100
+19,36,Power Chain,btltbl.bin,2FFA,Max HP,00,0
+19,36,Power Chain,btltbl.bin,2FFB,Max MP,00,0
+19,36,Power Chain,btltbl.bin,2FFC,STR,02,2
+19,36,Power Chain,btltbl.bin,2FFD,DEF,00,0
+19,36,Power Chain,btltbl.bin,2FFE,AP,00,0
+19,36,Power Chain,btltbl.bin,2FFF,??? (+05),00,0
+19,36,Power Chain,btltbl.bin,3000,Resist 00 Unknown,64,100
+19,36,Power Chain,btltbl.bin,3001,Resist 01 Physical,64,100
+19,36,Power Chain,btltbl.bin,3002,Resist 02 Fire,64,100
+19,36,Power Chain,btltbl.bin,3003,Resist 03 Blizzard,64,100
+19,36,Power Chain,btltbl.bin,3004,Resist 04 Thunder,64,100
+19,36,Power Chain,btltbl.bin,3005,Resist 05 Unknown,64,100
+19,36,Power Chain,btltbl.bin,3006,Resist 06 Unknown,64,100
+19,36,Power Chain,btltbl.bin,3007,Resist 07 Unknown,64,100
+19,36,Power Chain,btltbl.bin,3008,Resist 08 Percent HP,64,100
+19,36,Power Chain,btltbl.bin,3009,Resist 09 Stop,64,100
+19,36,Power Chain,btltbl.bin,300A,Resist 0A Stun,64,100
+19,36,Power Chain,btltbl.bin,300B,Resist 0B Heal,64,100
+19,36,Power Chain,btltbl.bin,300C,Resist 0C Unknown,64,100
+19,36,Power Chain,btltbl.bin,300D,Resist 0D Unknown,64,100
+19,36,Power Chain,btltbl.bin,300E,Resist 0E Unknown,64,100
+19,36,Power Chain,btltbl.bin,300F,Resist 0F Unknown,64,100
+20,37,Golem Chain,btltbl.bin,3010,Max HP,00,0
+20,37,Golem Chain,btltbl.bin,3011,Max MP,00,0
+20,37,Golem Chain,btltbl.bin,3012,STR,03,3
+20,37,Golem Chain,btltbl.bin,3013,DEF,01,1
+20,37,Golem Chain,btltbl.bin,3014,AP,00,0
+20,37,Golem Chain,btltbl.bin,3015,??? (+05),00,0
+20,37,Golem Chain,btltbl.bin,3016,Resist 00 Unknown,64,100
+20,37,Golem Chain,btltbl.bin,3017,Resist 01 Physical,64,100
+20,37,Golem Chain,btltbl.bin,3018,Resist 02 Fire,64,100
+20,37,Golem Chain,btltbl.bin,3019,Resist 03 Blizzard,64,100
+20,37,Golem Chain,btltbl.bin,301A,Resist 04 Thunder,64,100
+20,37,Golem Chain,btltbl.bin,301B,Resist 05 Unknown,64,100
+20,37,Golem Chain,btltbl.bin,301C,Resist 06 Unknown,64,100
+20,37,Golem Chain,btltbl.bin,301D,Resist 07 Unknown,64,100
+20,37,Golem Chain,btltbl.bin,301E,Resist 08 Percent HP,64,100
+20,37,Golem Chain,btltbl.bin,301F,Resist 09 Stop,64,100
+20,37,Golem Chain,btltbl.bin,3020,Resist 0A Stun,64,100
+20,37,Golem Chain,btltbl.bin,3021,Resist 0B Heal,64,100
+20,37,Golem Chain,btltbl.bin,3022,Resist 0C Unknown,64,100
+20,37,Golem Chain,btltbl.bin,3023,Resist 0D Unknown,64,100
+20,37,Golem Chain,btltbl.bin,3024,Resist 0E Unknown,64,100
+20,37,Golem Chain,btltbl.bin,3025,Resist 0F Unknown,64,100
+21,38,Titan Chain,btltbl.bin,3026,Max HP,00,0
+21,38,Titan Chain,btltbl.bin,3027,Max MP,00,0
+21,38,Titan Chain,btltbl.bin,3028,STR,04,4
+21,38,Titan Chain,btltbl.bin,3029,DEF,02,2
+21,38,Titan Chain,btltbl.bin,302A,AP,00,0
+21,38,Titan Chain,btltbl.bin,302B,??? (+05),00,0
+21,38,Titan Chain,btltbl.bin,302C,Resist 00 Unknown,64,100
+21,38,Titan Chain,btltbl.bin,302D,Resist 01 Physical,64,100
+21,38,Titan Chain,btltbl.bin,302E,Resist 02 Fire,64,100
+21,38,Titan Chain,btltbl.bin,302F,Resist 03 Blizzard,64,100
+21,38,Titan Chain,btltbl.bin,3030,Resist 04 Thunder,64,100
+21,38,Titan Chain,btltbl.bin,3031,Resist 05 Unknown,64,100
+21,38,Titan Chain,btltbl.bin,3032,Resist 06 Unknown,64,100
+21,38,Titan Chain,btltbl.bin,3033,Resist 07 Unknown,64,100
+21,38,Titan Chain,btltbl.bin,3034,Resist 08 Percent HP,64,100
+21,38,Titan Chain,btltbl.bin,3035,Resist 09 Stop,64,100
+21,38,Titan Chain,btltbl.bin,3036,Resist 0A Stun,64,100
+21,38,Titan Chain,btltbl.bin,3037,Resist 0B Heal,64,100
+21,38,Titan Chain,btltbl.bin,3038,Resist 0C Unknown,64,100
+21,38,Titan Chain,btltbl.bin,3039,Resist 0D Unknown,64,100
+21,38,Titan Chain,btltbl.bin,303A,Resist 0E Unknown,64,100
+21,38,Titan Chain,btltbl.bin,303B,Resist 0F Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,303C,Max HP,03,3
+22,39,Energy Bangle,btltbl.bin,303D,Max MP,00,0
+22,39,Energy Bangle,btltbl.bin,303E,STR,00,0
+22,39,Energy Bangle,btltbl.bin,303F,DEF,01,1
+22,39,Energy Bangle,btltbl.bin,3040,AP,00,0
+22,39,Energy Bangle,btltbl.bin,3041,??? (+05),00,0
+22,39,Energy Bangle,btltbl.bin,3042,Resist 00 Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,3043,Resist 01 Physical,64,100
+22,39,Energy Bangle,btltbl.bin,3044,Resist 02 Fire,64,100
+22,39,Energy Bangle,btltbl.bin,3045,Resist 03 Blizzard,64,100
+22,39,Energy Bangle,btltbl.bin,3046,Resist 04 Thunder,64,100
+22,39,Energy Bangle,btltbl.bin,3047,Resist 05 Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,3048,Resist 06 Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,3049,Resist 07 Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,304A,Resist 08 Percent HP,64,100
+22,39,Energy Bangle,btltbl.bin,304B,Resist 09 Stop,64,100
+22,39,Energy Bangle,btltbl.bin,304C,Resist 0A Stun,64,100
+22,39,Energy Bangle,btltbl.bin,304D,Resist 0B Heal,64,100
+22,39,Energy Bangle,btltbl.bin,304E,Resist 0C Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,304F,Resist 0D Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,3050,Resist 0E Unknown,64,100
+22,39,Energy Bangle,btltbl.bin,3051,Resist 0F Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,3052,Max HP,06,6
+23,40,Angel Bangle,btltbl.bin,3053,Max MP,00,0
+23,40,Angel Bangle,btltbl.bin,3054,STR,00,0
+23,40,Angel Bangle,btltbl.bin,3055,DEF,02,2
+23,40,Angel Bangle,btltbl.bin,3056,AP,00,0
+23,40,Angel Bangle,btltbl.bin,3057,??? (+05),00,0
+23,40,Angel Bangle,btltbl.bin,3058,Resist 00 Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,3059,Resist 01 Physical,64,100
+23,40,Angel Bangle,btltbl.bin,305A,Resist 02 Fire,64,100
+23,40,Angel Bangle,btltbl.bin,305B,Resist 03 Blizzard,64,100
+23,40,Angel Bangle,btltbl.bin,305C,Resist 04 Thunder,64,100
+23,40,Angel Bangle,btltbl.bin,305D,Resist 05 Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,305E,Resist 06 Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,305F,Resist 07 Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,3060,Resist 08 Percent HP,64,100
+23,40,Angel Bangle,btltbl.bin,3061,Resist 09 Stop,64,100
+23,40,Angel Bangle,btltbl.bin,3062,Resist 0A Stun,64,100
+23,40,Angel Bangle,btltbl.bin,3063,Resist 0B Heal,64,100
+23,40,Angel Bangle,btltbl.bin,3064,Resist 0C Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,3065,Resist 0D Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,3066,Resist 0E Unknown,64,100
+23,40,Angel Bangle,btltbl.bin,3067,Resist 0F Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,3068,Max HP,09,9
+24,41,Gaia Bangle,btltbl.bin,3069,Max MP,00,0
+24,41,Gaia Bangle,btltbl.bin,306A,STR,00,0
+24,41,Gaia Bangle,btltbl.bin,306B,DEF,03,3
+24,41,Gaia Bangle,btltbl.bin,306C,AP,00,0
+24,41,Gaia Bangle,btltbl.bin,306D,??? (+05),00,0
+24,41,Gaia Bangle,btltbl.bin,306E,Resist 00 Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,306F,Resist 01 Physical,64,100
+24,41,Gaia Bangle,btltbl.bin,3070,Resist 02 Fire,64,100
+24,41,Gaia Bangle,btltbl.bin,3071,Resist 03 Blizzard,64,100
+24,41,Gaia Bangle,btltbl.bin,3072,Resist 04 Thunder,64,100
+24,41,Gaia Bangle,btltbl.bin,3073,Resist 05 Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,3074,Resist 06 Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,3075,Resist 07 Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,3076,Resist 08 Percent HP,64,100
+24,41,Gaia Bangle,btltbl.bin,3077,Resist 09 Stop,64,100
+24,41,Gaia Bangle,btltbl.bin,3078,Resist 0A Stun,64,100
+24,41,Gaia Bangle,btltbl.bin,3079,Resist 0B Heal,64,100
+24,41,Gaia Bangle,btltbl.bin,307A,Resist 0C Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,307B,Resist 0D Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,307C,Resist 0E Unknown,64,100
+24,41,Gaia Bangle,btltbl.bin,307D,Resist 0F Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,307E,Max HP,00,0
+25,42,Magic Armlet,btltbl.bin,307F,Max MP,01,1
+25,42,Magic Armlet,btltbl.bin,3080,STR,00,0
+25,42,Magic Armlet,btltbl.bin,3081,DEF,00,0
+25,42,Magic Armlet,btltbl.bin,3082,AP,00,0
+25,42,Magic Armlet,btltbl.bin,3083,??? (+05),00,0
+25,42,Magic Armlet,btltbl.bin,3084,Resist 00 Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,3085,Resist 01 Physical,64,100
+25,42,Magic Armlet,btltbl.bin,3086,Resist 02 Fire,64,100
+25,42,Magic Armlet,btltbl.bin,3087,Resist 03 Blizzard,64,100
+25,42,Magic Armlet,btltbl.bin,3088,Resist 04 Thunder,64,100
+25,42,Magic Armlet,btltbl.bin,3089,Resist 05 Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,308A,Resist 06 Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,308B,Resist 07 Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,308C,Resist 08 Percent HP,64,100
+25,42,Magic Armlet,btltbl.bin,308D,Resist 09 Stop,64,100
+25,42,Magic Armlet,btltbl.bin,308E,Resist 0A Stun,64,100
+25,42,Magic Armlet,btltbl.bin,308F,Resist 0B Heal,64,100
+25,42,Magic Armlet,btltbl.bin,3090,Resist 0C Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,3091,Resist 0D Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,3092,Resist 0E Unknown,64,100
+25,42,Magic Armlet,btltbl.bin,3093,Resist 0F Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,3094,Max HP,00,0
+26,43,Rune Armlet,btltbl.bin,3095,Max MP,01,1
+26,43,Rune Armlet,btltbl.bin,3096,STR,00,0
+26,43,Rune Armlet,btltbl.bin,3097,DEF,02,2
+26,43,Rune Armlet,btltbl.bin,3098,AP,00,0
+26,43,Rune Armlet,btltbl.bin,3099,??? (+05),00,0
+26,43,Rune Armlet,btltbl.bin,309A,Resist 00 Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,309B,Resist 01 Physical,64,100
+26,43,Rune Armlet,btltbl.bin,309C,Resist 02 Fire,64,100
+26,43,Rune Armlet,btltbl.bin,309D,Resist 03 Blizzard,64,100
+26,43,Rune Armlet,btltbl.bin,309E,Resist 04 Thunder,64,100
+26,43,Rune Armlet,btltbl.bin,309F,Resist 05 Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,30A0,Resist 06 Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,30A1,Resist 07 Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,30A2,Resist 08 Percent HP,64,100
+26,43,Rune Armlet,btltbl.bin,30A3,Resist 09 Stop,64,100
+26,43,Rune Armlet,btltbl.bin,30A4,Resist 0A Stun,64,100
+26,43,Rune Armlet,btltbl.bin,30A5,Resist 0B Heal,64,100
+26,43,Rune Armlet,btltbl.bin,30A6,Resist 0C Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,30A7,Resist 0D Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,30A8,Resist 0E Unknown,64,100
+26,43,Rune Armlet,btltbl.bin,30A9,Resist 0F Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30AA,Max HP,00,0
+27,44,Atlas Armlet,btltbl.bin,30AB,Max MP,02,2
+27,44,Atlas Armlet,btltbl.bin,30AC,STR,00,0
+27,44,Atlas Armlet,btltbl.bin,30AD,DEF,02,2
+27,44,Atlas Armlet,btltbl.bin,30AE,AP,00,0
+27,44,Atlas Armlet,btltbl.bin,30AF,??? (+05),00,0
+27,44,Atlas Armlet,btltbl.bin,30B0,Resist 00 Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30B1,Resist 01 Physical,64,100
+27,44,Atlas Armlet,btltbl.bin,30B2,Resist 02 Fire,64,100
+27,44,Atlas Armlet,btltbl.bin,30B3,Resist 03 Blizzard,64,100
+27,44,Atlas Armlet,btltbl.bin,30B4,Resist 04 Thunder,64,100
+27,44,Atlas Armlet,btltbl.bin,30B5,Resist 05 Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30B6,Resist 06 Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30B7,Resist 07 Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30B8,Resist 08 Percent HP,64,100
+27,44,Atlas Armlet,btltbl.bin,30B9,Resist 09 Stop,64,100
+27,44,Atlas Armlet,btltbl.bin,30BA,Resist 0A Stun,64,100
+27,44,Atlas Armlet,btltbl.bin,30BB,Resist 0B Heal,64,100
+27,44,Atlas Armlet,btltbl.bin,30BC,Resist 0C Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30BD,Resist 0D Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30BE,Resist 0E Unknown,64,100
+27,44,Atlas Armlet,btltbl.bin,30BF,Resist 0F Unknown,64,100
+28,45,Heartguard,btltbl.bin,30C0,Max HP,03,3
+28,45,Heartguard,btltbl.bin,30C1,Max MP,00,0
+28,45,Heartguard,btltbl.bin,30C2,STR,00,0
+28,45,Heartguard,btltbl.bin,30C3,DEF,04,4
+28,45,Heartguard,btltbl.bin,30C4,AP,00,0
+28,45,Heartguard,btltbl.bin,30C5,??? (+05),00,0
+28,45,Heartguard,btltbl.bin,30C6,Resist 00 Unknown,64,100
+28,45,Heartguard,btltbl.bin,30C7,Resist 01 Physical,64,100
+28,45,Heartguard,btltbl.bin,30C8,Resist 02 Fire,64,100
+28,45,Heartguard,btltbl.bin,30C9,Resist 03 Blizzard,64,100
+28,45,Heartguard,btltbl.bin,30CA,Resist 04 Thunder,64,100
+28,45,Heartguard,btltbl.bin,30CB,Resist 05 Unknown,50,80
+28,45,Heartguard,btltbl.bin,30CC,Resist 06 Unknown,64,100
+28,45,Heartguard,btltbl.bin,30CD,Resist 07 Unknown,64,100
+28,45,Heartguard,btltbl.bin,30CE,Resist 08 Percent HP,64,100
+28,45,Heartguard,btltbl.bin,30CF,Resist 09 Stop,64,100
+28,45,Heartguard,btltbl.bin,30D0,Resist 0A Stun,64,100
+28,45,Heartguard,btltbl.bin,30D1,Resist 0B Heal,64,100
+28,45,Heartguard,btltbl.bin,30D2,Resist 0C Unknown,64,100
+28,45,Heartguard,btltbl.bin,30D3,Resist 0D Unknown,64,100
+28,45,Heartguard,btltbl.bin,30D4,Resist 0E Unknown,64,100
+28,45,Heartguard,btltbl.bin,30D5,Resist 0F Unknown,64,100
+29,46,Ribbon,btltbl.bin,30D6,Max HP,00,0
+29,46,Ribbon,btltbl.bin,30D7,Max MP,00,0
+29,46,Ribbon,btltbl.bin,30D8,STR,00,0
+29,46,Ribbon,btltbl.bin,30D9,DEF,03,3
+29,46,Ribbon,btltbl.bin,30DA,AP,00,0
+29,46,Ribbon,btltbl.bin,30DB,??? (+05),00,0
+29,46,Ribbon,btltbl.bin,30DC,Resist 00 Unknown,50,80
+29,46,Ribbon,btltbl.bin,30DD,Resist 01 Physical,50,80
+29,46,Ribbon,btltbl.bin,30DE,Resist 02 Fire,50,80
+29,46,Ribbon,btltbl.bin,30DF,Resist 03 Blizzard,50,80
+29,46,Ribbon,btltbl.bin,30E0,Resist 04 Thunder,50,80
+29,46,Ribbon,btltbl.bin,30E1,Resist 05 Unknown,50,80
+29,46,Ribbon,btltbl.bin,30E2,Resist 06 Unknown,64,100
+29,46,Ribbon,btltbl.bin,30E3,Resist 07 Unknown,64,100
+29,46,Ribbon,btltbl.bin,30E4,Resist 08 Percent HP,64,100
+29,46,Ribbon,btltbl.bin,30E5,Resist 09 Stop,64,100
+29,46,Ribbon,btltbl.bin,30E6,Resist 0A Stun,50,80
+29,46,Ribbon,btltbl.bin,30E7,Resist 0B Heal,64,100
+29,46,Ribbon,btltbl.bin,30E8,Resist 0C Unknown,64,100
+29,46,Ribbon,btltbl.bin,30E9,Resist 0D Unknown,64,100
+29,46,Ribbon,btltbl.bin,30EA,Resist 0E Unknown,64,100
+29,46,Ribbon,btltbl.bin,30EB,Resist 0F Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,30EC,Max HP,06,6
+30,47,Crystal Crown,btltbl.bin,30ED,Max MP,01,1
+30,47,Crystal Crown,btltbl.bin,30EE,STR,02,2
+30,47,Crystal Crown,btltbl.bin,30EF,DEF,02,2
+30,47,Crystal Crown,btltbl.bin,30F0,AP,03,3
+30,47,Crystal Crown,btltbl.bin,30F1,??? (+05),00,0
+30,47,Crystal Crown,btltbl.bin,30F2,Resist 00 Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,30F3,Resist 01 Physical,64,100
+30,47,Crystal Crown,btltbl.bin,30F4,Resist 02 Fire,64,100
+30,47,Crystal Crown,btltbl.bin,30F5,Resist 03 Blizzard,64,100
+30,47,Crystal Crown,btltbl.bin,30F6,Resist 04 Thunder,64,100
+30,47,Crystal Crown,btltbl.bin,30F7,Resist 05 Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,30F8,Resist 06 Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,30F9,Resist 07 Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,30FA,Resist 08 Percent HP,64,100
+30,47,Crystal Crown,btltbl.bin,30FB,Resist 09 Stop,64,100
+30,47,Crystal Crown,btltbl.bin,30FC,Resist 0A Stun,64,100
+30,47,Crystal Crown,btltbl.bin,30FD,Resist 0B Heal,64,100
+30,47,Crystal Crown,btltbl.bin,30FE,Resist 0C Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,30FF,Resist 0D Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,3100,Resist 0E Unknown,64,100
+30,47,Crystal Crown,btltbl.bin,3101,Resist 0F Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,3102,Max HP,03,3
+31,48,Brave Warrior,btltbl.bin,3103,Max MP,00,0
+31,48,Brave Warrior,btltbl.bin,3104,STR,01,1
+31,48,Brave Warrior,btltbl.bin,3105,DEF,00,0
+31,48,Brave Warrior,btltbl.bin,3106,AP,00,0
+31,48,Brave Warrior,btltbl.bin,3107,??? (+05),00,0
+31,48,Brave Warrior,btltbl.bin,3108,Resist 00 Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,3109,Resist 01 Physical,64,100
+31,48,Brave Warrior,btltbl.bin,310A,Resist 02 Fire,64,100
+31,48,Brave Warrior,btltbl.bin,310B,Resist 03 Blizzard,64,100
+31,48,Brave Warrior,btltbl.bin,310C,Resist 04 Thunder,64,100
+31,48,Brave Warrior,btltbl.bin,310D,Resist 05 Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,310E,Resist 06 Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,310F,Resist 07 Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,3110,Resist 08 Percent HP,64,100
+31,48,Brave Warrior,btltbl.bin,3111,Resist 09 Stop,64,100
+31,48,Brave Warrior,btltbl.bin,3112,Resist 0A Stun,64,100
+31,48,Brave Warrior,btltbl.bin,3113,Resist 0B Heal,64,100
+31,48,Brave Warrior,btltbl.bin,3114,Resist 0C Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,3115,Resist 0D Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,3116,Resist 0E Unknown,64,100
+31,48,Brave Warrior,btltbl.bin,3117,Resist 0F Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,3118,Max HP,00,0
+32,49,Ifrit's Horn,btltbl.bin,3119,Max MP,00,0
+32,49,Ifrit's Horn,btltbl.bin,311A,STR,00,0
+32,49,Ifrit's Horn,btltbl.bin,311B,DEF,01,1
+32,49,Ifrit's Horn,btltbl.bin,311C,AP,01,1
+32,49,Ifrit's Horn,btltbl.bin,311D,??? (+05),00,0
+32,49,Ifrit's Horn,btltbl.bin,311E,Resist 00 Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,311F,Resist 01 Physical,64,100
+32,49,Ifrit's Horn,btltbl.bin,3120,Resist 02 Fire,50,80
+32,49,Ifrit's Horn,btltbl.bin,3121,Resist 03 Blizzard,64,100
+32,49,Ifrit's Horn,btltbl.bin,3122,Resist 04 Thunder,64,100
+32,49,Ifrit's Horn,btltbl.bin,3123,Resist 05 Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,3124,Resist 06 Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,3125,Resist 07 Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,3126,Resist 08 Percent HP,64,100
+32,49,Ifrit's Horn,btltbl.bin,3127,Resist 09 Stop,64,100
+32,49,Ifrit's Horn,btltbl.bin,3128,Resist 0A Stun,64,100
+32,49,Ifrit's Horn,btltbl.bin,3129,Resist 0B Heal,64,100
+32,49,Ifrit's Horn,btltbl.bin,312A,Resist 0C Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,312B,Resist 0D Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,312C,Resist 0E Unknown,64,100
+32,49,Ifrit's Horn,btltbl.bin,312D,Resist 0F Unknown,64,100
+33,50,Inferno Band,btltbl.bin,312E,Max HP,00,0
+33,50,Inferno Band,btltbl.bin,312F,Max MP,00,0
+33,50,Inferno Band,btltbl.bin,3130,STR,00,0
+33,50,Inferno Band,btltbl.bin,3131,DEF,02,2
+33,50,Inferno Band,btltbl.bin,3132,AP,00,0
+33,50,Inferno Band,btltbl.bin,3133,??? (+05),00,0
+33,50,Inferno Band,btltbl.bin,3134,Resist 00 Unknown,64,100
+33,50,Inferno Band,btltbl.bin,3135,Resist 01 Physical,64,100
+33,50,Inferno Band,btltbl.bin,3136,Resist 02 Fire,50,80
+33,50,Inferno Band,btltbl.bin,3137,Resist 03 Blizzard,64,100
+33,50,Inferno Band,btltbl.bin,3138,Resist 04 Thunder,64,100
+33,50,Inferno Band,btltbl.bin,3139,Resist 05 Unknown,50,80
+33,50,Inferno Band,btltbl.bin,313A,Resist 06 Unknown,64,100
+33,50,Inferno Band,btltbl.bin,313B,Resist 07 Unknown,64,100
+33,50,Inferno Band,btltbl.bin,313C,Resist 08 Percent HP,64,100
+33,50,Inferno Band,btltbl.bin,313D,Resist 09 Stop,64,100
+33,50,Inferno Band,btltbl.bin,313E,Resist 0A Stun,64,100
+33,50,Inferno Band,btltbl.bin,313F,Resist 0B Heal,64,100
+33,50,Inferno Band,btltbl.bin,3140,Resist 0C Unknown,64,100
+33,50,Inferno Band,btltbl.bin,3141,Resist 0D Unknown,64,100
+33,50,Inferno Band,btltbl.bin,3142,Resist 0E Unknown,64,100
+33,50,Inferno Band,btltbl.bin,3143,Resist 0F Unknown,64,100
+34,51,White Fang,btltbl.bin,3144,Max HP,00,0
+34,51,White Fang,btltbl.bin,3145,Max MP,00,0
+34,51,White Fang,btltbl.bin,3146,STR,01,1
+34,51,White Fang,btltbl.bin,3147,DEF,01,1
+34,51,White Fang,btltbl.bin,3148,AP,01,1
+34,51,White Fang,btltbl.bin,3149,??? (+05),00,0
+34,51,White Fang,btltbl.bin,314A,Resist 00 Unknown,64,100
+34,51,White Fang,btltbl.bin,314B,Resist 01 Physical,64,100
+34,51,White Fang,btltbl.bin,314C,Resist 02 Fire,64,100
+34,51,White Fang,btltbl.bin,314D,Resist 03 Blizzard,64,100
+34,51,White Fang,btltbl.bin,314E,Resist 04 Thunder,64,100
+34,51,White Fang,btltbl.bin,314F,Resist 05 Unknown,64,100
+34,51,White Fang,btltbl.bin,3150,Resist 06 Unknown,64,100
+34,51,White Fang,btltbl.bin,3151,Resist 07 Unknown,64,100
+34,51,White Fang,btltbl.bin,3152,Resist 08 Percent HP,64,100
+34,51,White Fang,btltbl.bin,3153,Resist 09 Stop,64,100
+34,51,White Fang,btltbl.bin,3154,Resist 0A Stun,64,100
+34,51,White Fang,btltbl.bin,3155,Resist 0B Heal,64,100
+34,51,White Fang,btltbl.bin,3156,Resist 0C Unknown,64,100
+34,51,White Fang,btltbl.bin,3157,Resist 0D Unknown,64,100
+34,51,White Fang,btltbl.bin,3158,Resist 0E Unknown,64,100
+34,51,White Fang,btltbl.bin,3159,Resist 0F Unknown,64,100
+35,52,Ray of Light,btltbl.bin,315A,Max HP,03,3
+35,52,Ray of Light,btltbl.bin,315B,Max MP,01,1
+35,52,Ray of Light,btltbl.bin,315C,STR,00,0
+35,52,Ray of Light,btltbl.bin,315D,DEF,00,0
+35,52,Ray of Light,btltbl.bin,315E,AP,00,0
+35,52,Ray of Light,btltbl.bin,315F,??? (+05),00,0
+35,52,Ray of Light,btltbl.bin,3160,Resist 00 Unknown,64,100
+35,52,Ray of Light,btltbl.bin,3161,Resist 01 Physical,64,100
+35,52,Ray of Light,btltbl.bin,3162,Resist 02 Fire,64,100
+35,52,Ray of Light,btltbl.bin,3163,Resist 03 Blizzard,64,100
+35,52,Ray of Light,btltbl.bin,3164,Resist 04 Thunder,64,100
+35,52,Ray of Light,btltbl.bin,3165,Resist 05 Unknown,64,100
+35,52,Ray of Light,btltbl.bin,3166,Resist 06 Unknown,64,100
+35,52,Ray of Light,btltbl.bin,3167,Resist 07 Unknown,64,100
+35,52,Ray of Light,btltbl.bin,3168,Resist 08 Percent HP,64,100
+35,52,Ray of Light,btltbl.bin,3169,Resist 09 Stop,64,100
+35,52,Ray of Light,btltbl.bin,316A,Resist 0A Stun,64,100
+35,52,Ray of Light,btltbl.bin,316B,Resist 0B Heal,64,100
+35,52,Ray of Light,btltbl.bin,316C,Resist 0C Unknown,64,100
+35,52,Ray of Light,btltbl.bin,316D,Resist 0D Unknown,64,100
+35,52,Ray of Light,btltbl.bin,316E,Resist 0E Unknown,64,100
+35,52,Ray of Light,btltbl.bin,316F,Resist 0F Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,3170,Max HP,00,0
+36,53,Holy Circlet,btltbl.bin,3171,Max MP,00,0
+36,53,Holy Circlet,btltbl.bin,3172,STR,00,0
+36,53,Holy Circlet,btltbl.bin,3173,DEF,00,0
+36,53,Holy Circlet,btltbl.bin,3174,AP,03,3
+36,53,Holy Circlet,btltbl.bin,3175,??? (+05),00,0
+36,53,Holy Circlet,btltbl.bin,3176,Resist 00 Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,3177,Resist 01 Physical,64,100
+36,53,Holy Circlet,btltbl.bin,3178,Resist 02 Fire,50,80
+36,53,Holy Circlet,btltbl.bin,3179,Resist 03 Blizzard,50,80
+36,53,Holy Circlet,btltbl.bin,317A,Resist 04 Thunder,50,80
+36,53,Holy Circlet,btltbl.bin,317B,Resist 05 Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,317C,Resist 06 Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,317D,Resist 07 Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,317E,Resist 08 Percent HP,64,100
+36,53,Holy Circlet,btltbl.bin,317F,Resist 09 Stop,64,100
+36,53,Holy Circlet,btltbl.bin,3180,Resist 0A Stun,64,100
+36,53,Holy Circlet,btltbl.bin,3181,Resist 0B Heal,64,100
+36,53,Holy Circlet,btltbl.bin,3182,Resist 0C Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,3183,Resist 0D Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,3184,Resist 0E Unknown,64,100
+36,53,Holy Circlet,btltbl.bin,3185,Resist 0F Unknown,64,100
+37,54,Raven's Claw,btltbl.bin,3186,Max HP,00,0
+37,54,Raven's Claw,btltbl.bin,3187,Max MP,00,0
+37,54,Raven's Claw,btltbl.bin,3188,STR,02,2
+37,54,Raven's Claw,btltbl.bin,3189,DEF,02,2
+37,54,Raven's Claw,btltbl.bin,318A,AP,00,0
+37,54,Raven's Claw,btltbl.bin,318B,??? (+05),00,0
+37,54,Raven's Claw,btltbl.bin,318C,Resist 00 Unknown,64,100
+37,54,Raven's Claw,btltbl.bin,318D,Resist 01 Physical,64,100
+37,54,Raven's Claw,btltbl.bin,318E,Resist 02 Fire,64,100
+37,54,Raven's Claw,btltbl.bin,318F,Resist 03 Blizzard,64,100
+37,54,Raven's Claw,btltbl.bin,3190,Resist 04 Thunder,64,100
+37,54,Raven's Claw,btltbl.bin,3191,Resist 05 Unknown,50,80
+37,54,Raven's Claw,btltbl.bin,3192,Resist 06 Unknown,64,100
+37,54,Raven's Claw,btltbl.bin,3193,Resist 07 Unknown,64,100
+37,54,Raven's Claw,btltbl.bin,3194,Resist 08 Percent HP,64,100
+37,54,Raven's Claw,btltbl.bin,3195,Resist 09 Stop,64,100
+37,54,Raven's Claw,btltbl.bin,3196,Resist 0A Stun,64,100
+37,54,Raven's Claw,btltbl.bin,3197,Resist 0B Heal,64,100
+37,54,Raven's Claw,btltbl.bin,3198,Resist 0C Unknown,64,100
+37,54,Raven's Claw,btltbl.bin,3199,Resist 0D Unknown,64,100
+37,54,Raven's Claw,btltbl.bin,319A,Resist 0E Unknown,64,100
+37,54,Raven's Claw,btltbl.bin,319B,Resist 0F Unknown,64,100
+38,55,Omega Arts,btltbl.bin,319C,Max HP,03,3
+38,55,Omega Arts,btltbl.bin,319D,Max MP,00,0
+38,55,Omega Arts,btltbl.bin,319E,STR,03,3
+38,55,Omega Arts,btltbl.bin,319F,DEF,03,3
+38,55,Omega Arts,btltbl.bin,31A0,AP,00,0
+38,55,Omega Arts,btltbl.bin,31A1,??? (+05),00,0
+38,55,Omega Arts,btltbl.bin,31A2,Resist 00 Unknown,64,100
+38,55,Omega Arts,btltbl.bin,31A3,Resist 01 Physical,64,100
+38,55,Omega Arts,btltbl.bin,31A4,Resist 02 Fire,64,100
+38,55,Omega Arts,btltbl.bin,31A5,Resist 03 Blizzard,64,100
+38,55,Omega Arts,btltbl.bin,31A6,Resist 04 Thunder,64,100
+38,55,Omega Arts,btltbl.bin,31A7,Resist 05 Unknown,64,100
+38,55,Omega Arts,btltbl.bin,31A8,Resist 06 Unknown,64,100
+38,55,Omega Arts,btltbl.bin,31A9,Resist 07 Unknown,64,100
+38,55,Omega Arts,btltbl.bin,31AA,Resist 08 Percent HP,64,100
+38,55,Omega Arts,btltbl.bin,31AB,Resist 09 Stop,64,100
+38,55,Omega Arts,btltbl.bin,31AC,Resist 0A Stun,64,100
+38,55,Omega Arts,btltbl.bin,31AD,Resist 0B Heal,64,100
+38,55,Omega Arts,btltbl.bin,31AE,Resist 0C Unknown,64,100
+38,55,Omega Arts,btltbl.bin,31AF,Resist 0D Unknown,64,100
+38,55,Omega Arts,btltbl.bin,31B0,Resist 0E Unknown,64,100
+38,55,Omega Arts,btltbl.bin,31B1,Resist 0F Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31B2,Max HP,00,0
+39,56,EXP Earring,btltbl.bin,31B3,Max MP,00,0
+39,56,EXP Earring,btltbl.bin,31B4,STR,00,0
+39,56,EXP Earring,btltbl.bin,31B5,DEF,00,0
+39,56,EXP Earring,btltbl.bin,31B6,AP,00,0
+39,56,EXP Earring,btltbl.bin,31B7,??? (+05),00,0
+39,56,EXP Earring,btltbl.bin,31B8,Resist 00 Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31B9,Resist 01 Physical,64,100
+39,56,EXP Earring,btltbl.bin,31BA,Resist 02 Fire,64,100
+39,56,EXP Earring,btltbl.bin,31BB,Resist 03 Blizzard,64,100
+39,56,EXP Earring,btltbl.bin,31BC,Resist 04 Thunder,64,100
+39,56,EXP Earring,btltbl.bin,31BD,Resist 05 Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31BE,Resist 06 Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31BF,Resist 07 Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31C0,Resist 08 Percent HP,64,100
+39,56,EXP Earring,btltbl.bin,31C1,Resist 09 Stop,64,100
+39,56,EXP Earring,btltbl.bin,31C2,Resist 0A Stun,64,100
+39,56,EXP Earring,btltbl.bin,31C3,Resist 0B Heal,64,100
+39,56,EXP Earring,btltbl.bin,31C4,Resist 0C Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31C5,Resist 0D Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31C6,Resist 0E Unknown,64,100
+39,56,EXP Earring,btltbl.bin,31C7,Resist 0F Unknown,64,100
+40,57,A41,btltbl.bin,31C8,Max HP,00,0
+40,57,A41,btltbl.bin,31C9,Max MP,00,0
+40,57,A41,btltbl.bin,31CA,STR,00,0
+40,57,A41,btltbl.bin,31CB,DEF,00,0
+40,57,A41,btltbl.bin,31CC,AP,00,0
+40,57,A41,btltbl.bin,31CD,??? (+05),00,0
+40,57,A41,btltbl.bin,31CE,Resist 00 Unknown,64,100
+40,57,A41,btltbl.bin,31CF,Resist 01 Physical,64,100
+40,57,A41,btltbl.bin,31D0,Resist 02 Fire,64,100
+40,57,A41,btltbl.bin,31D1,Resist 03 Blizzard,64,100
+40,57,A41,btltbl.bin,31D2,Resist 04 Thunder,64,100
+40,57,A41,btltbl.bin,31D3,Resist 05 Unknown,64,100
+40,57,A41,btltbl.bin,31D4,Resist 06 Unknown,64,100
+40,57,A41,btltbl.bin,31D5,Resist 07 Unknown,64,100
+40,57,A41,btltbl.bin,31D6,Resist 08 Percent HP,64,100
+40,57,A41,btltbl.bin,31D7,Resist 09 Stop,64,100
+40,57,A41,btltbl.bin,31D8,Resist 0A Stun,64,100
+40,57,A41,btltbl.bin,31D9,Resist 0B Heal,64,100
+40,57,A41,btltbl.bin,31DA,Resist 0C Unknown,64,100
+40,57,A41,btltbl.bin,31DB,Resist 0D Unknown,64,100
+40,57,A41,btltbl.bin,31DC,Resist 0E Unknown,64,100
+40,57,A41,btltbl.bin,31DD,Resist 0F Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31DE,Max HP,00,0
+41,58,EXP Ring,btltbl.bin,31DF,Max MP,01,1
+41,58,EXP Ring,btltbl.bin,31E0,STR,00,0
+41,58,EXP Ring,btltbl.bin,31E1,DEF,00,0
+41,58,EXP Ring,btltbl.bin,31E2,AP,00,0
+41,58,EXP Ring,btltbl.bin,31E3,??? (+05),00,0
+41,58,EXP Ring,btltbl.bin,31E4,Resist 00 Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31E5,Resist 01 Physical,64,100
+41,58,EXP Ring,btltbl.bin,31E6,Resist 02 Fire,64,100
+41,58,EXP Ring,btltbl.bin,31E7,Resist 03 Blizzard,64,100
+41,58,EXP Ring,btltbl.bin,31E8,Resist 04 Thunder,64,100
+41,58,EXP Ring,btltbl.bin,31E9,Resist 05 Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31EA,Resist 06 Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31EB,Resist 07 Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31EC,Resist 08 Percent HP,64,100
+41,58,EXP Ring,btltbl.bin,31ED,Resist 09 Stop,64,100
+41,58,EXP Ring,btltbl.bin,31EE,Resist 0A Stun,64,100
+41,58,EXP Ring,btltbl.bin,31EF,Resist 0B Heal,64,100
+41,58,EXP Ring,btltbl.bin,31F0,Resist 0C Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31F1,Resist 0D Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31F2,Resist 0E Unknown,64,100
+41,58,EXP Ring,btltbl.bin,31F3,Resist 0F Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,31F4,Max HP,00,0
+42,59,EXP Bracelet,btltbl.bin,31F5,Max MP,00,0
+42,59,EXP Bracelet,btltbl.bin,31F6,STR,FE,-2
+42,59,EXP Bracelet,btltbl.bin,31F7,DEF,FE,-2
+42,59,EXP Bracelet,btltbl.bin,31F8,AP,00,0
+42,59,EXP Bracelet,btltbl.bin,31F9,??? (+05),00,0
+42,59,EXP Bracelet,btltbl.bin,31FA,Resist 00 Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,31FB,Resist 01 Physical,64,100
+42,59,EXP Bracelet,btltbl.bin,31FC,Resist 02 Fire,64,100
+42,59,EXP Bracelet,btltbl.bin,31FD,Resist 03 Blizzard,64,100
+42,59,EXP Bracelet,btltbl.bin,31FE,Resist 04 Thunder,64,100
+42,59,EXP Bracelet,btltbl.bin,31FF,Resist 05 Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,3200,Resist 06 Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,3201,Resist 07 Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,3202,Resist 08 Percent HP,64,100
+42,59,EXP Bracelet,btltbl.bin,3203,Resist 09 Stop,64,100
+42,59,EXP Bracelet,btltbl.bin,3204,Resist 0A Stun,64,100
+42,59,EXP Bracelet,btltbl.bin,3205,Resist 0B Heal,64,100
+42,59,EXP Bracelet,btltbl.bin,3206,Resist 0C Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,3207,Resist 0D Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,3208,Resist 0E Unknown,64,100
+42,59,EXP Bracelet,btltbl.bin,3209,Resist 0F Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,320A,Max HP,00,0
+43,60,EXP Necklace,btltbl.bin,320B,Max MP,00,0
+43,60,EXP Necklace,btltbl.bin,320C,STR,00,0
+43,60,EXP Necklace,btltbl.bin,320D,DEF,00,0
+43,60,EXP Necklace,btltbl.bin,320E,AP,02,2
+43,60,EXP Necklace,btltbl.bin,320F,??? (+05),00,0
+43,60,EXP Necklace,btltbl.bin,3210,Resist 00 Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,3211,Resist 01 Physical,64,100
+43,60,EXP Necklace,btltbl.bin,3212,Resist 02 Fire,64,100
+43,60,EXP Necklace,btltbl.bin,3213,Resist 03 Blizzard,64,100
+43,60,EXP Necklace,btltbl.bin,3214,Resist 04 Thunder,64,100
+43,60,EXP Necklace,btltbl.bin,3215,Resist 05 Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,3216,Resist 06 Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,3217,Resist 07 Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,3218,Resist 08 Percent HP,64,100
+43,60,EXP Necklace,btltbl.bin,3219,Resist 09 Stop,64,100
+43,60,EXP Necklace,btltbl.bin,321A,Resist 0A Stun,64,100
+43,60,EXP Necklace,btltbl.bin,321B,Resist 0B Heal,64,100
+43,60,EXP Necklace,btltbl.bin,321C,Resist 0C Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,321D,Resist 0D Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,321E,Resist 0E Unknown,64,100
+43,60,EXP Necklace,btltbl.bin,321F,Resist 0F Unknown,64,100
+44,61,Firagun Band,btltbl.bin,3220,Max HP,00,0
+44,61,Firagun Band,btltbl.bin,3221,Max MP,00,0
+44,61,Firagun Band,btltbl.bin,3222,STR,02,2
+44,61,Firagun Band,btltbl.bin,3223,DEF,02,2
+44,61,Firagun Band,btltbl.bin,3224,AP,00,0
+44,61,Firagun Band,btltbl.bin,3225,??? (+05),00,0
+44,61,Firagun Band,btltbl.bin,3226,Resist 00 Unknown,64,100
+44,61,Firagun Band,btltbl.bin,3227,Resist 01 Physical,64,100
+44,61,Firagun Band,btltbl.bin,3228,Resist 02 Fire,50,80
+44,61,Firagun Band,btltbl.bin,3229,Resist 03 Blizzard,64,100
+44,61,Firagun Band,btltbl.bin,322A,Resist 04 Thunder,64,100
+44,61,Firagun Band,btltbl.bin,322B,Resist 05 Unknown,64,100
+44,61,Firagun Band,btltbl.bin,322C,Resist 06 Unknown,64,100
+44,61,Firagun Band,btltbl.bin,322D,Resist 07 Unknown,64,100
+44,61,Firagun Band,btltbl.bin,322E,Resist 08 Percent HP,64,100
+44,61,Firagun Band,btltbl.bin,322F,Resist 09 Stop,64,100
+44,61,Firagun Band,btltbl.bin,3230,Resist 0A Stun,64,100
+44,61,Firagun Band,btltbl.bin,3231,Resist 0B Heal,64,100
+44,61,Firagun Band,btltbl.bin,3232,Resist 0C Unknown,64,100
+44,61,Firagun Band,btltbl.bin,3233,Resist 0D Unknown,64,100
+44,61,Firagun Band,btltbl.bin,3234,Resist 0E Unknown,64,100
+44,61,Firagun Band,btltbl.bin,3235,Resist 0F Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,3236,Max HP,00,0
+45,62,Blizzagun Band,btltbl.bin,3237,Max MP,00,0
+45,62,Blizzagun Band,btltbl.bin,3238,STR,02,2
+45,62,Blizzagun Band,btltbl.bin,3239,DEF,02,2
+45,62,Blizzagun Band,btltbl.bin,323A,AP,00,0
+45,62,Blizzagun Band,btltbl.bin,323B,??? (+05),00,0
+45,62,Blizzagun Band,btltbl.bin,323C,Resist 00 Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,323D,Resist 01 Physical,64,100
+45,62,Blizzagun Band,btltbl.bin,323E,Resist 02 Fire,64,100
+45,62,Blizzagun Band,btltbl.bin,323F,Resist 03 Blizzard,50,80
+45,62,Blizzagun Band,btltbl.bin,3240,Resist 04 Thunder,64,100
+45,62,Blizzagun Band,btltbl.bin,3241,Resist 05 Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,3242,Resist 06 Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,3243,Resist 07 Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,3244,Resist 08 Percent HP,64,100
+45,62,Blizzagun Band,btltbl.bin,3245,Resist 09 Stop,64,100
+45,62,Blizzagun Band,btltbl.bin,3246,Resist 0A Stun,64,100
+45,62,Blizzagun Band,btltbl.bin,3247,Resist 0B Heal,64,100
+45,62,Blizzagun Band,btltbl.bin,3248,Resist 0C Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,3249,Resist 0D Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,324A,Resist 0E Unknown,64,100
+45,62,Blizzagun Band,btltbl.bin,324B,Resist 0F Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,324C,Max HP,00,0
+46,63,Thundagun Band,btltbl.bin,324D,Max MP,00,0
+46,63,Thundagun Band,btltbl.bin,324E,STR,02,2
+46,63,Thundagun Band,btltbl.bin,324F,DEF,02,2
+46,63,Thundagun Band,btltbl.bin,3250,AP,00,0
+46,63,Thundagun Band,btltbl.bin,3251,??? (+05),00,0
+46,63,Thundagun Band,btltbl.bin,3252,Resist 00 Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,3253,Resist 01 Physical,64,100
+46,63,Thundagun Band,btltbl.bin,3254,Resist 02 Fire,64,100
+46,63,Thundagun Band,btltbl.bin,3255,Resist 03 Blizzard,64,100
+46,63,Thundagun Band,btltbl.bin,3256,Resist 04 Thunder,50,80
+46,63,Thundagun Band,btltbl.bin,3257,Resist 05 Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,3258,Resist 06 Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,3259,Resist 07 Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,325A,Resist 08 Percent HP,64,100
+46,63,Thundagun Band,btltbl.bin,325B,Resist 09 Stop,64,100
+46,63,Thundagun Band,btltbl.bin,325C,Resist 0A Stun,64,100
+46,63,Thundagun Band,btltbl.bin,325D,Resist 0B Heal,64,100
+46,63,Thundagun Band,btltbl.bin,325E,Resist 0C Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,325F,Resist 0D Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,3260,Resist 0E Unknown,64,100
+46,63,Thundagun Band,btltbl.bin,3261,Resist 0F Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,3262,Max HP,00,0
+47,64,Ifrit Belt,btltbl.bin,3263,Max MP,00,0
+47,64,Ifrit Belt,btltbl.bin,3264,STR,03,3
+47,64,Ifrit Belt,btltbl.bin,3265,DEF,00,0
+47,64,Ifrit Belt,btltbl.bin,3266,AP,00,0
+47,64,Ifrit Belt,btltbl.bin,3267,??? (+05),00,0
+47,64,Ifrit Belt,btltbl.bin,3268,Resist 00 Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,3269,Resist 01 Physical,64,100
+47,64,Ifrit Belt,btltbl.bin,326A,Resist 02 Fire,3C,60
+47,64,Ifrit Belt,btltbl.bin,326B,Resist 03 Blizzard,64,100
+47,64,Ifrit Belt,btltbl.bin,326C,Resist 04 Thunder,64,100
+47,64,Ifrit Belt,btltbl.bin,326D,Resist 05 Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,326E,Resist 06 Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,326F,Resist 07 Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,3270,Resist 08 Percent HP,64,100
+47,64,Ifrit Belt,btltbl.bin,3271,Resist 09 Stop,64,100
+47,64,Ifrit Belt,btltbl.bin,3272,Resist 0A Stun,64,100
+47,64,Ifrit Belt,btltbl.bin,3273,Resist 0B Heal,64,100
+47,64,Ifrit Belt,btltbl.bin,3274,Resist 0C Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,3275,Resist 0D Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,3276,Resist 0E Unknown,64,100
+47,64,Ifrit Belt,btltbl.bin,3277,Resist 0F Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,3278,Max HP,00,0
+48,65,Shiva Belt,btltbl.bin,3279,Max MP,02,2
+48,65,Shiva Belt,btltbl.bin,327A,STR,00,0
+48,65,Shiva Belt,btltbl.bin,327B,DEF,00,0
+48,65,Shiva Belt,btltbl.bin,327C,AP,00,0
+48,65,Shiva Belt,btltbl.bin,327D,??? (+05),00,0
+48,65,Shiva Belt,btltbl.bin,327E,Resist 00 Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,327F,Resist 01 Physical,64,100
+48,65,Shiva Belt,btltbl.bin,3280,Resist 02 Fire,64,100
+48,65,Shiva Belt,btltbl.bin,3281,Resist 03 Blizzard,3C,60
+48,65,Shiva Belt,btltbl.bin,3282,Resist 04 Thunder,64,100
+48,65,Shiva Belt,btltbl.bin,3283,Resist 05 Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,3284,Resist 06 Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,3285,Resist 07 Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,3286,Resist 08 Percent HP,64,100
+48,65,Shiva Belt,btltbl.bin,3287,Resist 09 Stop,64,100
+48,65,Shiva Belt,btltbl.bin,3288,Resist 0A Stun,64,100
+48,65,Shiva Belt,btltbl.bin,3289,Resist 0B Heal,64,100
+48,65,Shiva Belt,btltbl.bin,328A,Resist 0C Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,328B,Resist 0D Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,328C,Resist 0E Unknown,64,100
+48,65,Shiva Belt,btltbl.bin,328D,Resist 0F Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,328E,Max HP,00,0
+49,66,Ramuh Belt,btltbl.bin,328F,Max MP,00,0
+49,66,Ramuh Belt,btltbl.bin,3290,STR,00,0
+49,66,Ramuh Belt,btltbl.bin,3291,DEF,00,0
+49,66,Ramuh Belt,btltbl.bin,3292,AP,03,3
+49,66,Ramuh Belt,btltbl.bin,3293,??? (+05),00,0
+49,66,Ramuh Belt,btltbl.bin,3294,Resist 00 Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,3295,Resist 01 Physical,64,100
+49,66,Ramuh Belt,btltbl.bin,3296,Resist 02 Fire,64,100
+49,66,Ramuh Belt,btltbl.bin,3297,Resist 03 Blizzard,64,100
+49,66,Ramuh Belt,btltbl.bin,3298,Resist 04 Thunder,3C,60
+49,66,Ramuh Belt,btltbl.bin,3299,Resist 05 Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,329A,Resist 06 Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,329B,Resist 07 Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,329C,Resist 08 Percent HP,64,100
+49,66,Ramuh Belt,btltbl.bin,329D,Resist 09 Stop,64,100
+49,66,Ramuh Belt,btltbl.bin,329E,Resist 0A Stun,64,100
+49,66,Ramuh Belt,btltbl.bin,329F,Resist 0B Heal,64,100
+49,66,Ramuh Belt,btltbl.bin,32A0,Resist 0C Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,32A1,Resist 0D Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,32A2,Resist 0E Unknown,64,100
+49,66,Ramuh Belt,btltbl.bin,32A3,Resist 0F Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32A4,Max HP,06,6
+50,67,Moogle Badge,btltbl.bin,32A5,Max MP,01,1
+50,67,Moogle Badge,btltbl.bin,32A6,STR,00,0
+50,67,Moogle Badge,btltbl.bin,32A7,DEF,00,0
+50,67,Moogle Badge,btltbl.bin,32A8,AP,02,2
+50,67,Moogle Badge,btltbl.bin,32A9,??? (+05),00,0
+50,67,Moogle Badge,btltbl.bin,32AA,Resist 00 Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32AB,Resist 01 Physical,64,100
+50,67,Moogle Badge,btltbl.bin,32AC,Resist 02 Fire,64,100
+50,67,Moogle Badge,btltbl.bin,32AD,Resist 03 Blizzard,64,100
+50,67,Moogle Badge,btltbl.bin,32AE,Resist 04 Thunder,64,100
+50,67,Moogle Badge,btltbl.bin,32AF,Resist 05 Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32B0,Resist 06 Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32B1,Resist 07 Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32B2,Resist 08 Percent HP,64,100
+50,67,Moogle Badge,btltbl.bin,32B3,Resist 09 Stop,64,100
+50,67,Moogle Badge,btltbl.bin,32B4,Resist 0A Stun,64,100
+50,67,Moogle Badge,btltbl.bin,32B5,Resist 0B Heal,64,100
+50,67,Moogle Badge,btltbl.bin,32B6,Resist 0C Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32B7,Resist 0D Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32B8,Resist 0E Unknown,64,100
+50,67,Moogle Badge,btltbl.bin,32B9,Resist 0F Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32BA,Max HP,09,9
+51,68,Cosmic Arts,btltbl.bin,32BB,Max MP,02,2
+51,68,Cosmic Arts,btltbl.bin,32BC,STR,00,0
+51,68,Cosmic Arts,btltbl.bin,32BD,DEF,00,0
+51,68,Cosmic Arts,btltbl.bin,32BE,AP,02,2
+51,68,Cosmic Arts,btltbl.bin,32BF,??? (+05),00,0
+51,68,Cosmic Arts,btltbl.bin,32C0,Resist 00 Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32C1,Resist 01 Physical,64,100
+51,68,Cosmic Arts,btltbl.bin,32C2,Resist 02 Fire,64,100
+51,68,Cosmic Arts,btltbl.bin,32C3,Resist 03 Blizzard,64,100
+51,68,Cosmic Arts,btltbl.bin,32C4,Resist 04 Thunder,64,100
+51,68,Cosmic Arts,btltbl.bin,32C5,Resist 05 Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32C6,Resist 06 Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32C7,Resist 07 Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32C8,Resist 08 Percent HP,64,100
+51,68,Cosmic Arts,btltbl.bin,32C9,Resist 09 Stop,64,100
+51,68,Cosmic Arts,btltbl.bin,32CA,Resist 0A Stun,64,100
+51,68,Cosmic Arts,btltbl.bin,32CB,Resist 0B Heal,64,100
+51,68,Cosmic Arts,btltbl.bin,32CC,Resist 0C Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32CD,Resist 0D Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32CE,Resist 0E Unknown,64,100
+51,68,Cosmic Arts,btltbl.bin,32CF,Resist 0F Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32D0,Max HP,00,0
+52,69,Royal Crown,btltbl.bin,32D1,Max MP,02,2
+52,69,Royal Crown,btltbl.bin,32D2,STR,FD,-3
+52,69,Royal Crown,btltbl.bin,32D3,DEF,00,0
+52,69,Royal Crown,btltbl.bin,32D4,AP,00,0
+52,69,Royal Crown,btltbl.bin,32D5,??? (+05),00,0
+52,69,Royal Crown,btltbl.bin,32D6,Resist 00 Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32D7,Resist 01 Physical,64,100
+52,69,Royal Crown,btltbl.bin,32D8,Resist 02 Fire,50,80
+52,69,Royal Crown,btltbl.bin,32D9,Resist 03 Blizzard,50,80
+52,69,Royal Crown,btltbl.bin,32DA,Resist 04 Thunder,50,80
+52,69,Royal Crown,btltbl.bin,32DB,Resist 05 Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32DC,Resist 06 Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32DD,Resist 07 Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32DE,Resist 08 Percent HP,64,100
+52,69,Royal Crown,btltbl.bin,32DF,Resist 09 Stop,64,100
+52,69,Royal Crown,btltbl.bin,32E0,Resist 0A Stun,64,100
+52,69,Royal Crown,btltbl.bin,32E1,Resist 0B Heal,64,100
+52,69,Royal Crown,btltbl.bin,32E2,Resist 0C Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32E3,Resist 0D Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32E4,Resist 0E Unknown,64,100
+52,69,Royal Crown,btltbl.bin,32E5,Resist 0F Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32E6,Max HP,00,0
+53,70,Prime Cap,btltbl.bin,32E7,Max MP,00,0
+53,70,Prime Cap,btltbl.bin,32E8,STR,FB,-5
+53,70,Prime Cap,btltbl.bin,32E9,DEF,05,5
+53,70,Prime Cap,btltbl.bin,32EA,AP,00,0
+53,70,Prime Cap,btltbl.bin,32EB,??? (+05),00,0
+53,70,Prime Cap,btltbl.bin,32EC,Resist 00 Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32ED,Resist 01 Physical,64,100
+53,70,Prime Cap,btltbl.bin,32EE,Resist 02 Fire,64,100
+53,70,Prime Cap,btltbl.bin,32EF,Resist 03 Blizzard,64,100
+53,70,Prime Cap,btltbl.bin,32F0,Resist 04 Thunder,64,100
+53,70,Prime Cap,btltbl.bin,32F1,Resist 05 Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32F2,Resist 06 Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32F3,Resist 07 Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32F4,Resist 08 Percent HP,64,100
+53,70,Prime Cap,btltbl.bin,32F5,Resist 09 Stop,64,100
+53,70,Prime Cap,btltbl.bin,32F6,Resist 0A Stun,64,100
+53,70,Prime Cap,btltbl.bin,32F7,Resist 0B Heal,64,100
+53,70,Prime Cap,btltbl.bin,32F8,Resist 0C Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32F9,Resist 0D Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32FA,Resist 0E Unknown,64,100
+53,70,Prime Cap,btltbl.bin,32FB,Resist 0F Unknown,64,100
+54,71,Obsidian Ring,btltbl.bin,32FC,Max HP,00,0
+54,71,Obsidian Ring,btltbl.bin,32FD,Max MP,00,0
+54,71,Obsidian Ring,btltbl.bin,32FE,STR,01,1
+54,71,Obsidian Ring,btltbl.bin,32FF,DEF,00,0
+54,71,Obsidian Ring,btltbl.bin,3300,AP,00,0
+54,71,Obsidian Ring,btltbl.bin,3301,??? (+05),00,0
+54,71,Obsidian Ring,btltbl.bin,3302,Resist 00 Unknown,64,100
+54,71,Obsidian Ring,btltbl.bin,3303,Resist 01 Physical,64,100
+54,71,Obsidian Ring,btltbl.bin,3304,Resist 02 Fire,64,100
+54,71,Obsidian Ring,btltbl.bin,3305,Resist 03 Blizzard,64,100
+54,71,Obsidian Ring,btltbl.bin,3306,Resist 04 Thunder,64,100
+54,71,Obsidian Ring,btltbl.bin,3307,Resist 05 Unknown,50,80
+54,71,Obsidian Ring,btltbl.bin,3308,Resist 06 Unknown,64,100
+54,71,Obsidian Ring,btltbl.bin,3309,Resist 07 Unknown,64,100
+54,71,Obsidian Ring,btltbl.bin,330A,Resist 08 Percent HP,64,100
+54,71,Obsidian Ring,btltbl.bin,330B,Resist 09 Stop,64,100
+54,71,Obsidian Ring,btltbl.bin,330C,Resist 0A Stun,64,100
+54,71,Obsidian Ring,btltbl.bin,330D,Resist 0B Heal,64,100
+54,71,Obsidian Ring,btltbl.bin,330E,Resist 0C Unknown,64,100
+54,71,Obsidian Ring,btltbl.bin,330F,Resist 0D Unknown,64,100
+54,71,Obsidian Ring,btltbl.bin,3310,Resist 0E Unknown,64,100
+54,71,Obsidian Ring,btltbl.bin,3311,Resist 0F Unknown,64,100
+55,72,A56,btltbl.bin,3312,Max HP,00,0
+55,72,A56,btltbl.bin,3313,Max MP,00,0
+55,72,A56,btltbl.bin,3314,STR,00,0
+55,72,A56,btltbl.bin,3315,DEF,00,0
+55,72,A56,btltbl.bin,3316,AP,00,0
+55,72,A56,btltbl.bin,3317,??? (+05),00,0
+55,72,A56,btltbl.bin,3318,Resist 00 Unknown,64,100
+55,72,A56,btltbl.bin,3319,Resist 01 Physical,64,100
+55,72,A56,btltbl.bin,331A,Resist 02 Fire,64,100
+55,72,A56,btltbl.bin,331B,Resist 03 Blizzard,64,100
+55,72,A56,btltbl.bin,331C,Resist 04 Thunder,64,100
+55,72,A56,btltbl.bin,331D,Resist 05 Unknown,64,100
+55,72,A56,btltbl.bin,331E,Resist 06 Unknown,64,100
+55,72,A56,btltbl.bin,331F,Resist 07 Unknown,64,100
+55,72,A56,btltbl.bin,3320,Resist 08 Percent HP,64,100
+55,72,A56,btltbl.bin,3321,Resist 09 Stop,64,100
+55,72,A56,btltbl.bin,3322,Resist 0A Stun,64,100
+55,72,A56,btltbl.bin,3323,Resist 0B Heal,64,100
+55,72,A56,btltbl.bin,3324,Resist 0C Unknown,64,100
+55,72,A56,btltbl.bin,3325,Resist 0D Unknown,64,100
+55,72,A56,btltbl.bin,3326,Resist 0E Unknown,64,100
+55,72,A56,btltbl.bin,3327,Resist 0F Unknown,64,100
+56,73,A57,btltbl.bin,3328,Max HP,00,0
+56,73,A57,btltbl.bin,3329,Max MP,00,0
+56,73,A57,btltbl.bin,332A,STR,00,0
+56,73,A57,btltbl.bin,332B,DEF,00,0
+56,73,A57,btltbl.bin,332C,AP,00,0
+56,73,A57,btltbl.bin,332D,??? (+05),00,0
+56,73,A57,btltbl.bin,332E,Resist 00 Unknown,64,100
+56,73,A57,btltbl.bin,332F,Resist 01 Physical,64,100
+56,73,A57,btltbl.bin,3330,Resist 02 Fire,64,100
+56,73,A57,btltbl.bin,3331,Resist 03 Blizzard,64,100
+56,73,A57,btltbl.bin,3332,Resist 04 Thunder,64,100
+56,73,A57,btltbl.bin,3333,Resist 05 Unknown,64,100
+56,73,A57,btltbl.bin,3334,Resist 06 Unknown,64,100
+56,73,A57,btltbl.bin,3335,Resist 07 Unknown,64,100
+56,73,A57,btltbl.bin,3336,Resist 08 Percent HP,64,100
+56,73,A57,btltbl.bin,3337,Resist 09 Stop,64,100
+56,73,A57,btltbl.bin,3338,Resist 0A Stun,64,100
+56,73,A57,btltbl.bin,3339,Resist 0B Heal,64,100
+56,73,A57,btltbl.bin,333A,Resist 0C Unknown,64,100
+56,73,A57,btltbl.bin,333B,Resist 0D Unknown,64,100
+56,73,A57,btltbl.bin,333C,Resist 0E Unknown,64,100
+56,73,A57,btltbl.bin,333D,Resist 0F Unknown,64,100
+57,74,A58,btltbl.bin,333E,Max HP,00,0
+57,74,A58,btltbl.bin,333F,Max MP,00,0
+57,74,A58,btltbl.bin,3340,STR,00,0
+57,74,A58,btltbl.bin,3341,DEF,00,0
+57,74,A58,btltbl.bin,3342,AP,00,0
+57,74,A58,btltbl.bin,3343,??? (+05),00,0
+57,74,A58,btltbl.bin,3344,Resist 00 Unknown,64,100
+57,74,A58,btltbl.bin,3345,Resist 01 Physical,64,100
+57,74,A58,btltbl.bin,3346,Resist 02 Fire,64,100
+57,74,A58,btltbl.bin,3347,Resist 03 Blizzard,64,100
+57,74,A58,btltbl.bin,3348,Resist 04 Thunder,64,100
+57,74,A58,btltbl.bin,3349,Resist 05 Unknown,64,100
+57,74,A58,btltbl.bin,334A,Resist 06 Unknown,64,100
+57,74,A58,btltbl.bin,334B,Resist 07 Unknown,64,100
+57,74,A58,btltbl.bin,334C,Resist 08 Percent HP,64,100
+57,74,A58,btltbl.bin,334D,Resist 09 Stop,64,100
+57,74,A58,btltbl.bin,334E,Resist 0A Stun,64,100
+57,74,A58,btltbl.bin,334F,Resist 0B Heal,64,100
+57,74,A58,btltbl.bin,3350,Resist 0C Unknown,64,100
+57,74,A58,btltbl.bin,3351,Resist 0D Unknown,64,100
+57,74,A58,btltbl.bin,3352,Resist 0E Unknown,64,100
+57,74,A58,btltbl.bin,3353,Resist 0F Unknown,64,100
+58,75,A59,btltbl.bin,3354,Max HP,00,0
+58,75,A59,btltbl.bin,3355,Max MP,00,0
+58,75,A59,btltbl.bin,3356,STR,00,0
+58,75,A59,btltbl.bin,3357,DEF,00,0
+58,75,A59,btltbl.bin,3358,AP,00,0
+58,75,A59,btltbl.bin,3359,??? (+05),00,0
+58,75,A59,btltbl.bin,335A,Resist 00 Unknown,64,100
+58,75,A59,btltbl.bin,335B,Resist 01 Physical,64,100
+58,75,A59,btltbl.bin,335C,Resist 02 Fire,64,100
+58,75,A59,btltbl.bin,335D,Resist 03 Blizzard,64,100
+58,75,A59,btltbl.bin,335E,Resist 04 Thunder,64,100
+58,75,A59,btltbl.bin,335F,Resist 05 Unknown,64,100
+58,75,A59,btltbl.bin,3360,Resist 06 Unknown,64,100
+58,75,A59,btltbl.bin,3361,Resist 07 Unknown,64,100
+58,75,A59,btltbl.bin,3362,Resist 08 Percent HP,64,100
+58,75,A59,btltbl.bin,3363,Resist 09 Stop,64,100
+58,75,A59,btltbl.bin,3364,Resist 0A Stun,64,100
+58,75,A59,btltbl.bin,3365,Resist 0B Heal,64,100
+58,75,A59,btltbl.bin,3366,Resist 0C Unknown,64,100
+58,75,A59,btltbl.bin,3367,Resist 0D Unknown,64,100
+58,75,A59,btltbl.bin,3368,Resist 0E Unknown,64,100
+58,75,A59,btltbl.bin,3369,Resist 0F Unknown,64,100
+59,76,A60,btltbl.bin,336A,Max HP,00,0
+59,76,A60,btltbl.bin,336B,Max MP,00,0
+59,76,A60,btltbl.bin,336C,STR,00,0
+59,76,A60,btltbl.bin,336D,DEF,00,0
+59,76,A60,btltbl.bin,336E,AP,00,0
+59,76,A60,btltbl.bin,336F,??? (+05),00,0
+59,76,A60,btltbl.bin,3370,Resist 00 Unknown,64,100
+59,76,A60,btltbl.bin,3371,Resist 01 Physical,64,100
+59,76,A60,btltbl.bin,3372,Resist 02 Fire,64,100
+59,76,A60,btltbl.bin,3373,Resist 03 Blizzard,64,100
+59,76,A60,btltbl.bin,3374,Resist 04 Thunder,64,100
+59,76,A60,btltbl.bin,3375,Resist 05 Unknown,64,100
+59,76,A60,btltbl.bin,3376,Resist 06 Unknown,64,100
+59,76,A60,btltbl.bin,3377,Resist 07 Unknown,64,100
+59,76,A60,btltbl.bin,3378,Resist 08 Percent HP,64,100
+59,76,A60,btltbl.bin,3379,Resist 09 Stop,64,100
+59,76,A60,btltbl.bin,337A,Resist 0A Stun,64,100
+59,76,A60,btltbl.bin,337B,Resist 0B Heal,64,100
+59,76,A60,btltbl.bin,337C,Resist 0C Unknown,64,100
+59,76,A60,btltbl.bin,337D,Resist 0D Unknown,64,100
+59,76,A60,btltbl.bin,337E,Resist 0E Unknown,64,100
+59,76,A60,btltbl.bin,337F,Resist 0F Unknown,64,100
+60,77,A61,btltbl.bin,3380,Max HP,00,0
+60,77,A61,btltbl.bin,3381,Max MP,00,0
+60,77,A61,btltbl.bin,3382,STR,00,0
+60,77,A61,btltbl.bin,3383,DEF,00,0
+60,77,A61,btltbl.bin,3384,AP,00,0
+60,77,A61,btltbl.bin,3385,??? (+05),00,0
+60,77,A61,btltbl.bin,3386,Resist 00 Unknown,64,100
+60,77,A61,btltbl.bin,3387,Resist 01 Physical,64,100
+60,77,A61,btltbl.bin,3388,Resist 02 Fire,64,100
+60,77,A61,btltbl.bin,3389,Resist 03 Blizzard,64,100
+60,77,A61,btltbl.bin,338A,Resist 04 Thunder,64,100
+60,77,A61,btltbl.bin,338B,Resist 05 Unknown,64,100
+60,77,A61,btltbl.bin,338C,Resist 06 Unknown,64,100
+60,77,A61,btltbl.bin,338D,Resist 07 Unknown,64,100
+60,77,A61,btltbl.bin,338E,Resist 08 Percent HP,64,100
+60,77,A61,btltbl.bin,338F,Resist 09 Stop,64,100
+60,77,A61,btltbl.bin,3390,Resist 0A Stun,64,100
+60,77,A61,btltbl.bin,3391,Resist 0B Heal,64,100
+60,77,A61,btltbl.bin,3392,Resist 0C Unknown,64,100
+60,77,A61,btltbl.bin,3393,Resist 0D Unknown,64,100
+60,77,A61,btltbl.bin,3394,Resist 0E Unknown,64,100
+60,77,A61,btltbl.bin,3395,Resist 0F Unknown,64,100
+61,78,A62,btltbl.bin,3396,Max HP,00,0
+61,78,A62,btltbl.bin,3397,Max MP,00,0
+61,78,A62,btltbl.bin,3398,STR,00,0
+61,78,A62,btltbl.bin,3399,DEF,00,0
+61,78,A62,btltbl.bin,339A,AP,00,0
+61,78,A62,btltbl.bin,339B,??? (+05),00,0
+61,78,A62,btltbl.bin,339C,Resist 00 Unknown,64,100
+61,78,A62,btltbl.bin,339D,Resist 01 Physical,64,100
+61,78,A62,btltbl.bin,339E,Resist 02 Fire,64,100
+61,78,A62,btltbl.bin,339F,Resist 03 Blizzard,64,100
+61,78,A62,btltbl.bin,33A0,Resist 04 Thunder,64,100
+61,78,A62,btltbl.bin,33A1,Resist 05 Unknown,64,100
+61,78,A62,btltbl.bin,33A2,Resist 06 Unknown,64,100
+61,78,A62,btltbl.bin,33A3,Resist 07 Unknown,64,100
+61,78,A62,btltbl.bin,33A4,Resist 08 Percent HP,64,100
+61,78,A62,btltbl.bin,33A5,Resist 09 Stop,64,100
+61,78,A62,btltbl.bin,33A6,Resist 0A Stun,64,100
+61,78,A62,btltbl.bin,33A7,Resist 0B Heal,64,100
+61,78,A62,btltbl.bin,33A8,Resist 0C Unknown,64,100
+61,78,A62,btltbl.bin,33A9,Resist 0D Unknown,64,100
+61,78,A62,btltbl.bin,33AA,Resist 0E Unknown,64,100
+61,78,A62,btltbl.bin,33AB,Resist 0F Unknown,64,100
+62,79,A63,btltbl.bin,33AC,Max HP,00,0
+62,79,A63,btltbl.bin,33AD,Max MP,00,0
+62,79,A63,btltbl.bin,33AE,STR,00,0
+62,79,A63,btltbl.bin,33AF,DEF,00,0
+62,79,A63,btltbl.bin,33B0,AP,00,0
+62,79,A63,btltbl.bin,33B1,??? (+05),00,0
+62,79,A63,btltbl.bin,33B2,Resist 00 Unknown,64,100
+62,79,A63,btltbl.bin,33B3,Resist 01 Physical,64,100
+62,79,A63,btltbl.bin,33B4,Resist 02 Fire,64,100
+62,79,A63,btltbl.bin,33B5,Resist 03 Blizzard,64,100
+62,79,A63,btltbl.bin,33B6,Resist 04 Thunder,64,100
+62,79,A63,btltbl.bin,33B7,Resist 05 Unknown,64,100
+62,79,A63,btltbl.bin,33B8,Resist 06 Unknown,64,100
+62,79,A63,btltbl.bin,33B9,Resist 07 Unknown,64,100
+62,79,A63,btltbl.bin,33BA,Resist 08 Percent HP,64,100
+62,79,A63,btltbl.bin,33BB,Resist 09 Stop,64,100
+62,79,A63,btltbl.bin,33BC,Resist 0A Stun,64,100
+62,79,A63,btltbl.bin,33BD,Resist 0B Heal,64,100
+62,79,A63,btltbl.bin,33BE,Resist 0C Unknown,64,100
+62,79,A63,btltbl.bin,33BF,Resist 0D Unknown,64,100
+62,79,A63,btltbl.bin,33C0,Resist 0E Unknown,64,100
+62,79,A63,btltbl.bin,33C1,Resist 0F Unknown,64,100
+63,80,A64,btltbl.bin,33C2,Max HP,00,0
+63,80,A64,btltbl.bin,33C3,Max MP,00,0
+63,80,A64,btltbl.bin,33C4,STR,00,0
+63,80,A64,btltbl.bin,33C5,DEF,00,0
+63,80,A64,btltbl.bin,33C6,AP,00,0
+63,80,A64,btltbl.bin,33C7,??? (+05),00,0
+63,80,A64,btltbl.bin,33C8,Resist 00 Unknown,64,100
+63,80,A64,btltbl.bin,33C9,Resist 01 Physical,64,100
+63,80,A64,btltbl.bin,33CA,Resist 02 Fire,64,100
+63,80,A64,btltbl.bin,33CB,Resist 03 Blizzard,64,100
+63,80,A64,btltbl.bin,33CC,Resist 04 Thunder,64,100
+63,80,A64,btltbl.bin,33CD,Resist 05 Unknown,64,100
+63,80,A64,btltbl.bin,33CE,Resist 06 Unknown,64,100
+63,80,A64,btltbl.bin,33CF,Resist 07 Unknown,64,100
+63,80,A64,btltbl.bin,33D0,Resist 08 Percent HP,64,100
+63,80,A64,btltbl.bin,33D1,Resist 09 Stop,64,100
+63,80,A64,btltbl.bin,33D2,Resist 0A Stun,64,100
+63,80,A64,btltbl.bin,33D3,Resist 0B Heal,64,100
+63,80,A64,btltbl.bin,33D4,Resist 0C Unknown,64,100
+63,80,A64,btltbl.bin,33D5,Resist 0D Unknown,64,100
+63,80,A64,btltbl.bin,33D6,Resist 0E Unknown,64,100
+63,80,A64,btltbl.bin,33D7,Resist 0F Unknown,64,100

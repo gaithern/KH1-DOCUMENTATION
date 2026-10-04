@@ -1,21 +1,221 @@
-Voice Set (HEX),Voice Set (Dec),File,Offset,Value (HEX),Priority,Clip 1 (HEX),Clip 1 (Dec),Weight 1,Clip 2 (HEX),Clip 2 (Dec),Weight 2,Clip 3 (HEX),Clip 3 (Dec),Weight 3,Clip 4 (HEX),Clip 4 (Dec),Weight 4,Clip 5 (HEX),Clip 5 (Dec),Weight 5,Description
-00,0,btltbl.bin,BC48,03 0A 00 0B 00 0C 00 FF 00 FF 00,3,0A,10,0,0B,11,0,0C,12,0,FF,-1,0,FF,-1,0,Small Hurt
-01,1,btltbl.bin,BC53,03 0D 00 0E 00 FF 00 FF 00 FF 00,3,0D,13,0,0E,14,0,FF,-1,0,FF,-1,0,FF,-1,0,Large Hurt
-02,2,btltbl.bin,BC5E,03 10 00 FF 00 FF 00 FF 00 FF 00,3,10,16,0,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Death
-03,3,btltbl.bin,BC69,03 FD 64 12 32 13 32 FF 00 FF 00,3,FD,-3,100,12,18,50,13,19,50,FF,-1,0,FF,-1,0,Use Item (self)
-04,4,btltbl.bin,BC74,03 15 00 16 00 17 00 18 00 1C 00,3,15,21,0,16,22,0,17,23,0,18,24,0,1C,28,0,Normal attack
-05,5,btltbl.bin,BC7F,03 19 00 1A 00 1B 00 21 00 FF 00,3,19,25,0,1A,26,0,1B,27,0,21,33,0,FF,-1,0,Normal finisher
-06,6,btltbl.bin,BC8A,03 1D 00 1F 00 20 00 FF 00 FF 00,3,1D,29,0,1F,31,0,20,32,0,FF,-1,0,FF,-1,0,Special finisher
-07,7,btltbl.bin,BC95,03 28 4B 1E 19 FF 00 FF 00 FF 00,3,28,40,75,1E,30,25,FF,-1,0,FF,-1,0,FF,-1,0,Fire
-08,8,btltbl.bin,BCA0,03 29 4B 1E 19 FF 00 FF 00 FF 00,3,29,41,75,1E,30,25,FF,-1,0,FF,-1,0,FF,-1,0,Blizzard
-09,9,btltbl.bin,BCAB,03 2A 4B 12 19 FF 00 FF 00 FF 00,3,2A,42,75,12,18,25,FF,-1,0,FF,-1,0,FF,-1,0,Thunder
-0A,10,btltbl.bin,BCB6,03 FD 64 2B 4B 13 19 FF 00 FF 00,3,FD,-3,100,2B,43,75,13,19,25,FF,-1,0,FF,-1,0,Cure
-0B,11,btltbl.bin,BCC1,03 2C 4B 1E 00 FF 00 FF 00 FF 00,3,2C,44,75,1E,30,0,FF,-1,0,FF,-1,0,FF,-1,0,Gravity
-0C,12,btltbl.bin,BCCC,03 2D 4B 12 00 FF 00 FF 00 FF 00,3,2D,45,75,12,18,0,FF,-1,0,FF,-1,0,FF,-1,0,Stop
-0D,13,btltbl.bin,BCD7,03 FD 64 2E 32 2F 32 FF 00 FF 00,3,FD,-3,100,2E,46,50,2F,47,50,FF,-1,0,FF,-1,0,Aero
-0E,14,btltbl.bin,BCE2,03 22 00 24 00 1D 00 1F 00 FF 00,3,22,34,0,24,36,0,1D,29,0,1F,31,0,FF,-1,0,Summon attack
-0F,15,btltbl.bin,BCED,03 23 00 26 00 FF 00 FF 00 FF 00,3,23,35,0,26,38,0,FF,-1,0,FF,-1,0,FF,-1,0,Summon start
-10,16,btltbl.bin,BCF8,02 FD 64 FF 00 FF 00 FF 00 FF 00,2,FD,-3,100,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Nothing on keyblade swing (probably depends on target)
-11,17,btltbl.bin,BD03,03 25 4B 1E 19 FF 00 FF 00 FF 00,3,25,37,75,1E,30,25,FF,-1,0,FF,-1,0,FF,-1,0,Summon attack 2
-12,18,btltbl.bin,BD0E,03 26 00 FF 00 FF 00 FF 00 FF 00,3,26,38,0,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Summon start 2
-13,19,btltbl.bin,BD19,03 18 00 FF 00 FF 00 FF 00 FF 00,3,18,24,0,FF,-1,0,FF,-1,0,FF,-1,0,FF,-1,0,Normal attack
+Voice Set (HEX),Voice Set (Dec),Description,File,Offset,Field,Value (HEX),Value
+00,0,Small Hurt,btltbl.bin,BC48,Priority,03,3
+00,0,Small Hurt,btltbl.bin,BC49,Clip 1,0A,10
+00,0,Small Hurt,btltbl.bin,BC4A,Weight 1,00,0
+00,0,Small Hurt,btltbl.bin,BC4B,Clip 2,0B,11
+00,0,Small Hurt,btltbl.bin,BC4C,Weight 2,00,0
+00,0,Small Hurt,btltbl.bin,BC4D,Clip 3,0C,12
+00,0,Small Hurt,btltbl.bin,BC4E,Weight 3,00,0
+00,0,Small Hurt,btltbl.bin,BC4F,Clip 4,FF,-1
+00,0,Small Hurt,btltbl.bin,BC50,Weight 4,00,0
+00,0,Small Hurt,btltbl.bin,BC51,Clip 5,FF,-1
+00,0,Small Hurt,btltbl.bin,BC52,Weight 5,00,0
+01,1,Large Hurt,btltbl.bin,BC53,Priority,03,3
+01,1,Large Hurt,btltbl.bin,BC54,Clip 1,0D,13
+01,1,Large Hurt,btltbl.bin,BC55,Weight 1,00,0
+01,1,Large Hurt,btltbl.bin,BC56,Clip 2,0E,14
+01,1,Large Hurt,btltbl.bin,BC57,Weight 2,00,0
+01,1,Large Hurt,btltbl.bin,BC58,Clip 3,FF,-1
+01,1,Large Hurt,btltbl.bin,BC59,Weight 3,00,0
+01,1,Large Hurt,btltbl.bin,BC5A,Clip 4,FF,-1
+01,1,Large Hurt,btltbl.bin,BC5B,Weight 4,00,0
+01,1,Large Hurt,btltbl.bin,BC5C,Clip 5,FF,-1
+01,1,Large Hurt,btltbl.bin,BC5D,Weight 5,00,0
+02,2,Death,btltbl.bin,BC5E,Priority,03,3
+02,2,Death,btltbl.bin,BC5F,Clip 1,10,16
+02,2,Death,btltbl.bin,BC60,Weight 1,00,0
+02,2,Death,btltbl.bin,BC61,Clip 2,FF,-1
+02,2,Death,btltbl.bin,BC62,Weight 2,00,0
+02,2,Death,btltbl.bin,BC63,Clip 3,FF,-1
+02,2,Death,btltbl.bin,BC64,Weight 3,00,0
+02,2,Death,btltbl.bin,BC65,Clip 4,FF,-1
+02,2,Death,btltbl.bin,BC66,Weight 4,00,0
+02,2,Death,btltbl.bin,BC67,Clip 5,FF,-1
+02,2,Death,btltbl.bin,BC68,Weight 5,00,0
+03,3,Use Item (self),btltbl.bin,BC69,Priority,03,3
+03,3,Use Item (self),btltbl.bin,BC6A,Clip 1,FD,-3
+03,3,Use Item (self),btltbl.bin,BC6B,Weight 1,64,100
+03,3,Use Item (self),btltbl.bin,BC6C,Clip 2,12,18
+03,3,Use Item (self),btltbl.bin,BC6D,Weight 2,32,50
+03,3,Use Item (self),btltbl.bin,BC6E,Clip 3,13,19
+03,3,Use Item (self),btltbl.bin,BC6F,Weight 3,32,50
+03,3,Use Item (self),btltbl.bin,BC70,Clip 4,FF,-1
+03,3,Use Item (self),btltbl.bin,BC71,Weight 4,00,0
+03,3,Use Item (self),btltbl.bin,BC72,Clip 5,FF,-1
+03,3,Use Item (self),btltbl.bin,BC73,Weight 5,00,0
+04,4,Normal attack,btltbl.bin,BC74,Priority,03,3
+04,4,Normal attack,btltbl.bin,BC75,Clip 1,15,21
+04,4,Normal attack,btltbl.bin,BC76,Weight 1,00,0
+04,4,Normal attack,btltbl.bin,BC77,Clip 2,16,22
+04,4,Normal attack,btltbl.bin,BC78,Weight 2,00,0
+04,4,Normal attack,btltbl.bin,BC79,Clip 3,17,23
+04,4,Normal attack,btltbl.bin,BC7A,Weight 3,00,0
+04,4,Normal attack,btltbl.bin,BC7B,Clip 4,18,24
+04,4,Normal attack,btltbl.bin,BC7C,Weight 4,00,0
+04,4,Normal attack,btltbl.bin,BC7D,Clip 5,1C,28
+04,4,Normal attack,btltbl.bin,BC7E,Weight 5,00,0
+05,5,Normal finisher,btltbl.bin,BC7F,Priority,03,3
+05,5,Normal finisher,btltbl.bin,BC80,Clip 1,19,25
+05,5,Normal finisher,btltbl.bin,BC81,Weight 1,00,0
+05,5,Normal finisher,btltbl.bin,BC82,Clip 2,1A,26
+05,5,Normal finisher,btltbl.bin,BC83,Weight 2,00,0
+05,5,Normal finisher,btltbl.bin,BC84,Clip 3,1B,27
+05,5,Normal finisher,btltbl.bin,BC85,Weight 3,00,0
+05,5,Normal finisher,btltbl.bin,BC86,Clip 4,21,33
+05,5,Normal finisher,btltbl.bin,BC87,Weight 4,00,0
+05,5,Normal finisher,btltbl.bin,BC88,Clip 5,FF,-1
+05,5,Normal finisher,btltbl.bin,BC89,Weight 5,00,0
+06,6,Special finisher,btltbl.bin,BC8A,Priority,03,3
+06,6,Special finisher,btltbl.bin,BC8B,Clip 1,1D,29
+06,6,Special finisher,btltbl.bin,BC8C,Weight 1,00,0
+06,6,Special finisher,btltbl.bin,BC8D,Clip 2,1F,31
+06,6,Special finisher,btltbl.bin,BC8E,Weight 2,00,0
+06,6,Special finisher,btltbl.bin,BC8F,Clip 3,20,32
+06,6,Special finisher,btltbl.bin,BC90,Weight 3,00,0
+06,6,Special finisher,btltbl.bin,BC91,Clip 4,FF,-1
+06,6,Special finisher,btltbl.bin,BC92,Weight 4,00,0
+06,6,Special finisher,btltbl.bin,BC93,Clip 5,FF,-1
+06,6,Special finisher,btltbl.bin,BC94,Weight 5,00,0
+07,7,Fire,btltbl.bin,BC95,Priority,03,3
+07,7,Fire,btltbl.bin,BC96,Clip 1,28,40
+07,7,Fire,btltbl.bin,BC97,Weight 1,4B,75
+07,7,Fire,btltbl.bin,BC98,Clip 2,1E,30
+07,7,Fire,btltbl.bin,BC99,Weight 2,19,25
+07,7,Fire,btltbl.bin,BC9A,Clip 3,FF,-1
+07,7,Fire,btltbl.bin,BC9B,Weight 3,00,0
+07,7,Fire,btltbl.bin,BC9C,Clip 4,FF,-1
+07,7,Fire,btltbl.bin,BC9D,Weight 4,00,0
+07,7,Fire,btltbl.bin,BC9E,Clip 5,FF,-1
+07,7,Fire,btltbl.bin,BC9F,Weight 5,00,0
+08,8,Blizzard,btltbl.bin,BCA0,Priority,03,3
+08,8,Blizzard,btltbl.bin,BCA1,Clip 1,29,41
+08,8,Blizzard,btltbl.bin,BCA2,Weight 1,4B,75
+08,8,Blizzard,btltbl.bin,BCA3,Clip 2,1E,30
+08,8,Blizzard,btltbl.bin,BCA4,Weight 2,19,25
+08,8,Blizzard,btltbl.bin,BCA5,Clip 3,FF,-1
+08,8,Blizzard,btltbl.bin,BCA6,Weight 3,00,0
+08,8,Blizzard,btltbl.bin,BCA7,Clip 4,FF,-1
+08,8,Blizzard,btltbl.bin,BCA8,Weight 4,00,0
+08,8,Blizzard,btltbl.bin,BCA9,Clip 5,FF,-1
+08,8,Blizzard,btltbl.bin,BCAA,Weight 5,00,0
+09,9,Thunder,btltbl.bin,BCAB,Priority,03,3
+09,9,Thunder,btltbl.bin,BCAC,Clip 1,2A,42
+09,9,Thunder,btltbl.bin,BCAD,Weight 1,4B,75
+09,9,Thunder,btltbl.bin,BCAE,Clip 2,12,18
+09,9,Thunder,btltbl.bin,BCAF,Weight 2,19,25
+09,9,Thunder,btltbl.bin,BCB0,Clip 3,FF,-1
+09,9,Thunder,btltbl.bin,BCB1,Weight 3,00,0
+09,9,Thunder,btltbl.bin,BCB2,Clip 4,FF,-1
+09,9,Thunder,btltbl.bin,BCB3,Weight 4,00,0
+09,9,Thunder,btltbl.bin,BCB4,Clip 5,FF,-1
+09,9,Thunder,btltbl.bin,BCB5,Weight 5,00,0
+0A,10,Cure,btltbl.bin,BCB6,Priority,03,3
+0A,10,Cure,btltbl.bin,BCB7,Clip 1,FD,-3
+0A,10,Cure,btltbl.bin,BCB8,Weight 1,64,100
+0A,10,Cure,btltbl.bin,BCB9,Clip 2,2B,43
+0A,10,Cure,btltbl.bin,BCBA,Weight 2,4B,75
+0A,10,Cure,btltbl.bin,BCBB,Clip 3,13,19
+0A,10,Cure,btltbl.bin,BCBC,Weight 3,19,25
+0A,10,Cure,btltbl.bin,BCBD,Clip 4,FF,-1
+0A,10,Cure,btltbl.bin,BCBE,Weight 4,00,0
+0A,10,Cure,btltbl.bin,BCBF,Clip 5,FF,-1
+0A,10,Cure,btltbl.bin,BCC0,Weight 5,00,0
+0B,11,Gravity,btltbl.bin,BCC1,Priority,03,3
+0B,11,Gravity,btltbl.bin,BCC2,Clip 1,2C,44
+0B,11,Gravity,btltbl.bin,BCC3,Weight 1,4B,75
+0B,11,Gravity,btltbl.bin,BCC4,Clip 2,1E,30
+0B,11,Gravity,btltbl.bin,BCC5,Weight 2,00,0
+0B,11,Gravity,btltbl.bin,BCC6,Clip 3,FF,-1
+0B,11,Gravity,btltbl.bin,BCC7,Weight 3,00,0
+0B,11,Gravity,btltbl.bin,BCC8,Clip 4,FF,-1
+0B,11,Gravity,btltbl.bin,BCC9,Weight 4,00,0
+0B,11,Gravity,btltbl.bin,BCCA,Clip 5,FF,-1
+0B,11,Gravity,btltbl.bin,BCCB,Weight 5,00,0
+0C,12,Stop,btltbl.bin,BCCC,Priority,03,3
+0C,12,Stop,btltbl.bin,BCCD,Clip 1,2D,45
+0C,12,Stop,btltbl.bin,BCCE,Weight 1,4B,75
+0C,12,Stop,btltbl.bin,BCCF,Clip 2,12,18
+0C,12,Stop,btltbl.bin,BCD0,Weight 2,00,0
+0C,12,Stop,btltbl.bin,BCD1,Clip 3,FF,-1
+0C,12,Stop,btltbl.bin,BCD2,Weight 3,00,0
+0C,12,Stop,btltbl.bin,BCD3,Clip 4,FF,-1
+0C,12,Stop,btltbl.bin,BCD4,Weight 4,00,0
+0C,12,Stop,btltbl.bin,BCD5,Clip 5,FF,-1
+0C,12,Stop,btltbl.bin,BCD6,Weight 5,00,0
+0D,13,Aero,btltbl.bin,BCD7,Priority,03,3
+0D,13,Aero,btltbl.bin,BCD8,Clip 1,FD,-3
+0D,13,Aero,btltbl.bin,BCD9,Weight 1,64,100
+0D,13,Aero,btltbl.bin,BCDA,Clip 2,2E,46
+0D,13,Aero,btltbl.bin,BCDB,Weight 2,32,50
+0D,13,Aero,btltbl.bin,BCDC,Clip 3,2F,47
+0D,13,Aero,btltbl.bin,BCDD,Weight 3,32,50
+0D,13,Aero,btltbl.bin,BCDE,Clip 4,FF,-1
+0D,13,Aero,btltbl.bin,BCDF,Weight 4,00,0
+0D,13,Aero,btltbl.bin,BCE0,Clip 5,FF,-1
+0D,13,Aero,btltbl.bin,BCE1,Weight 5,00,0
+0E,14,Summon attack,btltbl.bin,BCE2,Priority,03,3
+0E,14,Summon attack,btltbl.bin,BCE3,Clip 1,22,34
+0E,14,Summon attack,btltbl.bin,BCE4,Weight 1,00,0
+0E,14,Summon attack,btltbl.bin,BCE5,Clip 2,24,36
+0E,14,Summon attack,btltbl.bin,BCE6,Weight 2,00,0
+0E,14,Summon attack,btltbl.bin,BCE7,Clip 3,1D,29
+0E,14,Summon attack,btltbl.bin,BCE8,Weight 3,00,0
+0E,14,Summon attack,btltbl.bin,BCE9,Clip 4,1F,31
+0E,14,Summon attack,btltbl.bin,BCEA,Weight 4,00,0
+0E,14,Summon attack,btltbl.bin,BCEB,Clip 5,FF,-1
+0E,14,Summon attack,btltbl.bin,BCEC,Weight 5,00,0
+0F,15,Summon start,btltbl.bin,BCED,Priority,03,3
+0F,15,Summon start,btltbl.bin,BCEE,Clip 1,23,35
+0F,15,Summon start,btltbl.bin,BCEF,Weight 1,00,0
+0F,15,Summon start,btltbl.bin,BCF0,Clip 2,26,38
+0F,15,Summon start,btltbl.bin,BCF1,Weight 2,00,0
+0F,15,Summon start,btltbl.bin,BCF2,Clip 3,FF,-1
+0F,15,Summon start,btltbl.bin,BCF3,Weight 3,00,0
+0F,15,Summon start,btltbl.bin,BCF4,Clip 4,FF,-1
+0F,15,Summon start,btltbl.bin,BCF5,Weight 4,00,0
+0F,15,Summon start,btltbl.bin,BCF6,Clip 5,FF,-1
+0F,15,Summon start,btltbl.bin,BCF7,Weight 5,00,0
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCF8,Priority,02,2
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCF9,Clip 1,FD,-3
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCFA,Weight 1,64,100
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCFB,Clip 2,FF,-1
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCFC,Weight 2,00,0
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCFD,Clip 3,FF,-1
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCFE,Weight 3,00,0
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BCFF,Clip 4,FF,-1
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BD00,Weight 4,00,0
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BD01,Clip 5,FF,-1
+10,16,Nothing on keyblade swing (probably depends on target),btltbl.bin,BD02,Weight 5,00,0
+11,17,Summon attack 2,btltbl.bin,BD03,Priority,03,3
+11,17,Summon attack 2,btltbl.bin,BD04,Clip 1,25,37
+11,17,Summon attack 2,btltbl.bin,BD05,Weight 1,4B,75
+11,17,Summon attack 2,btltbl.bin,BD06,Clip 2,1E,30
+11,17,Summon attack 2,btltbl.bin,BD07,Weight 2,19,25
+11,17,Summon attack 2,btltbl.bin,BD08,Clip 3,FF,-1
+11,17,Summon attack 2,btltbl.bin,BD09,Weight 3,00,0
+11,17,Summon attack 2,btltbl.bin,BD0A,Clip 4,FF,-1
+11,17,Summon attack 2,btltbl.bin,BD0B,Weight 4,00,0
+11,17,Summon attack 2,btltbl.bin,BD0C,Clip 5,FF,-1
+11,17,Summon attack 2,btltbl.bin,BD0D,Weight 5,00,0
+12,18,Summon start 2,btltbl.bin,BD0E,Priority,03,3
+12,18,Summon start 2,btltbl.bin,BD0F,Clip 1,26,38
+12,18,Summon start 2,btltbl.bin,BD10,Weight 1,00,0
+12,18,Summon start 2,btltbl.bin,BD11,Clip 2,FF,-1
+12,18,Summon start 2,btltbl.bin,BD12,Weight 2,00,0
+12,18,Summon start 2,btltbl.bin,BD13,Clip 3,FF,-1
+12,18,Summon start 2,btltbl.bin,BD14,Weight 3,00,0
+12,18,Summon start 2,btltbl.bin,BD15,Clip 4,FF,-1
+12,18,Summon start 2,btltbl.bin,BD16,Weight 4,00,0
+12,18,Summon start 2,btltbl.bin,BD17,Clip 5,FF,-1
+12,18,Summon start 2,btltbl.bin,BD18,Weight 5,00,0
+13,19,Normal attack,btltbl.bin,BD19,Priority,03,3
+13,19,Normal attack,btltbl.bin,BD1A,Clip 1,18,24
+13,19,Normal attack,btltbl.bin,BD1B,Weight 1,00,0
+13,19,Normal attack,btltbl.bin,BD1C,Clip 2,FF,-1
+13,19,Normal attack,btltbl.bin,BD1D,Weight 2,00,0
+13,19,Normal attack,btltbl.bin,BD1E,Clip 3,FF,-1
+13,19,Normal attack,btltbl.bin,BD1F,Weight 3,00,0
+13,19,Normal attack,btltbl.bin,BD20,Clip 4,FF,-1
+13,19,Normal attack,btltbl.bin,BD21,Weight 4,00,0
+13,19,Normal attack,btltbl.bin,BD22,Clip 5,FF,-1
+13,19,Normal attack,btltbl.bin,BD23,Weight 5,00,0

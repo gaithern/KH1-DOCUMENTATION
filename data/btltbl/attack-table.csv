@@ -1,235 +1,2107 @@
-Character ID,Character,Attack Index,Attack Index (Hex),Attack Name,File,Offset,Motion ID (HEX),Motion ID (Dec),Keyblade Trail (HEX),Keyblade Trail (Dec),Persistent Weapon Effect (HEX),Persistent Weapon Effect (Dec),Hit Parameters Offset (HEX),Hit Parameters Offset (Dec),Lift (HEX),Lift (Float),Voice Set (HEX),Voice Set (Dec),Hit Sound (HEX),Hit Sound (Dec),Wall Hit Sound (HEX),Wall Hit Sound (Dec),Crit Hit Sound (HEX),Crit Hit Sound (Dec)
-0,Sora,0,00,Aerial Sweep,btltbl.bin,A9F0,D6,214,05,5,FF,-1,4CC8,19656,00 00 00 00,0,04,4,03,3,05,5,06,6
-0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA04,CD,205,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,04,4,05,5,06,6
-0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA18,CC,204,05,5,FF,-1,4B78,19320,00 00 70 42,60,04,4,00,0,05,5,06,6
-0,Sora,3,03,Stun Impact,btltbl.bin,AA2C,D8,216,05,5,FF,-1,4EF8,20216,00 00 00 00,0,06,6,1B,27,05,5,1B,27
-0,Sora,4,04,Gravity Break,btltbl.bin,AA40,D9,217,05,5,FF,-1,4F68,20328,00 00 00 00,0,06,6,17,23,05,5,17,23
-0,Sora,5,05,Zantetsuken,btltbl.bin,AA54,DA,218,05,5,FF,-1,4FD8,20440,00 00 00 00,0,06,6,18,24,05,5,18,24
-0,Sora,6,06,Blitz,btltbl.bin,AA68,D2,210,05,5,FF,-1,4D38,19768,00 00 00 00,0,06,6,1B,27,05,5,06,6
-0,Sora,7,07,Ripple Drive,btltbl.bin,AA7C,D7,215,05,5,FF,-1,4E88,20104,00 00 00 00,0,05,5,17,23,05,5,17,23
-0,Sora,8,08,Ground Finisher,btltbl.bin,AA90,CB,203,05,5,FF,-1,4C58,19544,00 00 00 00,0,05,5,03,3,05,5,06,6
-0,Sora,9,09,Sliding Dash,btltbl.bin,AAA4,D0,208,05,5,FF,-1,50B8,20664,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,10,0A,Vortex,btltbl.bin,AAB8,D3,211,05,5,FF,-1,4CC8,19656,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,11,0B,Swipe,btltbl.bin,AACC,C9,201,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,12,0C,Slapshot,btltbl.bin,AAE0,CF,207,05,5,FF,-1,5128,20776,00 00 00 00,0,04,4,00,0,05,5,06,6
-0,Sora,13,0D,Overhand Swing,btltbl.bin,AAF4,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
-0,Sora,14,0E,Thurst,btltbl.bin,AB08,CA,202,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB1C,D1,209,05,5,FF,-1,5048,20552,00 00 20 42,40,05,5,1B,27,05,5,06,6
-0,Sora,16,10,Air Finisher,btltbl.bin,AB30,CE,206,05,5,FF,-1,4C58,19544,00 00 20 42,40,05,5,03,3,05,5,06,6
-0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB44,CD,205,05,5,FF,-1,4BE8,19432,00 00 A0 41,20,04,4,04,4,05,5,06,6
-0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB58,CC,204,05,5,FF,-1,4B78,19320,00 00 A0 41,20,04,4,00,0,05,5,06,6
-0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB6C,CE,206,05,5,FF,-1,4C58,19544,00 00 00 41,8,05,5,03,3,05,5,06,6
-0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB80,CD,205,05,5,FF,-1,4B78,19320,00 00 00 41,8,04,4,04,4,05,5,06,6
-0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,AB94,CC,204,05,5,FF,-1,4B78,19320,00 00 00 41,8,04,4,00,0,05,5,06,6
-0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABA8,CB,203,05,5,FF,-1,4C58,19544,00 00 00 00,0,05,5,03,3,05,5,06,6
-0,Sora,23,17,Swipe 2,btltbl.bin,ABBC,C9,201,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,24,18,Swipe 3,btltbl.bin,ABD0,C9,201,05,5,FF,-1,4BE8,19432,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABE4,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
-0,Sora,26,1A,Thrust 2,btltbl.bin,ABF8,CA,202,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC0C,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,FF,-1,02,2,05,5,06,6
-0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC20,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC34,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC48,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC5C,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC70,C9,201,FF,-1,FF,-1,5C18,23576,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,33,21,Sonic Blade final,btltbl.bin,AC84,CA,202,FF,-1,FF,-1,5C88,23688,00 00 00 00,0,06,6,12,18,05,5,12,18
-0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,AC98,D3,211,05,5,FF,-1,5A58,23128,00 00 00 00,0,FF,-1,04,4,05,5,06,6
-0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACAC,D4,212,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,00,0,05,5,06,6
-0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACC0,D5,213,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACD4,D6,214,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,FF,-1,01,1,05,5,06,6
-0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACE8,D7,215,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,ACFC,D8,216,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,FF,-1,04,4,05,5,06,6
-0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD10,D9,217,FF,-1,FF,-1,5B38,23352,00 00 00 00,0,05,5,13,19,05,5,13,19
-0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD24,DA,218,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD38,DB,219,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD4C,DC,220,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,01,1,05,5,06,6
-0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD60,DD,221,FF,-1,FF,-1,5A58,23128,00 00 00 00,0,04,4,03,3,05,5,06,6
-0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD74,DE,222,FF,-1,FF,-1,52E8,21224,00 00 00 00,0,05,5,00,0,05,5,06,6
-0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD88,DF,223,FF,-1,FF,-1,5BA8,23464,00 00 00 00,0,06,6,14,20,05,5,14,20
-0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,AD9C,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,FF,-1,02,2,05,5,06,6
-0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADB0,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADC4,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADD8,E7,231,05,5,FF,-1,55F8,22008,00 00 00 00,0,05,5,02,2,05,5,06,6
-0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADEC,E8,232,05,5,FF,-1,5668,22120,00 00 00 00,0,06,6,18,24,19,25,18,24
-0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE00,E7,231,FF,-1,FF,-1,55F8,22008,00 00 00 00,0,04,4,02,2,05,5,06,6
-0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE14,E8,232,FF,-1,FF,-1,5668,22120,00 00 00 00,0,06,6,FF,-1,FF,-1,FF,-1
-0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE28,F1,241,05,5,FF,-1,5A58,23128,00 00 70 42,60,FF,-1,04,4,05,5,06,6
-0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE3C,F2,242,FF,-1,FF,-1,5A58,23128,00 00 20 42,40,04,4,00,0,05,5,06,6
-0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE50,F3,243,FF,-1,FF,-1,5A58,23128,00 00 20 42,40,FF,-1,01,1,05,5,06,6
-0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE64,F4,244,FF,-1,FF,-1,5A58,23128,00 00 20 42,40,04,4,01,1,05,5,06,6
-0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE78,F5,245,FF,-1,FF,-1,5AC8,23240,00 00 20 42,40,05,5,17,23,05,5,17,23
-0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE8C,CC,204,05,5,FF,-1,4B78,19320,00 00 A0 41,20,04,4,00,0,05,5,06,6
-0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEA0,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
-0,Sora,61,3D,Guard 2,btltbl.bin,AEB4,D4,212,05,5,FF,-1,4DA8,19880,00 00 00 00,0,13,19,00,0,05,5,06,6
-0,Sora,62,3E,Counterattack 2,btltbl.bin,AEC8,D5,213,05,5,FF,-1,4E18,19992,00 00 00 00,0,05,5,03,3,05,5,06,6
-0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEDC,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
-0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEF0,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
-0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF04,C8,200,05,5,FF,-1,4B78,19320,00 00 00 00,0,04,4,00,0,05,5,06,6
-1,Donald,0,00,Air overhand swing,btltbl.bin,AF18,CC,204,FF,-1,FF,-1,6858,26712,00 00 F0 C1,-30,04,4,01,1,02,2,03,3
-1,Donald,1,01,Air overhand swing,btltbl.bin,AF2C,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,01,1,02,2,03,3
-1,Donald,2,02,Ground overhand swing,btltbl.bin,AF40,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,3,03,Ground overhand swing,btltbl.bin,AF54,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,4,04,Ground overhand swing,btltbl.bin,AF68,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,5,05,Ground overhand swing,btltbl.bin,AF7C,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,6,06,Ground overhand swing,btltbl.bin,AF90,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,7,07,Ground overhand swing,btltbl.bin,AFA4,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,8,08,Ground overhand swing,btltbl.bin,AFB8,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,9,09,Air overhand swing,btltbl.bin,AFCC,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 41,8,04,4,01,1,02,2,03,3
-1,Donald,10,0A,Air overhand swing,btltbl.bin,AFE0,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 41,8,04,4,01,1,02,2,03,3
-1,Donald,11,0B,Air overhand swing,btltbl.bin,AFF4,CC,204,FF,-1,FF,-1,6858,26712,00 00 00 41,8,04,4,01,1,02,2,03,3
-1,Donald,12,0C,Ground overhand swing,btltbl.bin,B008,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,13,0D,Ground overhand swing,btltbl.bin,B01C,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,14,0E,Ground overhand swing,btltbl.bin,B030,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,15,0F,Ground overhand swing,btltbl.bin,B044,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,16,10,Ground overhand swing,btltbl.bin,B058,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,17,11,Ground overhand swing,btltbl.bin,B06C,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,18,12,Ground overhand swing,btltbl.bin,B080,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,19,13,Ground overhand swing,btltbl.bin,B094,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,20,14,Ground overhand swing,btltbl.bin,B0A8,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,21,15,Ground overhand swing,btltbl.bin,B0BC,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,22,16,Ground overhand swing,btltbl.bin,B0D0,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-1,Donald,23,17,Ground overhand swing,btltbl.bin,B0E4,C8,200,FF,-1,FF,-1,6858,26712,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,0,00,Unknown,btltbl.bin,B0F8,CD,205,FF,-1,FF,-1,6E08,28168,00 00 48 C2,-50,04,4,01,1,02,2,03,3
-2,Goofy,1,01,Unknown,btltbl.bin,B10C,FFFF,-1,FF,-1,FF,-1,6E78,28280,00 00 00 00,0,FF,-1,00,0,02,2,03,3
-2,Goofy,2,02,Unknown,btltbl.bin,B120,CB,203,FF,-1,FF,-1,6FC8,28616,00 00 00 00,0,05,5,03,3,02,2,03,3
-2,Goofy,3,03,Unknown,btltbl.bin,B134,C9,201,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,4,04,Unknown,btltbl.bin,B148,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,5,05,Unknown,btltbl.bin,B15C,CA,202,FF,-1,FF,-1,6F58,28504,00 00 00 00,0,06,6,03,3,02,2,03,3
-2,Goofy,6,06,Unknown,btltbl.bin,B170,CF,207,FF,-1,FF,-1,7038,28728,00 00 00 00,0,06,6,03,3,02,2,03,3
-2,Goofy,7,07,Unknown,btltbl.bin,B184,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,8,08,Unknown,btltbl.bin,B198,CC,204,FF,-1,FF,-1,6E08,28168,00 00 48 C2,-50,04,4,01,1,02,2,03,3
-2,Goofy,9,09,Unknown,btltbl.bin,B1AC,CF,207,FF,-1,FF,-1,7038,28728,00 00 00 00,0,06,6,03,3,02,2,03,3
-2,Goofy,10,0A,Unknown,btltbl.bin,B1C0,CD,205,FF,-1,FF,-1,6E08,28168,00 00 00 41,8,04,4,01,1,02,2,03,3
-2,Goofy,11,0B,Unknown,btltbl.bin,B1D4,CC,204,FF,-1,FF,-1,6E08,28168,00 00 00 41,8,04,4,01,1,02,2,03,3
-2,Goofy,12,0C,Unknown,btltbl.bin,B1E8,CF,207,FF,-1,FF,-1,7038,28728,00 00 00 00,0,06,6,03,3,02,2,03,3
-2,Goofy,13,0D,Unknown,btltbl.bin,B1FC,C9,201,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,14,0E,Unknown,btltbl.bin,B210,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,15,0F,Unknown,btltbl.bin,B224,CA,202,FF,-1,FF,-1,6F58,28504,00 00 00 00,0,06,6,03,3,02,2,03,3
-2,Goofy,16,10,Unknown,btltbl.bin,B238,FFFF,-1,FF,-1,FF,-1,6EE8,28392,00 00 00 00,0,FF,-1,FF,-1,FF,-1,FF,-1
-2,Goofy,17,11,Unknown,btltbl.bin,B24C,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,18,12,Unknown,btltbl.bin,B260,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,19,13,Unknown,btltbl.bin,B274,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,20,14,Unknown,btltbl.bin,B288,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,21,15,Unknown,btltbl.bin,B29C,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,22,16,Unknown,btltbl.bin,B2B0,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,23,17,Unknown,btltbl.bin,B2C4,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,24,18,Unknown,btltbl.bin,B2D8,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,25,19,Unknown,btltbl.bin,B2EC,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,26,1A,Unknown,btltbl.bin,B300,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,27,1B,Unknown,btltbl.bin,B314,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,28,1C,Unknown,btltbl.bin,B328,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,29,1D,Unknown,btltbl.bin,B33C,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,30,1E,Unknown,btltbl.bin,B350,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-2,Goofy,31,1F,Unknown,btltbl.bin,B364,C8,200,FF,-1,FF,-1,6E08,28168,00 00 00 00,0,04,4,00,0,02,2,03,3
-3,Tarzan,0,00,Unknown,btltbl.bin,B378,CD,205,05,5,FF,-1,73B8,29624,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-3,Tarzan,1,01,Unknown,btltbl.bin,B38C,CC,204,05,5,FF,-1,73B8,29624,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-3,Tarzan,2,02,Unknown,btltbl.bin,B3A0,C8,200,05,5,FF,-1,7498,29848,00 00 00 00,0,05,5,00,0,01,1,02,2
-3,Tarzan,3,03,Unknown,btltbl.bin,B3B4,CB,203,05,5,FF,-1,7428,29736,00 00 00 00,0,06,6,00,0,01,1,02,2
-3,Tarzan,4,04,Unknown,btltbl.bin,B3C8,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,5,05,Unknown,btltbl.bin,B3DC,CA,202,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,6,06,Unknown,btltbl.bin,B3F0,C8,200,05,5,FF,-1,7498,29848,00 00 00 00,0,05,5,00,0,01,1,02,2
-3,Tarzan,7,07,Unknown,btltbl.bin,B404,CB,203,05,5,FF,-1,7428,29736,00 00 00 00,0,06,6,00,0,01,1,02,2
-3,Tarzan,8,08,Unknown,btltbl.bin,B418,CC,204,05,5,FF,-1,73B8,29624,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-3,Tarzan,9,09,Unknown,btltbl.bin,B42C,C8,200,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,10,0A,Unknown,btltbl.bin,B440,CC,204,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,11,0B,Unknown,btltbl.bin,B454,C8,200,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,12,0C,Unknown,btltbl.bin,B468,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,13,0D,Unknown,btltbl.bin,B47C,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,14,0E,Unknown,btltbl.bin,B490,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,15,0F,Unknown,btltbl.bin,B4A4,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-3,Tarzan,16,10,Unknown,btltbl.bin,B4B8,C9,201,05,5,FF,-1,73B8,29624,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,0,00,Unknown,btltbl.bin,B4D0,CC,204,03,3,FF,-1,7818,30744,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-5,Aladdin,1,01,Unknown,btltbl.bin,B4E4,CD,205,03,3,FF,-1,7818,30744,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-5,Aladdin,2,02,Unknown,btltbl.bin,B4F8,CB,203,03,3,FF,-1,7888,30856,00 00 00 00,0,05,5,00,0,01,1,02,2
-5,Aladdin,3,03,Unknown,btltbl.bin,B50C,C9,201,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,4,04,Unknown,btltbl.bin,B520,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,5,05,Unknown,btltbl.bin,B534,CA,202,03,3,FF,-1,78F8,30968,00 00 00 00,0,06,6,00,0,01,1,02,2
-5,Aladdin,6,06,Unknown,btltbl.bin,B548,C9,201,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,7,07,Unknown,btltbl.bin,B55C,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,8,08,Unknown,btltbl.bin,B570,CD,205,03,3,FF,-1,7818,30744,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-5,Aladdin,9,09,Unknown,btltbl.bin,B584,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,10,0A,Unknown,btltbl.bin,B598,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,11,0B,Unknown,btltbl.bin,B5AC,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,12,0C,Unknown,btltbl.bin,B5C0,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,13,0D,Unknown,btltbl.bin,B5D4,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,14,0E,Unknown,btltbl.bin,B5E8,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,15,0F,Unknown,btltbl.bin,B5FC,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-5,Aladdin,16,10,Unknown,btltbl.bin,B610,C8,200,03,3,FF,-1,7818,30744,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,0,00,Unknown,btltbl.bin,BA68,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 00 00,0,06,6,00,0,01,1,02,2
-6,Ariel,1,01,Unknown,btltbl.bin,BA7C,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,2,02,Unknown,btltbl.bin,BA90,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,3,03,Unknown,btltbl.bin,BAA4,C9,201,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,4,04,Unknown,btltbl.bin,BAB8,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,5,05,Unknown,btltbl.bin,BACC,CA,202,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,6,06,Unknown,btltbl.bin,BAE0,C9,201,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,7,07,Unknown,btltbl.bin,BAF4,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,8,08,Unknown,btltbl.bin,BB08,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 00 00,0,06,6,00,0,01,1,02,2
-6,Ariel,9,09,Unknown,btltbl.bin,BB1C,C8,200,FF,-1,FF,-1,7C78,31864,00 00 40 41,12,04,4,00,0,01,1,02,2
-6,Ariel,10,0A,Unknown,btltbl.bin,BB30,C8,200,FF,-1,FF,-1,7C78,31864,00 00 C0 40,6,04,4,00,0,01,1,02,2
-6,Ariel,11,0B,Unknown,btltbl.bin,BB44,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 C0 40,6,06,6,00,0,01,1,02,2
-6,Ariel,12,0C,Unknown,btltbl.bin,BB58,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,13,0D,Unknown,btltbl.bin,BB6C,C9,201,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,14,0E,Unknown,btltbl.bin,BB80,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,15,0F,Unknown,btltbl.bin,BB94,CB,203,FF,-1,FF,-1,7CE8,31976,00 00 00 00,0,06,6,00,0,01,1,02,2
-6,Ariel,16,10,Unknown,btltbl.bin,BBA8,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,17,11,Unknown,btltbl.bin,BBBC,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,18,12,Unknown,btltbl.bin,BBD0,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,19,13,Unknown,btltbl.bin,BBE4,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,20,14,Unknown,btltbl.bin,BBF8,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,21,15,Unknown,btltbl.bin,BC0C,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,22,16,Unknown,btltbl.bin,BC20,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-6,Ariel,23,17,Unknown,btltbl.bin,BC34,C8,200,FF,-1,FF,-1,7C78,31864,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,0,00,Unknown,btltbl.bin,B780,CC,204,FF,-1,FF,-1,81B8,33208,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-7,Jack,1,01,Unknown,btltbl.bin,B794,CC,204,FF,-1,FF,-1,81B8,33208,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-7,Jack,2,02,Unknown,btltbl.bin,B7A8,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,3,03,Unknown,btltbl.bin,B7BC,C9,201,FF,-1,FF,-1,8148,33096,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,4,04,Unknown,btltbl.bin,B7D0,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,5,05,Unknown,btltbl.bin,B7E4,CA,202,FF,-1,FF,-1,8298,33432,00 00 00 00,0,06,6,00,0,01,1,02,2
-7,Jack,6,06,Unknown,btltbl.bin,B7F8,C9,201,FF,-1,FF,-1,8148,33096,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,7,07,Unknown,btltbl.bin,B80C,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,8,08,Unknown,btltbl.bin,B820,CA,202,FF,-1,FF,-1,8298,33432,00 00 00 00,0,06,6,00,0,01,1,02,2
-7,Jack,9,09,Unknown,btltbl.bin,B834,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,10,0A,Unknown,btltbl.bin,B848,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,11,0B,Unknown,btltbl.bin,B85C,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,12,0C,Unknown,btltbl.bin,B870,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,13,0D,Unknown,btltbl.bin,B884,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,14,0E,Unknown,btltbl.bin,B898,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,15,0F,Unknown,btltbl.bin,B8AC,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-7,Jack,16,10,Unknown,btltbl.bin,B8C0,C8,200,FF,-1,FF,-1,80D8,32984,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,0,00,Unknown,btltbl.bin,B8D8,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,1,01,Unknown,btltbl.bin,B8EC,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,2,02,Unknown,btltbl.bin,B900,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,3,03,Unknown,btltbl.bin,B914,CB,203,03,3,FF,-1,8618,34328,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,4,04,Unknown,btltbl.bin,B928,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,5,05,Unknown,btltbl.bin,B93C,C9,201,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,6,06,Unknown,btltbl.bin,B950,CB,203,03,3,FF,-1,8618,34328,00 00 00 00,0,06,6,00,0,01,1,02,2
-8,Peter Pan,7,07,Unknown,btltbl.bin,B964,C9,201,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,8,08,Unknown,btltbl.bin,B978,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,9,09,Unknown,btltbl.bin,B98C,CB,203,03,3,FF,-1,8618,34328,00 00 00 00,0,06,6,00,0,01,1,02,2
-8,Peter Pan,10,0A,Unknown,btltbl.bin,B9A0,C9,201,03,3,FF,-1,8538,34104,00 00 00 41,8,04,4,00,0,01,1,02,2
-8,Peter Pan,11,0B,Unknown,btltbl.bin,B9B4,C8,200,03,3,FF,-1,85A8,34216,00 00 00 41,8,04,4,00,0,01,1,02,2
-8,Peter Pan,12,0C,Unknown,btltbl.bin,B9C8,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,13,0D,Unknown,btltbl.bin,B9DC,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,14,0E,Unknown,btltbl.bin,B9F0,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,15,0F,Unknown,btltbl.bin,BA04,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,16,10,Unknown,btltbl.bin,BA18,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,17,11,Unknown,btltbl.bin,BA2C,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,18,12,Unknown,btltbl.bin,BA40,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-8,Peter Pan,19,13,Unknown,btltbl.bin,BA54,C8,200,03,3,FF,-1,8538,34104,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,0,00,Unknown,btltbl.bin,B628,CC,204,FF,-1,FF,-1,8A08,35336,00 00 48 C2,-50,04,4,00,0,01,1,02,2
-9,Beast,1,01,Unknown,btltbl.bin,B63C,CE,206,FF,-1,FF,-1,8B58,35672,00 00 00 00,0,FF,-1,04,4,01,1,04,4
-9,Beast,2,02,Unknown,btltbl.bin,B650,CB,203,FF,-1,FF,-1,8AE8,35560,00 00 00 00,0,07,7,03,3,01,1,03,3
-9,Beast,3,03,Unknown,btltbl.bin,B664,C9,201,FF,-1,FF,-1,8A08,35336,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,4,04,Unknown,btltbl.bin,B678,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,5,05,Unknown,btltbl.bin,B68C,CA,202,FF,-1,FF,-1,8A78,35448,00 00 00 00,0,05,5,00,0,01,1,02,2
-9,Beast,6,06,Unknown,btltbl.bin,B6A0,C9,201,FF,-1,FF,-1,8A08,35336,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,7,07,Unknown,btltbl.bin,B6B4,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,8,08,Unknown,btltbl.bin,B6C8,CD,205,FF,-1,FF,-1,8A08,35336,00 00 48 C2,-50,05,5,00,0,01,1,02,2
-9,Beast,9,09,Unknown,btltbl.bin,B6DC,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,10,0A,Unknown,btltbl.bin,B6F0,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,11,0B,Unknown,btltbl.bin,B704,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,12,0C,Unknown,btltbl.bin,B718,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,13,0D,Unknown,btltbl.bin,B72C,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,14,0E,Unknown,btltbl.bin,B740,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,15,0F,Unknown,btltbl.bin,B754,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
-9,Beast,16,10,Unknown,btltbl.bin,B768,C8,200,FF,-1,FF,-1,8998,35224,00 00 00 00,0,04,4,00,0,01,1,02,2
+Character ID,Character,Attack Index,Attack Index (Hex),Attack Name,File,Offset,Field,Value (HEX),Value
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9F0,Motion ID,D6,214
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9F2,Keyblade Trail,05,5
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9F3,Persistent Weapon Effect,FF,-1
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9F4,Hit Parameters Offset,4CC8,19656
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9F8,Lift,00 00 00 00,0
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9FC,Hit Sound,03,3
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9FD,Wall Hit Sound,05,5
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9FE,Crit Hit Sound,06,6
+0,Sora,0,00,Aerial Sweep,btltbl.bin,A9FF,Voice Set,04,4
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA04,Motion ID,CD,205
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA06,Keyblade Trail,05,5
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA07,Persistent Weapon Effect,FF,-1
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA08,Hit Parameters Offset,4BE8,19432
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA0C,Lift,00 00 00 00,0
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA10,Hit Sound,04,4
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA11,Wall Hit Sound,05,5
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA12,Crit Hit Sound,06,6
+0,Sora,1,01,Ground to Air Underhand Swing,btltbl.bin,AA13,Voice Set,04,4
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA18,Motion ID,CC,204
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA1A,Keyblade Trail,05,5
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA1B,Persistent Weapon Effect,FF,-1
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA1C,Hit Parameters Offset,4B78,19320
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA20,Lift,00 00 70 42,60
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA24,Hit Sound,00,0
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA25,Wall Hit Sound,05,5
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA26,Crit Hit Sound,06,6
+0,Sora,2,02,Ground to Air Overhand Swing?,btltbl.bin,AA27,Voice Set,04,4
+0,Sora,3,03,Stun Impact,btltbl.bin,AA2C,Motion ID,D8,216
+0,Sora,3,03,Stun Impact,btltbl.bin,AA2E,Keyblade Trail,05,5
+0,Sora,3,03,Stun Impact,btltbl.bin,AA2F,Persistent Weapon Effect,FF,-1
+0,Sora,3,03,Stun Impact,btltbl.bin,AA30,Hit Parameters Offset,4EF8,20216
+0,Sora,3,03,Stun Impact,btltbl.bin,AA34,Lift,00 00 00 00,0
+0,Sora,3,03,Stun Impact,btltbl.bin,AA38,Hit Sound,1B,27
+0,Sora,3,03,Stun Impact,btltbl.bin,AA39,Wall Hit Sound,05,5
+0,Sora,3,03,Stun Impact,btltbl.bin,AA3A,Crit Hit Sound,1B,27
+0,Sora,3,03,Stun Impact,btltbl.bin,AA3B,Voice Set,06,6
+0,Sora,4,04,Gravity Break,btltbl.bin,AA40,Motion ID,D9,217
+0,Sora,4,04,Gravity Break,btltbl.bin,AA42,Keyblade Trail,05,5
+0,Sora,4,04,Gravity Break,btltbl.bin,AA43,Persistent Weapon Effect,FF,-1
+0,Sora,4,04,Gravity Break,btltbl.bin,AA44,Hit Parameters Offset,4F68,20328
+0,Sora,4,04,Gravity Break,btltbl.bin,AA48,Lift,00 00 00 00,0
+0,Sora,4,04,Gravity Break,btltbl.bin,AA4C,Hit Sound,17,23
+0,Sora,4,04,Gravity Break,btltbl.bin,AA4D,Wall Hit Sound,05,5
+0,Sora,4,04,Gravity Break,btltbl.bin,AA4E,Crit Hit Sound,17,23
+0,Sora,4,04,Gravity Break,btltbl.bin,AA4F,Voice Set,06,6
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA54,Motion ID,DA,218
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA56,Keyblade Trail,05,5
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA57,Persistent Weapon Effect,FF,-1
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA58,Hit Parameters Offset,4FD8,20440
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA5C,Lift,00 00 00 00,0
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA60,Hit Sound,18,24
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA61,Wall Hit Sound,05,5
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA62,Crit Hit Sound,18,24
+0,Sora,5,05,Zantetsuken,btltbl.bin,AA63,Voice Set,06,6
+0,Sora,6,06,Blitz,btltbl.bin,AA68,Motion ID,D2,210
+0,Sora,6,06,Blitz,btltbl.bin,AA6A,Keyblade Trail,05,5
+0,Sora,6,06,Blitz,btltbl.bin,AA6B,Persistent Weapon Effect,FF,-1
+0,Sora,6,06,Blitz,btltbl.bin,AA6C,Hit Parameters Offset,4D38,19768
+0,Sora,6,06,Blitz,btltbl.bin,AA70,Lift,00 00 00 00,0
+0,Sora,6,06,Blitz,btltbl.bin,AA74,Hit Sound,1B,27
+0,Sora,6,06,Blitz,btltbl.bin,AA75,Wall Hit Sound,05,5
+0,Sora,6,06,Blitz,btltbl.bin,AA76,Crit Hit Sound,06,6
+0,Sora,6,06,Blitz,btltbl.bin,AA77,Voice Set,06,6
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA7C,Motion ID,D7,215
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA7E,Keyblade Trail,05,5
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA7F,Persistent Weapon Effect,FF,-1
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA80,Hit Parameters Offset,4E88,20104
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA84,Lift,00 00 00 00,0
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA88,Hit Sound,17,23
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA89,Wall Hit Sound,05,5
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA8A,Crit Hit Sound,17,23
+0,Sora,7,07,Ripple Drive,btltbl.bin,AA8B,Voice Set,05,5
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA90,Motion ID,CB,203
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA92,Keyblade Trail,05,5
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA93,Persistent Weapon Effect,FF,-1
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA94,Hit Parameters Offset,4C58,19544
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA98,Lift,00 00 00 00,0
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA9C,Hit Sound,03,3
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA9D,Wall Hit Sound,05,5
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA9E,Crit Hit Sound,06,6
+0,Sora,8,08,Ground Finisher,btltbl.bin,AA9F,Voice Set,05,5
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAA4,Motion ID,D0,208
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAA6,Keyblade Trail,05,5
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAA7,Persistent Weapon Effect,FF,-1
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAA8,Hit Parameters Offset,50B8,20664
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAAC,Lift,00 00 00 00,0
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAB0,Hit Sound,02,2
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAB1,Wall Hit Sound,05,5
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAB2,Crit Hit Sound,06,6
+0,Sora,9,09,Sliding Dash,btltbl.bin,AAB3,Voice Set,04,4
+0,Sora,10,0A,Vortex,btltbl.bin,AAB8,Motion ID,D3,211
+0,Sora,10,0A,Vortex,btltbl.bin,AABA,Keyblade Trail,05,5
+0,Sora,10,0A,Vortex,btltbl.bin,AABB,Persistent Weapon Effect,FF,-1
+0,Sora,10,0A,Vortex,btltbl.bin,AABC,Hit Parameters Offset,4CC8,19656
+0,Sora,10,0A,Vortex,btltbl.bin,AAC0,Lift,00 00 00 00,0
+0,Sora,10,0A,Vortex,btltbl.bin,AAC4,Hit Sound,01,1
+0,Sora,10,0A,Vortex,btltbl.bin,AAC5,Wall Hit Sound,05,5
+0,Sora,10,0A,Vortex,btltbl.bin,AAC6,Crit Hit Sound,06,6
+0,Sora,10,0A,Vortex,btltbl.bin,AAC7,Voice Set,04,4
+0,Sora,11,0B,Swipe,btltbl.bin,AACC,Motion ID,C9,201
+0,Sora,11,0B,Swipe,btltbl.bin,AACE,Keyblade Trail,05,5
+0,Sora,11,0B,Swipe,btltbl.bin,AACF,Persistent Weapon Effect,FF,-1
+0,Sora,11,0B,Swipe,btltbl.bin,AAD0,Hit Parameters Offset,4BE8,19432
+0,Sora,11,0B,Swipe,btltbl.bin,AAD4,Lift,00 00 00 00,0
+0,Sora,11,0B,Swipe,btltbl.bin,AAD8,Hit Sound,01,1
+0,Sora,11,0B,Swipe,btltbl.bin,AAD9,Wall Hit Sound,05,5
+0,Sora,11,0B,Swipe,btltbl.bin,AADA,Crit Hit Sound,06,6
+0,Sora,11,0B,Swipe,btltbl.bin,AADB,Voice Set,04,4
+0,Sora,12,0C,Slapshot,btltbl.bin,AAE0,Motion ID,CF,207
+0,Sora,12,0C,Slapshot,btltbl.bin,AAE2,Keyblade Trail,05,5
+0,Sora,12,0C,Slapshot,btltbl.bin,AAE3,Persistent Weapon Effect,FF,-1
+0,Sora,12,0C,Slapshot,btltbl.bin,AAE4,Hit Parameters Offset,5128,20776
+0,Sora,12,0C,Slapshot,btltbl.bin,AAE8,Lift,00 00 00 00,0
+0,Sora,12,0C,Slapshot,btltbl.bin,AAEC,Hit Sound,00,0
+0,Sora,12,0C,Slapshot,btltbl.bin,AAED,Wall Hit Sound,05,5
+0,Sora,12,0C,Slapshot,btltbl.bin,AAEE,Crit Hit Sound,06,6
+0,Sora,12,0C,Slapshot,btltbl.bin,AAEF,Voice Set,04,4
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AAF4,Motion ID,C8,200
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AAF6,Keyblade Trail,05,5
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AAF7,Persistent Weapon Effect,FF,-1
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AAF8,Hit Parameters Offset,4B78,19320
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AAFC,Lift,00 00 00 00,0
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AB00,Hit Sound,00,0
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AB01,Wall Hit Sound,05,5
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AB02,Crit Hit Sound,06,6
+0,Sora,13,0D,Overhand Swing,btltbl.bin,AB03,Voice Set,04,4
+0,Sora,14,0E,Thurst,btltbl.bin,AB08,Motion ID,CA,202
+0,Sora,14,0E,Thurst,btltbl.bin,AB0A,Keyblade Trail,05,5
+0,Sora,14,0E,Thurst,btltbl.bin,AB0B,Persistent Weapon Effect,FF,-1
+0,Sora,14,0E,Thurst,btltbl.bin,AB0C,Hit Parameters Offset,4B78,19320
+0,Sora,14,0E,Thurst,btltbl.bin,AB10,Lift,00 00 00 00,0
+0,Sora,14,0E,Thurst,btltbl.bin,AB14,Hit Sound,02,2
+0,Sora,14,0E,Thurst,btltbl.bin,AB15,Wall Hit Sound,05,5
+0,Sora,14,0E,Thurst,btltbl.bin,AB16,Crit Hit Sound,06,6
+0,Sora,14,0E,Thurst,btltbl.bin,AB17,Voice Set,04,4
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB1C,Motion ID,D1,209
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB1E,Keyblade Trail,05,5
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB1F,Persistent Weapon Effect,FF,-1
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB20,Hit Parameters Offset,5048,20552
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB24,Lift,00 00 20 42,40
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB28,Hit Sound,1B,27
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB29,Wall Hit Sound,05,5
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB2A,Crit Hit Sound,06,6
+0,Sora,15,0F,Hurricane Blast,btltbl.bin,AB2B,Voice Set,05,5
+0,Sora,16,10,Air Finisher,btltbl.bin,AB30,Motion ID,CE,206
+0,Sora,16,10,Air Finisher,btltbl.bin,AB32,Keyblade Trail,05,5
+0,Sora,16,10,Air Finisher,btltbl.bin,AB33,Persistent Weapon Effect,FF,-1
+0,Sora,16,10,Air Finisher,btltbl.bin,AB34,Hit Parameters Offset,4C58,19544
+0,Sora,16,10,Air Finisher,btltbl.bin,AB38,Lift,00 00 20 42,40
+0,Sora,16,10,Air Finisher,btltbl.bin,AB3C,Hit Sound,03,3
+0,Sora,16,10,Air Finisher,btltbl.bin,AB3D,Wall Hit Sound,05,5
+0,Sora,16,10,Air Finisher,btltbl.bin,AB3E,Crit Hit Sound,06,6
+0,Sora,16,10,Air Finisher,btltbl.bin,AB3F,Voice Set,05,5
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB44,Motion ID,CD,205
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB46,Keyblade Trail,05,5
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB47,Persistent Weapon Effect,FF,-1
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB48,Hit Parameters Offset,4BE8,19432
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB4C,Lift,00 00 A0 41,20
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB50,Hit Sound,04,4
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB51,Wall Hit Sound,05,5
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB52,Crit Hit Sound,06,6
+0,Sora,17,11,Air Underhand Swing,btltbl.bin,AB53,Voice Set,04,4
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB58,Motion ID,CC,204
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB5A,Keyblade Trail,05,5
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB5B,Persistent Weapon Effect,FF,-1
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB5C,Hit Parameters Offset,4B78,19320
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB60,Lift,00 00 A0 41,20
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB64,Hit Sound,00,0
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB65,Wall Hit Sound,05,5
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB66,Crit Hit Sound,06,6
+0,Sora,18,12,Air Overhand Swing,btltbl.bin,AB67,Voice Set,04,4
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB6C,Motion ID,CE,206
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB6E,Keyblade Trail,05,5
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB6F,Persistent Weapon Effect,FF,-1
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB70,Hit Parameters Offset,4C58,19544
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB74,Lift,00 00 00 41,8
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB78,Hit Sound,03,3
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB79,Wall Hit Sound,05,5
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB7A,Crit Hit Sound,06,6
+0,Sora,19,13,Air Falling Finisher,btltbl.bin,AB7B,Voice Set,05,5
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB80,Motion ID,CD,205
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB82,Keyblade Trail,05,5
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB83,Persistent Weapon Effect,FF,-1
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB84,Hit Parameters Offset,4B78,19320
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB88,Lift,00 00 00 41,8
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB8C,Hit Sound,04,4
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB8D,Wall Hit Sound,05,5
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB8E,Crit Hit Sound,06,6
+0,Sora,20,14,Air Falling Underhand Swing,btltbl.bin,AB8F,Voice Set,04,4
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,AB94,Motion ID,CC,204
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,AB96,Keyblade Trail,05,5
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,AB97,Persistent Weapon Effect,FF,-1
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,AB98,Hit Parameters Offset,4B78,19320
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,AB9C,Lift,00 00 00 41,8
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,ABA0,Hit Sound,00,0
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,ABA1,Wall Hit Sound,05,5
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,ABA2,Crit Hit Sound,06,6
+0,Sora,21,15,Air Falling Overhand Swing,btltbl.bin,ABA3,Voice Set,04,4
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABA8,Motion ID,CB,203
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABAA,Keyblade Trail,05,5
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABAB,Persistent Weapon Effect,FF,-1
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABAC,Hit Parameters Offset,4C58,19544
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABB0,Lift,00 00 00 00,0
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABB4,Hit Sound,03,3
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABB5,Wall Hit Sound,05,5
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABB6,Crit Hit Sound,06,6
+0,Sora,22,16,Ground Finisher 2,btltbl.bin,ABB7,Voice Set,05,5
+0,Sora,23,17,Swipe 2,btltbl.bin,ABBC,Motion ID,C9,201
+0,Sora,23,17,Swipe 2,btltbl.bin,ABBE,Keyblade Trail,05,5
+0,Sora,23,17,Swipe 2,btltbl.bin,ABBF,Persistent Weapon Effect,FF,-1
+0,Sora,23,17,Swipe 2,btltbl.bin,ABC0,Hit Parameters Offset,4BE8,19432
+0,Sora,23,17,Swipe 2,btltbl.bin,ABC4,Lift,00 00 00 00,0
+0,Sora,23,17,Swipe 2,btltbl.bin,ABC8,Hit Sound,01,1
+0,Sora,23,17,Swipe 2,btltbl.bin,ABC9,Wall Hit Sound,05,5
+0,Sora,23,17,Swipe 2,btltbl.bin,ABCA,Crit Hit Sound,06,6
+0,Sora,23,17,Swipe 2,btltbl.bin,ABCB,Voice Set,04,4
+0,Sora,24,18,Swipe 3,btltbl.bin,ABD0,Motion ID,C9,201
+0,Sora,24,18,Swipe 3,btltbl.bin,ABD2,Keyblade Trail,05,5
+0,Sora,24,18,Swipe 3,btltbl.bin,ABD3,Persistent Weapon Effect,FF,-1
+0,Sora,24,18,Swipe 3,btltbl.bin,ABD4,Hit Parameters Offset,4BE8,19432
+0,Sora,24,18,Swipe 3,btltbl.bin,ABD8,Lift,00 00 00 00,0
+0,Sora,24,18,Swipe 3,btltbl.bin,ABDC,Hit Sound,01,1
+0,Sora,24,18,Swipe 3,btltbl.bin,ABDD,Wall Hit Sound,05,5
+0,Sora,24,18,Swipe 3,btltbl.bin,ABDE,Crit Hit Sound,06,6
+0,Sora,24,18,Swipe 3,btltbl.bin,ABDF,Voice Set,04,4
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABE4,Motion ID,C8,200
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABE6,Keyblade Trail,05,5
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABE7,Persistent Weapon Effect,FF,-1
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABE8,Hit Parameters Offset,4B78,19320
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABEC,Lift,00 00 00 00,0
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABF0,Hit Sound,00,0
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABF1,Wall Hit Sound,05,5
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABF2,Crit Hit Sound,06,6
+0,Sora,25,19,Overhand Swing 2,btltbl.bin,ABF3,Voice Set,04,4
+0,Sora,26,1A,Thrust 2,btltbl.bin,ABF8,Motion ID,CA,202
+0,Sora,26,1A,Thrust 2,btltbl.bin,ABFA,Keyblade Trail,05,5
+0,Sora,26,1A,Thrust 2,btltbl.bin,ABFB,Persistent Weapon Effect,FF,-1
+0,Sora,26,1A,Thrust 2,btltbl.bin,ABFC,Hit Parameters Offset,4B78,19320
+0,Sora,26,1A,Thrust 2,btltbl.bin,AC00,Lift,00 00 00 00,0
+0,Sora,26,1A,Thrust 2,btltbl.bin,AC04,Hit Sound,02,2
+0,Sora,26,1A,Thrust 2,btltbl.bin,AC05,Wall Hit Sound,05,5
+0,Sora,26,1A,Thrust 2,btltbl.bin,AC06,Crit Hit Sound,06,6
+0,Sora,26,1A,Thrust 2,btltbl.bin,AC07,Voice Set,04,4
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC0C,Motion ID,C9,201
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC0E,Keyblade Trail,FF,-1
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC0F,Persistent Weapon Effect,FF,-1
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC10,Hit Parameters Offset,5C18,23576
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC14,Lift,00 00 00 00,0
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC18,Hit Sound,02,2
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC19,Wall Hit Sound,05,5
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC1A,Crit Hit Sound,06,6
+0,Sora,27,1B,Sonic Blade rush 1,btltbl.bin,AC1B,Voice Set,FF,-1
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC20,Motion ID,C9,201
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC22,Keyblade Trail,FF,-1
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC23,Persistent Weapon Effect,FF,-1
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC24,Hit Parameters Offset,5C18,23576
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC28,Lift,00 00 00 00,0
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC2C,Hit Sound,02,2
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC2D,Wall Hit Sound,05,5
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC2E,Crit Hit Sound,06,6
+0,Sora,28,1C,Sonic Blade rush 2,btltbl.bin,AC2F,Voice Set,04,4
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC34,Motion ID,C9,201
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC36,Keyblade Trail,FF,-1
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC37,Persistent Weapon Effect,FF,-1
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC38,Hit Parameters Offset,5C18,23576
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC3C,Lift,00 00 00 00,0
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC40,Hit Sound,02,2
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC41,Wall Hit Sound,05,5
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC42,Crit Hit Sound,06,6
+0,Sora,29,1D,Sonic Blade rush 3,btltbl.bin,AC43,Voice Set,04,4
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC48,Motion ID,C9,201
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC4A,Keyblade Trail,FF,-1
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC4B,Persistent Weapon Effect,FF,-1
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC4C,Hit Parameters Offset,5C18,23576
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC50,Lift,00 00 00 00,0
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC54,Hit Sound,02,2
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC55,Wall Hit Sound,05,5
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC56,Crit Hit Sound,06,6
+0,Sora,30,1E,Sonic Blade rush 4,btltbl.bin,AC57,Voice Set,04,4
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC5C,Motion ID,C9,201
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC5E,Keyblade Trail,FF,-1
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC5F,Persistent Weapon Effect,FF,-1
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC60,Hit Parameters Offset,5C18,23576
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC64,Lift,00 00 00 00,0
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC68,Hit Sound,02,2
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC69,Wall Hit Sound,05,5
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC6A,Crit Hit Sound,06,6
+0,Sora,31,1F,Sonic Blade rush 5,btltbl.bin,AC6B,Voice Set,04,4
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC70,Motion ID,C9,201
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC72,Keyblade Trail,FF,-1
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC73,Persistent Weapon Effect,FF,-1
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC74,Hit Parameters Offset,5C18,23576
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC78,Lift,00 00 00 00,0
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC7C,Hit Sound,02,2
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC7D,Wall Hit Sound,05,5
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC7E,Crit Hit Sound,06,6
+0,Sora,32,20,Sonic Blade rush 6,btltbl.bin,AC7F,Voice Set,04,4
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC84,Motion ID,CA,202
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC86,Keyblade Trail,FF,-1
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC87,Persistent Weapon Effect,FF,-1
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC88,Hit Parameters Offset,5C88,23688
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC8C,Lift,00 00 00 00,0
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC90,Hit Sound,12,18
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC91,Wall Hit Sound,05,5
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC92,Crit Hit Sound,12,18
+0,Sora,33,21,Sonic Blade final,btltbl.bin,AC93,Voice Set,06,6
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,AC98,Motion ID,D3,211
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,AC9A,Keyblade Trail,05,5
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,AC9B,Persistent Weapon Effect,FF,-1
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,AC9C,Hit Parameters Offset,5A58,23128
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,ACA0,Lift,00 00 00 00,0
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,ACA4,Hit Sound,04,4
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,ACA5,Wall Hit Sound,05,5
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,ACA6,Crit Hit Sound,06,6
+0,Sora,34,22,Ars Arcanum hit 1,btltbl.bin,ACA7,Voice Set,FF,-1
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACAC,Motion ID,D4,212
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACAE,Keyblade Trail,FF,-1
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACAF,Persistent Weapon Effect,FF,-1
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACB0,Hit Parameters Offset,5A58,23128
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACB4,Lift,00 00 00 00,0
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACB8,Hit Sound,00,0
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACB9,Wall Hit Sound,05,5
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACBA,Crit Hit Sound,06,6
+0,Sora,35,23,Ars Arcanum hit 2,btltbl.bin,ACBB,Voice Set,04,4
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACC0,Motion ID,D5,213
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACC2,Keyblade Trail,FF,-1
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACC3,Persistent Weapon Effect,FF,-1
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACC4,Hit Parameters Offset,5A58,23128
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACC8,Lift,00 00 00 00,0
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACCC,Hit Sound,01,1
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACCD,Wall Hit Sound,05,5
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACCE,Crit Hit Sound,06,6
+0,Sora,36,24,Ars Arcanum hit 3,btltbl.bin,ACCF,Voice Set,04,4
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACD4,Motion ID,D6,214
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACD6,Keyblade Trail,FF,-1
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACD7,Persistent Weapon Effect,FF,-1
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACD8,Hit Parameters Offset,5A58,23128
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACDC,Lift,00 00 00 00,0
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACE0,Hit Sound,01,1
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACE1,Wall Hit Sound,05,5
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACE2,Crit Hit Sound,06,6
+0,Sora,37,25,Ars Arcanum hit 4,btltbl.bin,ACE3,Voice Set,FF,-1
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACE8,Motion ID,D7,215
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACEA,Keyblade Trail,FF,-1
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACEB,Persistent Weapon Effect,FF,-1
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACEC,Hit Parameters Offset,5A58,23128
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACF0,Lift,00 00 00 00,0
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACF4,Hit Sound,01,1
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACF5,Wall Hit Sound,05,5
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACF6,Crit Hit Sound,06,6
+0,Sora,38,26,Ars Arcanum hit 5,btltbl.bin,ACF7,Voice Set,04,4
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,ACFC,Motion ID,D8,216
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,ACFE,Keyblade Trail,FF,-1
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,ACFF,Persistent Weapon Effect,FF,-1
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,AD00,Hit Parameters Offset,5A58,23128
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,AD04,Lift,00 00 00 00,0
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,AD08,Hit Sound,04,4
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,AD09,Wall Hit Sound,05,5
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,AD0A,Crit Hit Sound,06,6
+0,Sora,39,27,Ars Arcanum hit 6,btltbl.bin,AD0B,Voice Set,FF,-1
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD10,Motion ID,D9,217
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD12,Keyblade Trail,FF,-1
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD13,Persistent Weapon Effect,FF,-1
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD14,Hit Parameters Offset,5B38,23352
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD18,Lift,00 00 00 00,0
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD1C,Hit Sound,13,19
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD1D,Wall Hit Sound,05,5
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD1E,Crit Hit Sound,13,19
+0,Sora,40,28,Ars Arcanum hit 7,btltbl.bin,AD1F,Voice Set,05,5
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD24,Motion ID,DA,218
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD26,Keyblade Trail,FF,-1
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD27,Persistent Weapon Effect,FF,-1
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD28,Hit Parameters Offset,5A58,23128
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD2C,Lift,00 00 00 00,0
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD30,Hit Sound,02,2
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD31,Wall Hit Sound,05,5
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD32,Crit Hit Sound,06,6
+0,Sora,41,29,Ars Arcanum hit 8,btltbl.bin,AD33,Voice Set,04,4
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD38,Motion ID,DB,219
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD3A,Keyblade Trail,FF,-1
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD3B,Persistent Weapon Effect,FF,-1
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD3C,Hit Parameters Offset,5A58,23128
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD40,Lift,00 00 00 00,0
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD44,Hit Sound,01,1
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD45,Wall Hit Sound,05,5
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD46,Crit Hit Sound,06,6
+0,Sora,42,2A,Ars Arcanum hit 9,btltbl.bin,AD47,Voice Set,04,4
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD4C,Motion ID,DC,220
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD4E,Keyblade Trail,FF,-1
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD4F,Persistent Weapon Effect,FF,-1
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD50,Hit Parameters Offset,5A58,23128
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD54,Lift,00 00 00 00,0
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD58,Hit Sound,01,1
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD59,Wall Hit Sound,05,5
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD5A,Crit Hit Sound,06,6
+0,Sora,43,2B,Ars Arcanum hit 10,btltbl.bin,AD5B,Voice Set,04,4
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD60,Motion ID,DD,221
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD62,Keyblade Trail,FF,-1
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD63,Persistent Weapon Effect,FF,-1
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD64,Hit Parameters Offset,5A58,23128
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD68,Lift,00 00 00 00,0
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD6C,Hit Sound,03,3
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD6D,Wall Hit Sound,05,5
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD6E,Crit Hit Sound,06,6
+0,Sora,44,2C,Ars Arcanum hit 11,btltbl.bin,AD6F,Voice Set,04,4
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD74,Motion ID,DE,222
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD76,Keyblade Trail,FF,-1
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD77,Persistent Weapon Effect,FF,-1
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD78,Hit Parameters Offset,52E8,21224
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD7C,Lift,00 00 00 00,0
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD80,Hit Sound,00,0
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD81,Wall Hit Sound,05,5
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD82,Crit Hit Sound,06,6
+0,Sora,45,2D,Ars Arcanum hit 12,btltbl.bin,AD83,Voice Set,05,5
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD88,Motion ID,DF,223
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD8A,Keyblade Trail,FF,-1
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD8B,Persistent Weapon Effect,FF,-1
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD8C,Hit Parameters Offset,5BA8,23464
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD90,Lift,00 00 00 00,0
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD94,Hit Sound,14,20
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD95,Wall Hit Sound,05,5
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD96,Crit Hit Sound,14,20
+0,Sora,46,2E,Ars Arcanum final,btltbl.bin,AD97,Voice Set,06,6
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,AD9C,Motion ID,E7,231
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,AD9E,Keyblade Trail,05,5
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,AD9F,Persistent Weapon Effect,FF,-1
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,ADA0,Hit Parameters Offset,55F8,22008
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,ADA4,Lift,00 00 00 00,0
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,ADA8,Hit Sound,02,2
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,ADA9,Wall Hit Sound,05,5
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,ADAA,Crit Hit Sound,06,6
+0,Sora,47,2F,Strike Raid throw 1,btltbl.bin,ADAB,Voice Set,FF,-1
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADB0,Motion ID,E7,231
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADB2,Keyblade Trail,05,5
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADB3,Persistent Weapon Effect,FF,-1
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADB4,Hit Parameters Offset,55F8,22008
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADB8,Lift,00 00 00 00,0
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADBC,Hit Sound,02,2
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADBD,Wall Hit Sound,05,5
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADBE,Crit Hit Sound,06,6
+0,Sora,48,30,Strike Raid throw 2,btltbl.bin,ADBF,Voice Set,04,4
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADC4,Motion ID,E7,231
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADC6,Keyblade Trail,05,5
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADC7,Persistent Weapon Effect,FF,-1
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADC8,Hit Parameters Offset,55F8,22008
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADCC,Lift,00 00 00 00,0
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADD0,Hit Sound,02,2
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADD1,Wall Hit Sound,05,5
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADD2,Crit Hit Sound,06,6
+0,Sora,49,31,Strike Raid throw 3,btltbl.bin,ADD3,Voice Set,04,4
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADD8,Motion ID,E7,231
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADDA,Keyblade Trail,05,5
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADDB,Persistent Weapon Effect,FF,-1
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADDC,Hit Parameters Offset,55F8,22008
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADE0,Lift,00 00 00 00,0
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADE4,Hit Sound,02,2
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADE5,Wall Hit Sound,05,5
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADE6,Crit Hit Sound,06,6
+0,Sora,50,32,Strike Raid throw 4,btltbl.bin,ADE7,Voice Set,05,5
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADEC,Motion ID,E8,232
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADEE,Keyblade Trail,05,5
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADEF,Persistent Weapon Effect,FF,-1
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADF0,Hit Parameters Offset,5668,22120
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADF4,Lift,00 00 00 00,0
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADF8,Hit Sound,18,24
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADF9,Wall Hit Sound,19,25
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADFA,Crit Hit Sound,18,24
+0,Sora,51,33,Strike Raid final throw,btltbl.bin,ADFB,Voice Set,06,6
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE00,Motion ID,E7,231
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE02,Keyblade Trail,FF,-1
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE03,Persistent Weapon Effect,FF,-1
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE04,Hit Parameters Offset,55F8,22008
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE08,Lift,00 00 00 00,0
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE0C,Hit Sound,02,2
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE0D,Wall Hit Sound,05,5
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE0E,Crit Hit Sound,06,6
+0,Sora,52,34,Freeze with voice line 6,btltbl.bin,AE0F,Voice Set,04,4
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE14,Motion ID,E8,232
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE16,Keyblade Trail,FF,-1
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE17,Persistent Weapon Effect,FF,-1
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE18,Hit Parameters Offset,5668,22120
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE1C,Lift,00 00 00 00,0
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE20,Hit Sound,FF,-1
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE21,Wall Hit Sound,FF,-1
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE22,Crit Hit Sound,FF,-1
+0,Sora,53,35,Freeze with voice line 7,btltbl.bin,AE23,Voice Set,06,6
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE28,Motion ID,F1,241
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE2A,Keyblade Trail,05,5
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE2B,Persistent Weapon Effect,FF,-1
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE2C,Hit Parameters Offset,5A58,23128
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE30,Lift,00 00 70 42,60
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE34,Hit Sound,04,4
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE35,Wall Hit Sound,05,5
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE36,Crit Hit Sound,06,6
+0,Sora,54,36,Ragnarok hit 1,btltbl.bin,AE37,Voice Set,FF,-1
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE3C,Motion ID,F2,242
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE3E,Keyblade Trail,FF,-1
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE3F,Persistent Weapon Effect,FF,-1
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE40,Hit Parameters Offset,5A58,23128
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE44,Lift,00 00 20 42,40
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE48,Hit Sound,00,0
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE49,Wall Hit Sound,05,5
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE4A,Crit Hit Sound,06,6
+0,Sora,55,37,Ragnarok hit 2,btltbl.bin,AE4B,Voice Set,04,4
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE50,Motion ID,F3,243
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE52,Keyblade Trail,FF,-1
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE53,Persistent Weapon Effect,FF,-1
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE54,Hit Parameters Offset,5A58,23128
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE58,Lift,00 00 20 42,40
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE5C,Hit Sound,01,1
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE5D,Wall Hit Sound,05,5
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE5E,Crit Hit Sound,06,6
+0,Sora,56,38,Ragnarok hit 3,btltbl.bin,AE5F,Voice Set,FF,-1
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE64,Motion ID,F4,244
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE66,Keyblade Trail,FF,-1
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE67,Persistent Weapon Effect,FF,-1
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE68,Hit Parameters Offset,5A58,23128
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE6C,Lift,00 00 20 42,40
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE70,Hit Sound,01,1
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE71,Wall Hit Sound,05,5
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE72,Crit Hit Sound,06,6
+0,Sora,57,39,Ragnarok hit 4,btltbl.bin,AE73,Voice Set,04,4
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE78,Motion ID,F5,245
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE7A,Keyblade Trail,FF,-1
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE7B,Persistent Weapon Effect,FF,-1
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE7C,Hit Parameters Offset,5AC8,23240
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE80,Lift,00 00 20 42,40
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE84,Hit Sound,17,23
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE85,Wall Hit Sound,05,5
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE86,Crit Hit Sound,17,23
+0,Sora,58,3A,Ragnarok hit 5,btltbl.bin,AE87,Voice Set,05,5
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE8C,Motion ID,CC,204
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE8E,Keyblade Trail,05,5
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE8F,Persistent Weapon Effect,FF,-1
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE90,Hit Parameters Offset,4B78,19320
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE94,Lift,00 00 A0 41,20
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE98,Hit Sound,00,0
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE99,Wall Hit Sound,05,5
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE9A,Crit Hit Sound,06,6
+0,Sora,59,3B,Air overhand swing (always point north?),btltbl.bin,AE9B,Voice Set,04,4
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEA0,Motion ID,C8,200
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEA2,Keyblade Trail,05,5
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEA3,Persistent Weapon Effect,FF,-1
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEA4,Hit Parameters Offset,4B78,19320
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEA8,Lift,00 00 00 00,0
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEAC,Hit Sound,00,0
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEAD,Wall Hit Sound,05,5
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEAE,Crit Hit Sound,06,6
+0,Sora,60,3C,Ground overhand swing,btltbl.bin,AEAF,Voice Set,04,4
+0,Sora,61,3D,Guard 2,btltbl.bin,AEB4,Motion ID,D4,212
+0,Sora,61,3D,Guard 2,btltbl.bin,AEB6,Keyblade Trail,05,5
+0,Sora,61,3D,Guard 2,btltbl.bin,AEB7,Persistent Weapon Effect,FF,-1
+0,Sora,61,3D,Guard 2,btltbl.bin,AEB8,Hit Parameters Offset,4DA8,19880
+0,Sora,61,3D,Guard 2,btltbl.bin,AEBC,Lift,00 00 00 00,0
+0,Sora,61,3D,Guard 2,btltbl.bin,AEC0,Hit Sound,00,0
+0,Sora,61,3D,Guard 2,btltbl.bin,AEC1,Wall Hit Sound,05,5
+0,Sora,61,3D,Guard 2,btltbl.bin,AEC2,Crit Hit Sound,06,6
+0,Sora,61,3D,Guard 2,btltbl.bin,AEC3,Voice Set,13,19
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AEC8,Motion ID,D5,213
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AECA,Keyblade Trail,05,5
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AECB,Persistent Weapon Effect,FF,-1
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AECC,Hit Parameters Offset,4E18,19992
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AED0,Lift,00 00 00 00,0
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AED4,Hit Sound,03,3
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AED5,Wall Hit Sound,05,5
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AED6,Crit Hit Sound,06,6
+0,Sora,62,3E,Counterattack 2,btltbl.bin,AED7,Voice Set,05,5
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEDC,Motion ID,C8,200
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEDE,Keyblade Trail,05,5
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEDF,Persistent Weapon Effect,FF,-1
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEE0,Hit Parameters Offset,4B78,19320
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEE4,Lift,00 00 00 00,0
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEE8,Hit Sound,00,0
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEE9,Wall Hit Sound,05,5
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEEA,Crit Hit Sound,06,6
+0,Sora,63,3F,Ground overhand swing,btltbl.bin,AEEB,Voice Set,04,4
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEF0,Motion ID,C8,200
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEF2,Keyblade Trail,05,5
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEF3,Persistent Weapon Effect,FF,-1
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEF4,Hit Parameters Offset,4B78,19320
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEF8,Lift,00 00 00 00,0
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEFC,Hit Sound,00,0
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEFD,Wall Hit Sound,05,5
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEFE,Crit Hit Sound,06,6
+0,Sora,64,40,Ground overhand swing 2,btltbl.bin,AEFF,Voice Set,04,4
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF04,Motion ID,C8,200
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF06,Keyblade Trail,05,5
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF07,Persistent Weapon Effect,FF,-1
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF08,Hit Parameters Offset,4B78,19320
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF0C,Lift,00 00 00 00,0
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF10,Hit Sound,00,0
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF11,Wall Hit Sound,05,5
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF12,Crit Hit Sound,06,6
+0,Sora,65,41,Ground overhand swing 3,btltbl.bin,AF13,Voice Set,04,4
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF18,Motion ID,CC,204
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF1A,Keyblade Trail,FF,-1
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF1B,Persistent Weapon Effect,FF,-1
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF1C,Hit Parameters Offset,6858,26712
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF20,Lift,00 00 F0 C1,-30
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF24,Hit Sound,01,1
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF25,Wall Hit Sound,02,2
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF26,Crit Hit Sound,03,3
+1,Donald,0,00,Air overhand swing,btltbl.bin,AF27,Voice Set,04,4
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF2C,Motion ID,CC,204
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF2E,Keyblade Trail,FF,-1
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF2F,Persistent Weapon Effect,FF,-1
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF30,Hit Parameters Offset,6858,26712
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF34,Lift,00 00 00 00,0
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF38,Hit Sound,01,1
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF39,Wall Hit Sound,02,2
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF3A,Crit Hit Sound,03,3
+1,Donald,1,01,Air overhand swing,btltbl.bin,AF3B,Voice Set,04,4
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF40,Motion ID,C8,200
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF42,Keyblade Trail,FF,-1
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF43,Persistent Weapon Effect,FF,-1
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF44,Hit Parameters Offset,6858,26712
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF48,Lift,00 00 00 00,0
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF4C,Hit Sound,00,0
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF4D,Wall Hit Sound,02,2
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF4E,Crit Hit Sound,03,3
+1,Donald,2,02,Ground overhand swing,btltbl.bin,AF4F,Voice Set,04,4
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF54,Motion ID,C8,200
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF56,Keyblade Trail,FF,-1
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF57,Persistent Weapon Effect,FF,-1
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF58,Hit Parameters Offset,6858,26712
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF5C,Lift,00 00 00 00,0
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF60,Hit Sound,00,0
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF61,Wall Hit Sound,02,2
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF62,Crit Hit Sound,03,3
+1,Donald,3,03,Ground overhand swing,btltbl.bin,AF63,Voice Set,04,4
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF68,Motion ID,C8,200
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF6A,Keyblade Trail,FF,-1
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF6B,Persistent Weapon Effect,FF,-1
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF6C,Hit Parameters Offset,6858,26712
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF70,Lift,00 00 00 00,0
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF74,Hit Sound,00,0
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF75,Wall Hit Sound,02,2
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF76,Crit Hit Sound,03,3
+1,Donald,4,04,Ground overhand swing,btltbl.bin,AF77,Voice Set,04,4
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF7C,Motion ID,C8,200
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF7E,Keyblade Trail,FF,-1
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF7F,Persistent Weapon Effect,FF,-1
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF80,Hit Parameters Offset,6858,26712
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF84,Lift,00 00 00 00,0
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF88,Hit Sound,00,0
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF89,Wall Hit Sound,02,2
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF8A,Crit Hit Sound,03,3
+1,Donald,5,05,Ground overhand swing,btltbl.bin,AF8B,Voice Set,04,4
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF90,Motion ID,C8,200
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF92,Keyblade Trail,FF,-1
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF93,Persistent Weapon Effect,FF,-1
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF94,Hit Parameters Offset,6858,26712
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF98,Lift,00 00 00 00,0
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF9C,Hit Sound,00,0
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF9D,Wall Hit Sound,02,2
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF9E,Crit Hit Sound,03,3
+1,Donald,6,06,Ground overhand swing,btltbl.bin,AF9F,Voice Set,04,4
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFA4,Motion ID,C8,200
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFA6,Keyblade Trail,FF,-1
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFA7,Persistent Weapon Effect,FF,-1
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFA8,Hit Parameters Offset,6858,26712
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFAC,Lift,00 00 00 00,0
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFB0,Hit Sound,00,0
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFB1,Wall Hit Sound,02,2
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFB2,Crit Hit Sound,03,3
+1,Donald,7,07,Ground overhand swing,btltbl.bin,AFB3,Voice Set,04,4
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFB8,Motion ID,C8,200
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFBA,Keyblade Trail,FF,-1
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFBB,Persistent Weapon Effect,FF,-1
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFBC,Hit Parameters Offset,6858,26712
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFC0,Lift,00 00 00 00,0
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFC4,Hit Sound,00,0
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFC5,Wall Hit Sound,02,2
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFC6,Crit Hit Sound,03,3
+1,Donald,8,08,Ground overhand swing,btltbl.bin,AFC7,Voice Set,04,4
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFCC,Motion ID,CC,204
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFCE,Keyblade Trail,FF,-1
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFCF,Persistent Weapon Effect,FF,-1
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFD0,Hit Parameters Offset,6858,26712
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFD4,Lift,00 00 00 41,8
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFD8,Hit Sound,01,1
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFD9,Wall Hit Sound,02,2
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFDA,Crit Hit Sound,03,3
+1,Donald,9,09,Air overhand swing,btltbl.bin,AFDB,Voice Set,04,4
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFE0,Motion ID,CC,204
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFE2,Keyblade Trail,FF,-1
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFE3,Persistent Weapon Effect,FF,-1
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFE4,Hit Parameters Offset,6858,26712
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFE8,Lift,00 00 00 41,8
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFEC,Hit Sound,01,1
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFED,Wall Hit Sound,02,2
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFEE,Crit Hit Sound,03,3
+1,Donald,10,0A,Air overhand swing,btltbl.bin,AFEF,Voice Set,04,4
+1,Donald,11,0B,Air overhand swing,btltbl.bin,AFF4,Motion ID,CC,204
+1,Donald,11,0B,Air overhand swing,btltbl.bin,AFF6,Keyblade Trail,FF,-1
+1,Donald,11,0B,Air overhand swing,btltbl.bin,AFF7,Persistent Weapon Effect,FF,-1
+1,Donald,11,0B,Air overhand swing,btltbl.bin,AFF8,Hit Parameters Offset,6858,26712
+1,Donald,11,0B,Air overhand swing,btltbl.bin,AFFC,Lift,00 00 00 41,8
+1,Donald,11,0B,Air overhand swing,btltbl.bin,B000,Hit Sound,01,1
+1,Donald,11,0B,Air overhand swing,btltbl.bin,B001,Wall Hit Sound,02,2
+1,Donald,11,0B,Air overhand swing,btltbl.bin,B002,Crit Hit Sound,03,3
+1,Donald,11,0B,Air overhand swing,btltbl.bin,B003,Voice Set,04,4
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B008,Motion ID,C8,200
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B00A,Keyblade Trail,FF,-1
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B00B,Persistent Weapon Effect,FF,-1
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B00C,Hit Parameters Offset,6858,26712
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B010,Lift,00 00 00 00,0
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B014,Hit Sound,00,0
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B015,Wall Hit Sound,02,2
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B016,Crit Hit Sound,03,3
+1,Donald,12,0C,Ground overhand swing,btltbl.bin,B017,Voice Set,04,4
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B01C,Motion ID,C8,200
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B01E,Keyblade Trail,FF,-1
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B01F,Persistent Weapon Effect,FF,-1
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B020,Hit Parameters Offset,6858,26712
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B024,Lift,00 00 00 00,0
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B028,Hit Sound,00,0
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B029,Wall Hit Sound,02,2
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B02A,Crit Hit Sound,03,3
+1,Donald,13,0D,Ground overhand swing,btltbl.bin,B02B,Voice Set,04,4
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B030,Motion ID,C8,200
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B032,Keyblade Trail,FF,-1
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B033,Persistent Weapon Effect,FF,-1
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B034,Hit Parameters Offset,6858,26712
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B038,Lift,00 00 00 00,0
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B03C,Hit Sound,00,0
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B03D,Wall Hit Sound,02,2
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B03E,Crit Hit Sound,03,3
+1,Donald,14,0E,Ground overhand swing,btltbl.bin,B03F,Voice Set,04,4
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B044,Motion ID,C8,200
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B046,Keyblade Trail,FF,-1
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B047,Persistent Weapon Effect,FF,-1
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B048,Hit Parameters Offset,6858,26712
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B04C,Lift,00 00 00 00,0
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B050,Hit Sound,00,0
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B051,Wall Hit Sound,02,2
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B052,Crit Hit Sound,03,3
+1,Donald,15,0F,Ground overhand swing,btltbl.bin,B053,Voice Set,04,4
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B058,Motion ID,C8,200
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B05A,Keyblade Trail,FF,-1
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B05B,Persistent Weapon Effect,FF,-1
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B05C,Hit Parameters Offset,6858,26712
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B060,Lift,00 00 00 00,0
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B064,Hit Sound,00,0
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B065,Wall Hit Sound,02,2
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B066,Crit Hit Sound,03,3
+1,Donald,16,10,Ground overhand swing,btltbl.bin,B067,Voice Set,04,4
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B06C,Motion ID,C8,200
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B06E,Keyblade Trail,FF,-1
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B06F,Persistent Weapon Effect,FF,-1
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B070,Hit Parameters Offset,6858,26712
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B074,Lift,00 00 00 00,0
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B078,Hit Sound,00,0
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B079,Wall Hit Sound,02,2
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B07A,Crit Hit Sound,03,3
+1,Donald,17,11,Ground overhand swing,btltbl.bin,B07B,Voice Set,04,4
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B080,Motion ID,C8,200
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B082,Keyblade Trail,FF,-1
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B083,Persistent Weapon Effect,FF,-1
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B084,Hit Parameters Offset,6858,26712
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B088,Lift,00 00 00 00,0
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B08C,Hit Sound,00,0
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B08D,Wall Hit Sound,02,2
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B08E,Crit Hit Sound,03,3
+1,Donald,18,12,Ground overhand swing,btltbl.bin,B08F,Voice Set,04,4
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B094,Motion ID,C8,200
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B096,Keyblade Trail,FF,-1
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B097,Persistent Weapon Effect,FF,-1
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B098,Hit Parameters Offset,6858,26712
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B09C,Lift,00 00 00 00,0
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B0A0,Hit Sound,00,0
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B0A1,Wall Hit Sound,02,2
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B0A2,Crit Hit Sound,03,3
+1,Donald,19,13,Ground overhand swing,btltbl.bin,B0A3,Voice Set,04,4
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0A8,Motion ID,C8,200
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0AA,Keyblade Trail,FF,-1
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0AB,Persistent Weapon Effect,FF,-1
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0AC,Hit Parameters Offset,6858,26712
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0B0,Lift,00 00 00 00,0
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0B4,Hit Sound,00,0
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0B5,Wall Hit Sound,02,2
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0B6,Crit Hit Sound,03,3
+1,Donald,20,14,Ground overhand swing,btltbl.bin,B0B7,Voice Set,04,4
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0BC,Motion ID,C8,200
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0BE,Keyblade Trail,FF,-1
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0BF,Persistent Weapon Effect,FF,-1
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0C0,Hit Parameters Offset,6858,26712
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0C4,Lift,00 00 00 00,0
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0C8,Hit Sound,00,0
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0C9,Wall Hit Sound,02,2
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0CA,Crit Hit Sound,03,3
+1,Donald,21,15,Ground overhand swing,btltbl.bin,B0CB,Voice Set,04,4
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0D0,Motion ID,C8,200
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0D2,Keyblade Trail,FF,-1
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0D3,Persistent Weapon Effect,FF,-1
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0D4,Hit Parameters Offset,6858,26712
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0D8,Lift,00 00 00 00,0
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0DC,Hit Sound,00,0
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0DD,Wall Hit Sound,02,2
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0DE,Crit Hit Sound,03,3
+1,Donald,22,16,Ground overhand swing,btltbl.bin,B0DF,Voice Set,04,4
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0E4,Motion ID,C8,200
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0E6,Keyblade Trail,FF,-1
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0E7,Persistent Weapon Effect,FF,-1
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0E8,Hit Parameters Offset,6858,26712
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0EC,Lift,00 00 00 00,0
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0F0,Hit Sound,00,0
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0F1,Wall Hit Sound,02,2
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0F2,Crit Hit Sound,03,3
+1,Donald,23,17,Ground overhand swing,btltbl.bin,B0F3,Voice Set,04,4
+2,Goofy,0,00,Unknown,btltbl.bin,B0F8,Motion ID,CD,205
+2,Goofy,0,00,Unknown,btltbl.bin,B0FA,Keyblade Trail,FF,-1
+2,Goofy,0,00,Unknown,btltbl.bin,B0FB,Persistent Weapon Effect,FF,-1
+2,Goofy,0,00,Unknown,btltbl.bin,B0FC,Hit Parameters Offset,6E08,28168
+2,Goofy,0,00,Unknown,btltbl.bin,B100,Lift,00 00 48 C2,-50
+2,Goofy,0,00,Unknown,btltbl.bin,B104,Hit Sound,01,1
+2,Goofy,0,00,Unknown,btltbl.bin,B105,Wall Hit Sound,02,2
+2,Goofy,0,00,Unknown,btltbl.bin,B106,Crit Hit Sound,03,3
+2,Goofy,0,00,Unknown,btltbl.bin,B107,Voice Set,04,4
+2,Goofy,1,01,Unknown,btltbl.bin,B10C,Motion ID,FFFF,-1
+2,Goofy,1,01,Unknown,btltbl.bin,B10E,Keyblade Trail,FF,-1
+2,Goofy,1,01,Unknown,btltbl.bin,B10F,Persistent Weapon Effect,FF,-1
+2,Goofy,1,01,Unknown,btltbl.bin,B110,Hit Parameters Offset,6E78,28280
+2,Goofy,1,01,Unknown,btltbl.bin,B114,Lift,00 00 00 00,0
+2,Goofy,1,01,Unknown,btltbl.bin,B118,Hit Sound,00,0
+2,Goofy,1,01,Unknown,btltbl.bin,B119,Wall Hit Sound,02,2
+2,Goofy,1,01,Unknown,btltbl.bin,B11A,Crit Hit Sound,03,3
+2,Goofy,1,01,Unknown,btltbl.bin,B11B,Voice Set,FF,-1
+2,Goofy,2,02,Unknown,btltbl.bin,B120,Motion ID,CB,203
+2,Goofy,2,02,Unknown,btltbl.bin,B122,Keyblade Trail,FF,-1
+2,Goofy,2,02,Unknown,btltbl.bin,B123,Persistent Weapon Effect,FF,-1
+2,Goofy,2,02,Unknown,btltbl.bin,B124,Hit Parameters Offset,6FC8,28616
+2,Goofy,2,02,Unknown,btltbl.bin,B128,Lift,00 00 00 00,0
+2,Goofy,2,02,Unknown,btltbl.bin,B12C,Hit Sound,03,3
+2,Goofy,2,02,Unknown,btltbl.bin,B12D,Wall Hit Sound,02,2
+2,Goofy,2,02,Unknown,btltbl.bin,B12E,Crit Hit Sound,03,3
+2,Goofy,2,02,Unknown,btltbl.bin,B12F,Voice Set,05,5
+2,Goofy,3,03,Unknown,btltbl.bin,B134,Motion ID,C9,201
+2,Goofy,3,03,Unknown,btltbl.bin,B136,Keyblade Trail,FF,-1
+2,Goofy,3,03,Unknown,btltbl.bin,B137,Persistent Weapon Effect,FF,-1
+2,Goofy,3,03,Unknown,btltbl.bin,B138,Hit Parameters Offset,6E08,28168
+2,Goofy,3,03,Unknown,btltbl.bin,B13C,Lift,00 00 00 00,0
+2,Goofy,3,03,Unknown,btltbl.bin,B140,Hit Sound,00,0
+2,Goofy,3,03,Unknown,btltbl.bin,B141,Wall Hit Sound,02,2
+2,Goofy,3,03,Unknown,btltbl.bin,B142,Crit Hit Sound,03,3
+2,Goofy,3,03,Unknown,btltbl.bin,B143,Voice Set,04,4
+2,Goofy,4,04,Unknown,btltbl.bin,B148,Motion ID,C8,200
+2,Goofy,4,04,Unknown,btltbl.bin,B14A,Keyblade Trail,FF,-1
+2,Goofy,4,04,Unknown,btltbl.bin,B14B,Persistent Weapon Effect,FF,-1
+2,Goofy,4,04,Unknown,btltbl.bin,B14C,Hit Parameters Offset,6E08,28168
+2,Goofy,4,04,Unknown,btltbl.bin,B150,Lift,00 00 00 00,0
+2,Goofy,4,04,Unknown,btltbl.bin,B154,Hit Sound,00,0
+2,Goofy,4,04,Unknown,btltbl.bin,B155,Wall Hit Sound,02,2
+2,Goofy,4,04,Unknown,btltbl.bin,B156,Crit Hit Sound,03,3
+2,Goofy,4,04,Unknown,btltbl.bin,B157,Voice Set,04,4
+2,Goofy,5,05,Unknown,btltbl.bin,B15C,Motion ID,CA,202
+2,Goofy,5,05,Unknown,btltbl.bin,B15E,Keyblade Trail,FF,-1
+2,Goofy,5,05,Unknown,btltbl.bin,B15F,Persistent Weapon Effect,FF,-1
+2,Goofy,5,05,Unknown,btltbl.bin,B160,Hit Parameters Offset,6F58,28504
+2,Goofy,5,05,Unknown,btltbl.bin,B164,Lift,00 00 00 00,0
+2,Goofy,5,05,Unknown,btltbl.bin,B168,Hit Sound,03,3
+2,Goofy,5,05,Unknown,btltbl.bin,B169,Wall Hit Sound,02,2
+2,Goofy,5,05,Unknown,btltbl.bin,B16A,Crit Hit Sound,03,3
+2,Goofy,5,05,Unknown,btltbl.bin,B16B,Voice Set,06,6
+2,Goofy,6,06,Unknown,btltbl.bin,B170,Motion ID,CF,207
+2,Goofy,6,06,Unknown,btltbl.bin,B172,Keyblade Trail,FF,-1
+2,Goofy,6,06,Unknown,btltbl.bin,B173,Persistent Weapon Effect,FF,-1
+2,Goofy,6,06,Unknown,btltbl.bin,B174,Hit Parameters Offset,7038,28728
+2,Goofy,6,06,Unknown,btltbl.bin,B178,Lift,00 00 00 00,0
+2,Goofy,6,06,Unknown,btltbl.bin,B17C,Hit Sound,03,3
+2,Goofy,6,06,Unknown,btltbl.bin,B17D,Wall Hit Sound,02,2
+2,Goofy,6,06,Unknown,btltbl.bin,B17E,Crit Hit Sound,03,3
+2,Goofy,6,06,Unknown,btltbl.bin,B17F,Voice Set,06,6
+2,Goofy,7,07,Unknown,btltbl.bin,B184,Motion ID,C8,200
+2,Goofy,7,07,Unknown,btltbl.bin,B186,Keyblade Trail,FF,-1
+2,Goofy,7,07,Unknown,btltbl.bin,B187,Persistent Weapon Effect,FF,-1
+2,Goofy,7,07,Unknown,btltbl.bin,B188,Hit Parameters Offset,6E08,28168
+2,Goofy,7,07,Unknown,btltbl.bin,B18C,Lift,00 00 00 00,0
+2,Goofy,7,07,Unknown,btltbl.bin,B190,Hit Sound,00,0
+2,Goofy,7,07,Unknown,btltbl.bin,B191,Wall Hit Sound,02,2
+2,Goofy,7,07,Unknown,btltbl.bin,B192,Crit Hit Sound,03,3
+2,Goofy,7,07,Unknown,btltbl.bin,B193,Voice Set,04,4
+2,Goofy,8,08,Unknown,btltbl.bin,B198,Motion ID,CC,204
+2,Goofy,8,08,Unknown,btltbl.bin,B19A,Keyblade Trail,FF,-1
+2,Goofy,8,08,Unknown,btltbl.bin,B19B,Persistent Weapon Effect,FF,-1
+2,Goofy,8,08,Unknown,btltbl.bin,B19C,Hit Parameters Offset,6E08,28168
+2,Goofy,8,08,Unknown,btltbl.bin,B1A0,Lift,00 00 48 C2,-50
+2,Goofy,8,08,Unknown,btltbl.bin,B1A4,Hit Sound,01,1
+2,Goofy,8,08,Unknown,btltbl.bin,B1A5,Wall Hit Sound,02,2
+2,Goofy,8,08,Unknown,btltbl.bin,B1A6,Crit Hit Sound,03,3
+2,Goofy,8,08,Unknown,btltbl.bin,B1A7,Voice Set,04,4
+2,Goofy,9,09,Unknown,btltbl.bin,B1AC,Motion ID,CF,207
+2,Goofy,9,09,Unknown,btltbl.bin,B1AE,Keyblade Trail,FF,-1
+2,Goofy,9,09,Unknown,btltbl.bin,B1AF,Persistent Weapon Effect,FF,-1
+2,Goofy,9,09,Unknown,btltbl.bin,B1B0,Hit Parameters Offset,7038,28728
+2,Goofy,9,09,Unknown,btltbl.bin,B1B4,Lift,00 00 00 00,0
+2,Goofy,9,09,Unknown,btltbl.bin,B1B8,Hit Sound,03,3
+2,Goofy,9,09,Unknown,btltbl.bin,B1B9,Wall Hit Sound,02,2
+2,Goofy,9,09,Unknown,btltbl.bin,B1BA,Crit Hit Sound,03,3
+2,Goofy,9,09,Unknown,btltbl.bin,B1BB,Voice Set,06,6
+2,Goofy,10,0A,Unknown,btltbl.bin,B1C0,Motion ID,CD,205
+2,Goofy,10,0A,Unknown,btltbl.bin,B1C2,Keyblade Trail,FF,-1
+2,Goofy,10,0A,Unknown,btltbl.bin,B1C3,Persistent Weapon Effect,FF,-1
+2,Goofy,10,0A,Unknown,btltbl.bin,B1C4,Hit Parameters Offset,6E08,28168
+2,Goofy,10,0A,Unknown,btltbl.bin,B1C8,Lift,00 00 00 41,8
+2,Goofy,10,0A,Unknown,btltbl.bin,B1CC,Hit Sound,01,1
+2,Goofy,10,0A,Unknown,btltbl.bin,B1CD,Wall Hit Sound,02,2
+2,Goofy,10,0A,Unknown,btltbl.bin,B1CE,Crit Hit Sound,03,3
+2,Goofy,10,0A,Unknown,btltbl.bin,B1CF,Voice Set,04,4
+2,Goofy,11,0B,Unknown,btltbl.bin,B1D4,Motion ID,CC,204
+2,Goofy,11,0B,Unknown,btltbl.bin,B1D6,Keyblade Trail,FF,-1
+2,Goofy,11,0B,Unknown,btltbl.bin,B1D7,Persistent Weapon Effect,FF,-1
+2,Goofy,11,0B,Unknown,btltbl.bin,B1D8,Hit Parameters Offset,6E08,28168
+2,Goofy,11,0B,Unknown,btltbl.bin,B1DC,Lift,00 00 00 41,8
+2,Goofy,11,0B,Unknown,btltbl.bin,B1E0,Hit Sound,01,1
+2,Goofy,11,0B,Unknown,btltbl.bin,B1E1,Wall Hit Sound,02,2
+2,Goofy,11,0B,Unknown,btltbl.bin,B1E2,Crit Hit Sound,03,3
+2,Goofy,11,0B,Unknown,btltbl.bin,B1E3,Voice Set,04,4
+2,Goofy,12,0C,Unknown,btltbl.bin,B1E8,Motion ID,CF,207
+2,Goofy,12,0C,Unknown,btltbl.bin,B1EA,Keyblade Trail,FF,-1
+2,Goofy,12,0C,Unknown,btltbl.bin,B1EB,Persistent Weapon Effect,FF,-1
+2,Goofy,12,0C,Unknown,btltbl.bin,B1EC,Hit Parameters Offset,7038,28728
+2,Goofy,12,0C,Unknown,btltbl.bin,B1F0,Lift,00 00 00 00,0
+2,Goofy,12,0C,Unknown,btltbl.bin,B1F4,Hit Sound,03,3
+2,Goofy,12,0C,Unknown,btltbl.bin,B1F5,Wall Hit Sound,02,2
+2,Goofy,12,0C,Unknown,btltbl.bin,B1F6,Crit Hit Sound,03,3
+2,Goofy,12,0C,Unknown,btltbl.bin,B1F7,Voice Set,06,6
+2,Goofy,13,0D,Unknown,btltbl.bin,B1FC,Motion ID,C9,201
+2,Goofy,13,0D,Unknown,btltbl.bin,B1FE,Keyblade Trail,FF,-1
+2,Goofy,13,0D,Unknown,btltbl.bin,B1FF,Persistent Weapon Effect,FF,-1
+2,Goofy,13,0D,Unknown,btltbl.bin,B200,Hit Parameters Offset,6E08,28168
+2,Goofy,13,0D,Unknown,btltbl.bin,B204,Lift,00 00 00 00,0
+2,Goofy,13,0D,Unknown,btltbl.bin,B208,Hit Sound,00,0
+2,Goofy,13,0D,Unknown,btltbl.bin,B209,Wall Hit Sound,02,2
+2,Goofy,13,0D,Unknown,btltbl.bin,B20A,Crit Hit Sound,03,3
+2,Goofy,13,0D,Unknown,btltbl.bin,B20B,Voice Set,04,4
+2,Goofy,14,0E,Unknown,btltbl.bin,B210,Motion ID,C8,200
+2,Goofy,14,0E,Unknown,btltbl.bin,B212,Keyblade Trail,FF,-1
+2,Goofy,14,0E,Unknown,btltbl.bin,B213,Persistent Weapon Effect,FF,-1
+2,Goofy,14,0E,Unknown,btltbl.bin,B214,Hit Parameters Offset,6E08,28168
+2,Goofy,14,0E,Unknown,btltbl.bin,B218,Lift,00 00 00 00,0
+2,Goofy,14,0E,Unknown,btltbl.bin,B21C,Hit Sound,00,0
+2,Goofy,14,0E,Unknown,btltbl.bin,B21D,Wall Hit Sound,02,2
+2,Goofy,14,0E,Unknown,btltbl.bin,B21E,Crit Hit Sound,03,3
+2,Goofy,14,0E,Unknown,btltbl.bin,B21F,Voice Set,04,4
+2,Goofy,15,0F,Unknown,btltbl.bin,B224,Motion ID,CA,202
+2,Goofy,15,0F,Unknown,btltbl.bin,B226,Keyblade Trail,FF,-1
+2,Goofy,15,0F,Unknown,btltbl.bin,B227,Persistent Weapon Effect,FF,-1
+2,Goofy,15,0F,Unknown,btltbl.bin,B228,Hit Parameters Offset,6F58,28504
+2,Goofy,15,0F,Unknown,btltbl.bin,B22C,Lift,00 00 00 00,0
+2,Goofy,15,0F,Unknown,btltbl.bin,B230,Hit Sound,03,3
+2,Goofy,15,0F,Unknown,btltbl.bin,B231,Wall Hit Sound,02,2
+2,Goofy,15,0F,Unknown,btltbl.bin,B232,Crit Hit Sound,03,3
+2,Goofy,15,0F,Unknown,btltbl.bin,B233,Voice Set,06,6
+2,Goofy,16,10,Unknown,btltbl.bin,B238,Motion ID,FFFF,-1
+2,Goofy,16,10,Unknown,btltbl.bin,B23A,Keyblade Trail,FF,-1
+2,Goofy,16,10,Unknown,btltbl.bin,B23B,Persistent Weapon Effect,FF,-1
+2,Goofy,16,10,Unknown,btltbl.bin,B23C,Hit Parameters Offset,6EE8,28392
+2,Goofy,16,10,Unknown,btltbl.bin,B240,Lift,00 00 00 00,0
+2,Goofy,16,10,Unknown,btltbl.bin,B244,Hit Sound,FF,-1
+2,Goofy,16,10,Unknown,btltbl.bin,B245,Wall Hit Sound,FF,-1
+2,Goofy,16,10,Unknown,btltbl.bin,B246,Crit Hit Sound,FF,-1
+2,Goofy,16,10,Unknown,btltbl.bin,B247,Voice Set,FF,-1
+2,Goofy,17,11,Unknown,btltbl.bin,B24C,Motion ID,C8,200
+2,Goofy,17,11,Unknown,btltbl.bin,B24E,Keyblade Trail,FF,-1
+2,Goofy,17,11,Unknown,btltbl.bin,B24F,Persistent Weapon Effect,FF,-1
+2,Goofy,17,11,Unknown,btltbl.bin,B250,Hit Parameters Offset,6E08,28168
+2,Goofy,17,11,Unknown,btltbl.bin,B254,Lift,00 00 00 00,0
+2,Goofy,17,11,Unknown,btltbl.bin,B258,Hit Sound,00,0
+2,Goofy,17,11,Unknown,btltbl.bin,B259,Wall Hit Sound,02,2
+2,Goofy,17,11,Unknown,btltbl.bin,B25A,Crit Hit Sound,03,3
+2,Goofy,17,11,Unknown,btltbl.bin,B25B,Voice Set,04,4
+2,Goofy,18,12,Unknown,btltbl.bin,B260,Motion ID,C8,200
+2,Goofy,18,12,Unknown,btltbl.bin,B262,Keyblade Trail,FF,-1
+2,Goofy,18,12,Unknown,btltbl.bin,B263,Persistent Weapon Effect,FF,-1
+2,Goofy,18,12,Unknown,btltbl.bin,B264,Hit Parameters Offset,6E08,28168
+2,Goofy,18,12,Unknown,btltbl.bin,B268,Lift,00 00 00 00,0
+2,Goofy,18,12,Unknown,btltbl.bin,B26C,Hit Sound,00,0
+2,Goofy,18,12,Unknown,btltbl.bin,B26D,Wall Hit Sound,02,2
+2,Goofy,18,12,Unknown,btltbl.bin,B26E,Crit Hit Sound,03,3
+2,Goofy,18,12,Unknown,btltbl.bin,B26F,Voice Set,04,4
+2,Goofy,19,13,Unknown,btltbl.bin,B274,Motion ID,C8,200
+2,Goofy,19,13,Unknown,btltbl.bin,B276,Keyblade Trail,FF,-1
+2,Goofy,19,13,Unknown,btltbl.bin,B277,Persistent Weapon Effect,FF,-1
+2,Goofy,19,13,Unknown,btltbl.bin,B278,Hit Parameters Offset,6E08,28168
+2,Goofy,19,13,Unknown,btltbl.bin,B27C,Lift,00 00 00 00,0
+2,Goofy,19,13,Unknown,btltbl.bin,B280,Hit Sound,00,0
+2,Goofy,19,13,Unknown,btltbl.bin,B281,Wall Hit Sound,02,2
+2,Goofy,19,13,Unknown,btltbl.bin,B282,Crit Hit Sound,03,3
+2,Goofy,19,13,Unknown,btltbl.bin,B283,Voice Set,04,4
+2,Goofy,20,14,Unknown,btltbl.bin,B288,Motion ID,C8,200
+2,Goofy,20,14,Unknown,btltbl.bin,B28A,Keyblade Trail,FF,-1
+2,Goofy,20,14,Unknown,btltbl.bin,B28B,Persistent Weapon Effect,FF,-1
+2,Goofy,20,14,Unknown,btltbl.bin,B28C,Hit Parameters Offset,6E08,28168
+2,Goofy,20,14,Unknown,btltbl.bin,B290,Lift,00 00 00 00,0
+2,Goofy,20,14,Unknown,btltbl.bin,B294,Hit Sound,00,0
+2,Goofy,20,14,Unknown,btltbl.bin,B295,Wall Hit Sound,02,2
+2,Goofy,20,14,Unknown,btltbl.bin,B296,Crit Hit Sound,03,3
+2,Goofy,20,14,Unknown,btltbl.bin,B297,Voice Set,04,4
+2,Goofy,21,15,Unknown,btltbl.bin,B29C,Motion ID,C8,200
+2,Goofy,21,15,Unknown,btltbl.bin,B29E,Keyblade Trail,FF,-1
+2,Goofy,21,15,Unknown,btltbl.bin,B29F,Persistent Weapon Effect,FF,-1
+2,Goofy,21,15,Unknown,btltbl.bin,B2A0,Hit Parameters Offset,6E08,28168
+2,Goofy,21,15,Unknown,btltbl.bin,B2A4,Lift,00 00 00 00,0
+2,Goofy,21,15,Unknown,btltbl.bin,B2A8,Hit Sound,00,0
+2,Goofy,21,15,Unknown,btltbl.bin,B2A9,Wall Hit Sound,02,2
+2,Goofy,21,15,Unknown,btltbl.bin,B2AA,Crit Hit Sound,03,3
+2,Goofy,21,15,Unknown,btltbl.bin,B2AB,Voice Set,04,4
+2,Goofy,22,16,Unknown,btltbl.bin,B2B0,Motion ID,C8,200
+2,Goofy,22,16,Unknown,btltbl.bin,B2B2,Keyblade Trail,FF,-1
+2,Goofy,22,16,Unknown,btltbl.bin,B2B3,Persistent Weapon Effect,FF,-1
+2,Goofy,22,16,Unknown,btltbl.bin,B2B4,Hit Parameters Offset,6E08,28168
+2,Goofy,22,16,Unknown,btltbl.bin,B2B8,Lift,00 00 00 00,0
+2,Goofy,22,16,Unknown,btltbl.bin,B2BC,Hit Sound,00,0
+2,Goofy,22,16,Unknown,btltbl.bin,B2BD,Wall Hit Sound,02,2
+2,Goofy,22,16,Unknown,btltbl.bin,B2BE,Crit Hit Sound,03,3
+2,Goofy,22,16,Unknown,btltbl.bin,B2BF,Voice Set,04,4
+2,Goofy,23,17,Unknown,btltbl.bin,B2C4,Motion ID,C8,200
+2,Goofy,23,17,Unknown,btltbl.bin,B2C6,Keyblade Trail,FF,-1
+2,Goofy,23,17,Unknown,btltbl.bin,B2C7,Persistent Weapon Effect,FF,-1
+2,Goofy,23,17,Unknown,btltbl.bin,B2C8,Hit Parameters Offset,6E08,28168
+2,Goofy,23,17,Unknown,btltbl.bin,B2CC,Lift,00 00 00 00,0
+2,Goofy,23,17,Unknown,btltbl.bin,B2D0,Hit Sound,00,0
+2,Goofy,23,17,Unknown,btltbl.bin,B2D1,Wall Hit Sound,02,2
+2,Goofy,23,17,Unknown,btltbl.bin,B2D2,Crit Hit Sound,03,3
+2,Goofy,23,17,Unknown,btltbl.bin,B2D3,Voice Set,04,4
+2,Goofy,24,18,Unknown,btltbl.bin,B2D8,Motion ID,C8,200
+2,Goofy,24,18,Unknown,btltbl.bin,B2DA,Keyblade Trail,FF,-1
+2,Goofy,24,18,Unknown,btltbl.bin,B2DB,Persistent Weapon Effect,FF,-1
+2,Goofy,24,18,Unknown,btltbl.bin,B2DC,Hit Parameters Offset,6E08,28168
+2,Goofy,24,18,Unknown,btltbl.bin,B2E0,Lift,00 00 00 00,0
+2,Goofy,24,18,Unknown,btltbl.bin,B2E4,Hit Sound,00,0
+2,Goofy,24,18,Unknown,btltbl.bin,B2E5,Wall Hit Sound,02,2
+2,Goofy,24,18,Unknown,btltbl.bin,B2E6,Crit Hit Sound,03,3
+2,Goofy,24,18,Unknown,btltbl.bin,B2E7,Voice Set,04,4
+2,Goofy,25,19,Unknown,btltbl.bin,B2EC,Motion ID,C8,200
+2,Goofy,25,19,Unknown,btltbl.bin,B2EE,Keyblade Trail,FF,-1
+2,Goofy,25,19,Unknown,btltbl.bin,B2EF,Persistent Weapon Effect,FF,-1
+2,Goofy,25,19,Unknown,btltbl.bin,B2F0,Hit Parameters Offset,6E08,28168
+2,Goofy,25,19,Unknown,btltbl.bin,B2F4,Lift,00 00 00 00,0
+2,Goofy,25,19,Unknown,btltbl.bin,B2F8,Hit Sound,00,0
+2,Goofy,25,19,Unknown,btltbl.bin,B2F9,Wall Hit Sound,02,2
+2,Goofy,25,19,Unknown,btltbl.bin,B2FA,Crit Hit Sound,03,3
+2,Goofy,25,19,Unknown,btltbl.bin,B2FB,Voice Set,04,4
+2,Goofy,26,1A,Unknown,btltbl.bin,B300,Motion ID,C8,200
+2,Goofy,26,1A,Unknown,btltbl.bin,B302,Keyblade Trail,FF,-1
+2,Goofy,26,1A,Unknown,btltbl.bin,B303,Persistent Weapon Effect,FF,-1
+2,Goofy,26,1A,Unknown,btltbl.bin,B304,Hit Parameters Offset,6E08,28168
+2,Goofy,26,1A,Unknown,btltbl.bin,B308,Lift,00 00 00 00,0
+2,Goofy,26,1A,Unknown,btltbl.bin,B30C,Hit Sound,00,0
+2,Goofy,26,1A,Unknown,btltbl.bin,B30D,Wall Hit Sound,02,2
+2,Goofy,26,1A,Unknown,btltbl.bin,B30E,Crit Hit Sound,03,3
+2,Goofy,26,1A,Unknown,btltbl.bin,B30F,Voice Set,04,4
+2,Goofy,27,1B,Unknown,btltbl.bin,B314,Motion ID,C8,200
+2,Goofy,27,1B,Unknown,btltbl.bin,B316,Keyblade Trail,FF,-1
+2,Goofy,27,1B,Unknown,btltbl.bin,B317,Persistent Weapon Effect,FF,-1
+2,Goofy,27,1B,Unknown,btltbl.bin,B318,Hit Parameters Offset,6E08,28168
+2,Goofy,27,1B,Unknown,btltbl.bin,B31C,Lift,00 00 00 00,0
+2,Goofy,27,1B,Unknown,btltbl.bin,B320,Hit Sound,00,0
+2,Goofy,27,1B,Unknown,btltbl.bin,B321,Wall Hit Sound,02,2
+2,Goofy,27,1B,Unknown,btltbl.bin,B322,Crit Hit Sound,03,3
+2,Goofy,27,1B,Unknown,btltbl.bin,B323,Voice Set,04,4
+2,Goofy,28,1C,Unknown,btltbl.bin,B328,Motion ID,C8,200
+2,Goofy,28,1C,Unknown,btltbl.bin,B32A,Keyblade Trail,FF,-1
+2,Goofy,28,1C,Unknown,btltbl.bin,B32B,Persistent Weapon Effect,FF,-1
+2,Goofy,28,1C,Unknown,btltbl.bin,B32C,Hit Parameters Offset,6E08,28168
+2,Goofy,28,1C,Unknown,btltbl.bin,B330,Lift,00 00 00 00,0
+2,Goofy,28,1C,Unknown,btltbl.bin,B334,Hit Sound,00,0
+2,Goofy,28,1C,Unknown,btltbl.bin,B335,Wall Hit Sound,02,2
+2,Goofy,28,1C,Unknown,btltbl.bin,B336,Crit Hit Sound,03,3
+2,Goofy,28,1C,Unknown,btltbl.bin,B337,Voice Set,04,4
+2,Goofy,29,1D,Unknown,btltbl.bin,B33C,Motion ID,C8,200
+2,Goofy,29,1D,Unknown,btltbl.bin,B33E,Keyblade Trail,FF,-1
+2,Goofy,29,1D,Unknown,btltbl.bin,B33F,Persistent Weapon Effect,FF,-1
+2,Goofy,29,1D,Unknown,btltbl.bin,B340,Hit Parameters Offset,6E08,28168
+2,Goofy,29,1D,Unknown,btltbl.bin,B344,Lift,00 00 00 00,0
+2,Goofy,29,1D,Unknown,btltbl.bin,B348,Hit Sound,00,0
+2,Goofy,29,1D,Unknown,btltbl.bin,B349,Wall Hit Sound,02,2
+2,Goofy,29,1D,Unknown,btltbl.bin,B34A,Crit Hit Sound,03,3
+2,Goofy,29,1D,Unknown,btltbl.bin,B34B,Voice Set,04,4
+2,Goofy,30,1E,Unknown,btltbl.bin,B350,Motion ID,C8,200
+2,Goofy,30,1E,Unknown,btltbl.bin,B352,Keyblade Trail,FF,-1
+2,Goofy,30,1E,Unknown,btltbl.bin,B353,Persistent Weapon Effect,FF,-1
+2,Goofy,30,1E,Unknown,btltbl.bin,B354,Hit Parameters Offset,6E08,28168
+2,Goofy,30,1E,Unknown,btltbl.bin,B358,Lift,00 00 00 00,0
+2,Goofy,30,1E,Unknown,btltbl.bin,B35C,Hit Sound,00,0
+2,Goofy,30,1E,Unknown,btltbl.bin,B35D,Wall Hit Sound,02,2
+2,Goofy,30,1E,Unknown,btltbl.bin,B35E,Crit Hit Sound,03,3
+2,Goofy,30,1E,Unknown,btltbl.bin,B35F,Voice Set,04,4
+2,Goofy,31,1F,Unknown,btltbl.bin,B364,Motion ID,C8,200
+2,Goofy,31,1F,Unknown,btltbl.bin,B366,Keyblade Trail,FF,-1
+2,Goofy,31,1F,Unknown,btltbl.bin,B367,Persistent Weapon Effect,FF,-1
+2,Goofy,31,1F,Unknown,btltbl.bin,B368,Hit Parameters Offset,6E08,28168
+2,Goofy,31,1F,Unknown,btltbl.bin,B36C,Lift,00 00 00 00,0
+2,Goofy,31,1F,Unknown,btltbl.bin,B370,Hit Sound,00,0
+2,Goofy,31,1F,Unknown,btltbl.bin,B371,Wall Hit Sound,02,2
+2,Goofy,31,1F,Unknown,btltbl.bin,B372,Crit Hit Sound,03,3
+2,Goofy,31,1F,Unknown,btltbl.bin,B373,Voice Set,04,4
+3,Tarzan,0,00,Unknown,btltbl.bin,B378,Motion ID,CD,205
+3,Tarzan,0,00,Unknown,btltbl.bin,B37A,Keyblade Trail,05,5
+3,Tarzan,0,00,Unknown,btltbl.bin,B37B,Persistent Weapon Effect,FF,-1
+3,Tarzan,0,00,Unknown,btltbl.bin,B37C,Hit Parameters Offset,73B8,29624
+3,Tarzan,0,00,Unknown,btltbl.bin,B380,Lift,00 00 48 C2,-50
+3,Tarzan,0,00,Unknown,btltbl.bin,B384,Hit Sound,00,0
+3,Tarzan,0,00,Unknown,btltbl.bin,B385,Wall Hit Sound,01,1
+3,Tarzan,0,00,Unknown,btltbl.bin,B386,Crit Hit Sound,02,2
+3,Tarzan,0,00,Unknown,btltbl.bin,B387,Voice Set,04,4
+3,Tarzan,1,01,Unknown,btltbl.bin,B38C,Motion ID,CC,204
+3,Tarzan,1,01,Unknown,btltbl.bin,B38E,Keyblade Trail,05,5
+3,Tarzan,1,01,Unknown,btltbl.bin,B38F,Persistent Weapon Effect,FF,-1
+3,Tarzan,1,01,Unknown,btltbl.bin,B390,Hit Parameters Offset,73B8,29624
+3,Tarzan,1,01,Unknown,btltbl.bin,B394,Lift,00 00 48 C2,-50
+3,Tarzan,1,01,Unknown,btltbl.bin,B398,Hit Sound,00,0
+3,Tarzan,1,01,Unknown,btltbl.bin,B399,Wall Hit Sound,01,1
+3,Tarzan,1,01,Unknown,btltbl.bin,B39A,Crit Hit Sound,02,2
+3,Tarzan,1,01,Unknown,btltbl.bin,B39B,Voice Set,04,4
+3,Tarzan,2,02,Unknown,btltbl.bin,B3A0,Motion ID,C8,200
+3,Tarzan,2,02,Unknown,btltbl.bin,B3A2,Keyblade Trail,05,5
+3,Tarzan,2,02,Unknown,btltbl.bin,B3A3,Persistent Weapon Effect,FF,-1
+3,Tarzan,2,02,Unknown,btltbl.bin,B3A4,Hit Parameters Offset,7498,29848
+3,Tarzan,2,02,Unknown,btltbl.bin,B3A8,Lift,00 00 00 00,0
+3,Tarzan,2,02,Unknown,btltbl.bin,B3AC,Hit Sound,00,0
+3,Tarzan,2,02,Unknown,btltbl.bin,B3AD,Wall Hit Sound,01,1
+3,Tarzan,2,02,Unknown,btltbl.bin,B3AE,Crit Hit Sound,02,2
+3,Tarzan,2,02,Unknown,btltbl.bin,B3AF,Voice Set,05,5
+3,Tarzan,3,03,Unknown,btltbl.bin,B3B4,Motion ID,CB,203
+3,Tarzan,3,03,Unknown,btltbl.bin,B3B6,Keyblade Trail,05,5
+3,Tarzan,3,03,Unknown,btltbl.bin,B3B7,Persistent Weapon Effect,FF,-1
+3,Tarzan,3,03,Unknown,btltbl.bin,B3B8,Hit Parameters Offset,7428,29736
+3,Tarzan,3,03,Unknown,btltbl.bin,B3BC,Lift,00 00 00 00,0
+3,Tarzan,3,03,Unknown,btltbl.bin,B3C0,Hit Sound,00,0
+3,Tarzan,3,03,Unknown,btltbl.bin,B3C1,Wall Hit Sound,01,1
+3,Tarzan,3,03,Unknown,btltbl.bin,B3C2,Crit Hit Sound,02,2
+3,Tarzan,3,03,Unknown,btltbl.bin,B3C3,Voice Set,06,6
+3,Tarzan,4,04,Unknown,btltbl.bin,B3C8,Motion ID,C9,201
+3,Tarzan,4,04,Unknown,btltbl.bin,B3CA,Keyblade Trail,05,5
+3,Tarzan,4,04,Unknown,btltbl.bin,B3CB,Persistent Weapon Effect,FF,-1
+3,Tarzan,4,04,Unknown,btltbl.bin,B3CC,Hit Parameters Offset,73B8,29624
+3,Tarzan,4,04,Unknown,btltbl.bin,B3D0,Lift,00 00 00 00,0
+3,Tarzan,4,04,Unknown,btltbl.bin,B3D4,Hit Sound,00,0
+3,Tarzan,4,04,Unknown,btltbl.bin,B3D5,Wall Hit Sound,01,1
+3,Tarzan,4,04,Unknown,btltbl.bin,B3D6,Crit Hit Sound,02,2
+3,Tarzan,4,04,Unknown,btltbl.bin,B3D7,Voice Set,04,4
+3,Tarzan,5,05,Unknown,btltbl.bin,B3DC,Motion ID,CA,202
+3,Tarzan,5,05,Unknown,btltbl.bin,B3DE,Keyblade Trail,05,5
+3,Tarzan,5,05,Unknown,btltbl.bin,B3DF,Persistent Weapon Effect,FF,-1
+3,Tarzan,5,05,Unknown,btltbl.bin,B3E0,Hit Parameters Offset,73B8,29624
+3,Tarzan,5,05,Unknown,btltbl.bin,B3E4,Lift,00 00 00 00,0
+3,Tarzan,5,05,Unknown,btltbl.bin,B3E8,Hit Sound,00,0
+3,Tarzan,5,05,Unknown,btltbl.bin,B3E9,Wall Hit Sound,01,1
+3,Tarzan,5,05,Unknown,btltbl.bin,B3EA,Crit Hit Sound,02,2
+3,Tarzan,5,05,Unknown,btltbl.bin,B3EB,Voice Set,04,4
+3,Tarzan,6,06,Unknown,btltbl.bin,B3F0,Motion ID,C8,200
+3,Tarzan,6,06,Unknown,btltbl.bin,B3F2,Keyblade Trail,05,5
+3,Tarzan,6,06,Unknown,btltbl.bin,B3F3,Persistent Weapon Effect,FF,-1
+3,Tarzan,6,06,Unknown,btltbl.bin,B3F4,Hit Parameters Offset,7498,29848
+3,Tarzan,6,06,Unknown,btltbl.bin,B3F8,Lift,00 00 00 00,0
+3,Tarzan,6,06,Unknown,btltbl.bin,B3FC,Hit Sound,00,0
+3,Tarzan,6,06,Unknown,btltbl.bin,B3FD,Wall Hit Sound,01,1
+3,Tarzan,6,06,Unknown,btltbl.bin,B3FE,Crit Hit Sound,02,2
+3,Tarzan,6,06,Unknown,btltbl.bin,B3FF,Voice Set,05,5
+3,Tarzan,7,07,Unknown,btltbl.bin,B404,Motion ID,CB,203
+3,Tarzan,7,07,Unknown,btltbl.bin,B406,Keyblade Trail,05,5
+3,Tarzan,7,07,Unknown,btltbl.bin,B407,Persistent Weapon Effect,FF,-1
+3,Tarzan,7,07,Unknown,btltbl.bin,B408,Hit Parameters Offset,7428,29736
+3,Tarzan,7,07,Unknown,btltbl.bin,B40C,Lift,00 00 00 00,0
+3,Tarzan,7,07,Unknown,btltbl.bin,B410,Hit Sound,00,0
+3,Tarzan,7,07,Unknown,btltbl.bin,B411,Wall Hit Sound,01,1
+3,Tarzan,7,07,Unknown,btltbl.bin,B412,Crit Hit Sound,02,2
+3,Tarzan,7,07,Unknown,btltbl.bin,B413,Voice Set,06,6
+3,Tarzan,8,08,Unknown,btltbl.bin,B418,Motion ID,CC,204
+3,Tarzan,8,08,Unknown,btltbl.bin,B41A,Keyblade Trail,05,5
+3,Tarzan,8,08,Unknown,btltbl.bin,B41B,Persistent Weapon Effect,FF,-1
+3,Tarzan,8,08,Unknown,btltbl.bin,B41C,Hit Parameters Offset,73B8,29624
+3,Tarzan,8,08,Unknown,btltbl.bin,B420,Lift,00 00 48 C2,-50
+3,Tarzan,8,08,Unknown,btltbl.bin,B424,Hit Sound,00,0
+3,Tarzan,8,08,Unknown,btltbl.bin,B425,Wall Hit Sound,01,1
+3,Tarzan,8,08,Unknown,btltbl.bin,B426,Crit Hit Sound,02,2
+3,Tarzan,8,08,Unknown,btltbl.bin,B427,Voice Set,04,4
+3,Tarzan,9,09,Unknown,btltbl.bin,B42C,Motion ID,C8,200
+3,Tarzan,9,09,Unknown,btltbl.bin,B42E,Keyblade Trail,05,5
+3,Tarzan,9,09,Unknown,btltbl.bin,B42F,Persistent Weapon Effect,FF,-1
+3,Tarzan,9,09,Unknown,btltbl.bin,B430,Hit Parameters Offset,73B8,29624
+3,Tarzan,9,09,Unknown,btltbl.bin,B434,Lift,00 00 00 00,0
+3,Tarzan,9,09,Unknown,btltbl.bin,B438,Hit Sound,00,0
+3,Tarzan,9,09,Unknown,btltbl.bin,B439,Wall Hit Sound,01,1
+3,Tarzan,9,09,Unknown,btltbl.bin,B43A,Crit Hit Sound,02,2
+3,Tarzan,9,09,Unknown,btltbl.bin,B43B,Voice Set,04,4
+3,Tarzan,10,0A,Unknown,btltbl.bin,B440,Motion ID,CC,204
+3,Tarzan,10,0A,Unknown,btltbl.bin,B442,Keyblade Trail,05,5
+3,Tarzan,10,0A,Unknown,btltbl.bin,B443,Persistent Weapon Effect,FF,-1
+3,Tarzan,10,0A,Unknown,btltbl.bin,B444,Hit Parameters Offset,73B8,29624
+3,Tarzan,10,0A,Unknown,btltbl.bin,B448,Lift,00 00 00 00,0
+3,Tarzan,10,0A,Unknown,btltbl.bin,B44C,Hit Sound,00,0
+3,Tarzan,10,0A,Unknown,btltbl.bin,B44D,Wall Hit Sound,01,1
+3,Tarzan,10,0A,Unknown,btltbl.bin,B44E,Crit Hit Sound,02,2
+3,Tarzan,10,0A,Unknown,btltbl.bin,B44F,Voice Set,04,4
+3,Tarzan,11,0B,Unknown,btltbl.bin,B454,Motion ID,C8,200
+3,Tarzan,11,0B,Unknown,btltbl.bin,B456,Keyblade Trail,05,5
+3,Tarzan,11,0B,Unknown,btltbl.bin,B457,Persistent Weapon Effect,FF,-1
+3,Tarzan,11,0B,Unknown,btltbl.bin,B458,Hit Parameters Offset,73B8,29624
+3,Tarzan,11,0B,Unknown,btltbl.bin,B45C,Lift,00 00 00 00,0
+3,Tarzan,11,0B,Unknown,btltbl.bin,B460,Hit Sound,00,0
+3,Tarzan,11,0B,Unknown,btltbl.bin,B461,Wall Hit Sound,01,1
+3,Tarzan,11,0B,Unknown,btltbl.bin,B462,Crit Hit Sound,02,2
+3,Tarzan,11,0B,Unknown,btltbl.bin,B463,Voice Set,04,4
+3,Tarzan,12,0C,Unknown,btltbl.bin,B468,Motion ID,C9,201
+3,Tarzan,12,0C,Unknown,btltbl.bin,B46A,Keyblade Trail,05,5
+3,Tarzan,12,0C,Unknown,btltbl.bin,B46B,Persistent Weapon Effect,FF,-1
+3,Tarzan,12,0C,Unknown,btltbl.bin,B46C,Hit Parameters Offset,73B8,29624
+3,Tarzan,12,0C,Unknown,btltbl.bin,B470,Lift,00 00 00 00,0
+3,Tarzan,12,0C,Unknown,btltbl.bin,B474,Hit Sound,00,0
+3,Tarzan,12,0C,Unknown,btltbl.bin,B475,Wall Hit Sound,01,1
+3,Tarzan,12,0C,Unknown,btltbl.bin,B476,Crit Hit Sound,02,2
+3,Tarzan,12,0C,Unknown,btltbl.bin,B477,Voice Set,04,4
+3,Tarzan,13,0D,Unknown,btltbl.bin,B47C,Motion ID,C9,201
+3,Tarzan,13,0D,Unknown,btltbl.bin,B47E,Keyblade Trail,05,5
+3,Tarzan,13,0D,Unknown,btltbl.bin,B47F,Persistent Weapon Effect,FF,-1
+3,Tarzan,13,0D,Unknown,btltbl.bin,B480,Hit Parameters Offset,73B8,29624
+3,Tarzan,13,0D,Unknown,btltbl.bin,B484,Lift,00 00 00 00,0
+3,Tarzan,13,0D,Unknown,btltbl.bin,B488,Hit Sound,00,0
+3,Tarzan,13,0D,Unknown,btltbl.bin,B489,Wall Hit Sound,01,1
+3,Tarzan,13,0D,Unknown,btltbl.bin,B48A,Crit Hit Sound,02,2
+3,Tarzan,13,0D,Unknown,btltbl.bin,B48B,Voice Set,04,4
+3,Tarzan,14,0E,Unknown,btltbl.bin,B490,Motion ID,C9,201
+3,Tarzan,14,0E,Unknown,btltbl.bin,B492,Keyblade Trail,05,5
+3,Tarzan,14,0E,Unknown,btltbl.bin,B493,Persistent Weapon Effect,FF,-1
+3,Tarzan,14,0E,Unknown,btltbl.bin,B494,Hit Parameters Offset,73B8,29624
+3,Tarzan,14,0E,Unknown,btltbl.bin,B498,Lift,00 00 00 00,0
+3,Tarzan,14,0E,Unknown,btltbl.bin,B49C,Hit Sound,00,0
+3,Tarzan,14,0E,Unknown,btltbl.bin,B49D,Wall Hit Sound,01,1
+3,Tarzan,14,0E,Unknown,btltbl.bin,B49E,Crit Hit Sound,02,2
+3,Tarzan,14,0E,Unknown,btltbl.bin,B49F,Voice Set,04,4
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4A4,Motion ID,C9,201
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4A6,Keyblade Trail,05,5
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4A7,Persistent Weapon Effect,FF,-1
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4A8,Hit Parameters Offset,73B8,29624
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4AC,Lift,00 00 00 00,0
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4B0,Hit Sound,00,0
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4B1,Wall Hit Sound,01,1
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4B2,Crit Hit Sound,02,2
+3,Tarzan,15,0F,Unknown,btltbl.bin,B4B3,Voice Set,04,4
+3,Tarzan,16,10,Unknown,btltbl.bin,B4B8,Motion ID,C9,201
+3,Tarzan,16,10,Unknown,btltbl.bin,B4BA,Keyblade Trail,05,5
+3,Tarzan,16,10,Unknown,btltbl.bin,B4BB,Persistent Weapon Effect,FF,-1
+3,Tarzan,16,10,Unknown,btltbl.bin,B4BC,Hit Parameters Offset,73B8,29624
+3,Tarzan,16,10,Unknown,btltbl.bin,B4C0,Lift,00 00 00 00,0
+3,Tarzan,16,10,Unknown,btltbl.bin,B4C4,Hit Sound,00,0
+3,Tarzan,16,10,Unknown,btltbl.bin,B4C5,Wall Hit Sound,01,1
+3,Tarzan,16,10,Unknown,btltbl.bin,B4C6,Crit Hit Sound,02,2
+3,Tarzan,16,10,Unknown,btltbl.bin,B4C7,Voice Set,04,4
+5,Aladdin,0,00,Unknown,btltbl.bin,B4D0,Motion ID,CC,204
+5,Aladdin,0,00,Unknown,btltbl.bin,B4D2,Keyblade Trail,03,3
+5,Aladdin,0,00,Unknown,btltbl.bin,B4D3,Persistent Weapon Effect,FF,-1
+5,Aladdin,0,00,Unknown,btltbl.bin,B4D4,Hit Parameters Offset,7818,30744
+5,Aladdin,0,00,Unknown,btltbl.bin,B4D8,Lift,00 00 48 C2,-50
+5,Aladdin,0,00,Unknown,btltbl.bin,B4DC,Hit Sound,00,0
+5,Aladdin,0,00,Unknown,btltbl.bin,B4DD,Wall Hit Sound,01,1
+5,Aladdin,0,00,Unknown,btltbl.bin,B4DE,Crit Hit Sound,02,2
+5,Aladdin,0,00,Unknown,btltbl.bin,B4DF,Voice Set,04,4
+5,Aladdin,1,01,Unknown,btltbl.bin,B4E4,Motion ID,CD,205
+5,Aladdin,1,01,Unknown,btltbl.bin,B4E6,Keyblade Trail,03,3
+5,Aladdin,1,01,Unknown,btltbl.bin,B4E7,Persistent Weapon Effect,FF,-1
+5,Aladdin,1,01,Unknown,btltbl.bin,B4E8,Hit Parameters Offset,7818,30744
+5,Aladdin,1,01,Unknown,btltbl.bin,B4EC,Lift,00 00 48 C2,-50
+5,Aladdin,1,01,Unknown,btltbl.bin,B4F0,Hit Sound,00,0
+5,Aladdin,1,01,Unknown,btltbl.bin,B4F1,Wall Hit Sound,01,1
+5,Aladdin,1,01,Unknown,btltbl.bin,B4F2,Crit Hit Sound,02,2
+5,Aladdin,1,01,Unknown,btltbl.bin,B4F3,Voice Set,04,4
+5,Aladdin,2,02,Unknown,btltbl.bin,B4F8,Motion ID,CB,203
+5,Aladdin,2,02,Unknown,btltbl.bin,B4FA,Keyblade Trail,03,3
+5,Aladdin,2,02,Unknown,btltbl.bin,B4FB,Persistent Weapon Effect,FF,-1
+5,Aladdin,2,02,Unknown,btltbl.bin,B4FC,Hit Parameters Offset,7888,30856
+5,Aladdin,2,02,Unknown,btltbl.bin,B500,Lift,00 00 00 00,0
+5,Aladdin,2,02,Unknown,btltbl.bin,B504,Hit Sound,00,0
+5,Aladdin,2,02,Unknown,btltbl.bin,B505,Wall Hit Sound,01,1
+5,Aladdin,2,02,Unknown,btltbl.bin,B506,Crit Hit Sound,02,2
+5,Aladdin,2,02,Unknown,btltbl.bin,B507,Voice Set,05,5
+5,Aladdin,3,03,Unknown,btltbl.bin,B50C,Motion ID,C9,201
+5,Aladdin,3,03,Unknown,btltbl.bin,B50E,Keyblade Trail,03,3
+5,Aladdin,3,03,Unknown,btltbl.bin,B50F,Persistent Weapon Effect,FF,-1
+5,Aladdin,3,03,Unknown,btltbl.bin,B510,Hit Parameters Offset,7818,30744
+5,Aladdin,3,03,Unknown,btltbl.bin,B514,Lift,00 00 00 00,0
+5,Aladdin,3,03,Unknown,btltbl.bin,B518,Hit Sound,00,0
+5,Aladdin,3,03,Unknown,btltbl.bin,B519,Wall Hit Sound,01,1
+5,Aladdin,3,03,Unknown,btltbl.bin,B51A,Crit Hit Sound,02,2
+5,Aladdin,3,03,Unknown,btltbl.bin,B51B,Voice Set,04,4
+5,Aladdin,4,04,Unknown,btltbl.bin,B520,Motion ID,C8,200
+5,Aladdin,4,04,Unknown,btltbl.bin,B522,Keyblade Trail,03,3
+5,Aladdin,4,04,Unknown,btltbl.bin,B523,Persistent Weapon Effect,FF,-1
+5,Aladdin,4,04,Unknown,btltbl.bin,B524,Hit Parameters Offset,7818,30744
+5,Aladdin,4,04,Unknown,btltbl.bin,B528,Lift,00 00 00 00,0
+5,Aladdin,4,04,Unknown,btltbl.bin,B52C,Hit Sound,00,0
+5,Aladdin,4,04,Unknown,btltbl.bin,B52D,Wall Hit Sound,01,1
+5,Aladdin,4,04,Unknown,btltbl.bin,B52E,Crit Hit Sound,02,2
+5,Aladdin,4,04,Unknown,btltbl.bin,B52F,Voice Set,04,4
+5,Aladdin,5,05,Unknown,btltbl.bin,B534,Motion ID,CA,202
+5,Aladdin,5,05,Unknown,btltbl.bin,B536,Keyblade Trail,03,3
+5,Aladdin,5,05,Unknown,btltbl.bin,B537,Persistent Weapon Effect,FF,-1
+5,Aladdin,5,05,Unknown,btltbl.bin,B538,Hit Parameters Offset,78F8,30968
+5,Aladdin,5,05,Unknown,btltbl.bin,B53C,Lift,00 00 00 00,0
+5,Aladdin,5,05,Unknown,btltbl.bin,B540,Hit Sound,00,0
+5,Aladdin,5,05,Unknown,btltbl.bin,B541,Wall Hit Sound,01,1
+5,Aladdin,5,05,Unknown,btltbl.bin,B542,Crit Hit Sound,02,2
+5,Aladdin,5,05,Unknown,btltbl.bin,B543,Voice Set,06,6
+5,Aladdin,6,06,Unknown,btltbl.bin,B548,Motion ID,C9,201
+5,Aladdin,6,06,Unknown,btltbl.bin,B54A,Keyblade Trail,03,3
+5,Aladdin,6,06,Unknown,btltbl.bin,B54B,Persistent Weapon Effect,FF,-1
+5,Aladdin,6,06,Unknown,btltbl.bin,B54C,Hit Parameters Offset,7818,30744
+5,Aladdin,6,06,Unknown,btltbl.bin,B550,Lift,00 00 00 00,0
+5,Aladdin,6,06,Unknown,btltbl.bin,B554,Hit Sound,00,0
+5,Aladdin,6,06,Unknown,btltbl.bin,B555,Wall Hit Sound,01,1
+5,Aladdin,6,06,Unknown,btltbl.bin,B556,Crit Hit Sound,02,2
+5,Aladdin,6,06,Unknown,btltbl.bin,B557,Voice Set,04,4
+5,Aladdin,7,07,Unknown,btltbl.bin,B55C,Motion ID,C8,200
+5,Aladdin,7,07,Unknown,btltbl.bin,B55E,Keyblade Trail,03,3
+5,Aladdin,7,07,Unknown,btltbl.bin,B55F,Persistent Weapon Effect,FF,-1
+5,Aladdin,7,07,Unknown,btltbl.bin,B560,Hit Parameters Offset,7818,30744
+5,Aladdin,7,07,Unknown,btltbl.bin,B564,Lift,00 00 00 00,0
+5,Aladdin,7,07,Unknown,btltbl.bin,B568,Hit Sound,00,0
+5,Aladdin,7,07,Unknown,btltbl.bin,B569,Wall Hit Sound,01,1
+5,Aladdin,7,07,Unknown,btltbl.bin,B56A,Crit Hit Sound,02,2
+5,Aladdin,7,07,Unknown,btltbl.bin,B56B,Voice Set,04,4
+5,Aladdin,8,08,Unknown,btltbl.bin,B570,Motion ID,CD,205
+5,Aladdin,8,08,Unknown,btltbl.bin,B572,Keyblade Trail,03,3
+5,Aladdin,8,08,Unknown,btltbl.bin,B573,Persistent Weapon Effect,FF,-1
+5,Aladdin,8,08,Unknown,btltbl.bin,B574,Hit Parameters Offset,7818,30744
+5,Aladdin,8,08,Unknown,btltbl.bin,B578,Lift,00 00 48 C2,-50
+5,Aladdin,8,08,Unknown,btltbl.bin,B57C,Hit Sound,00,0
+5,Aladdin,8,08,Unknown,btltbl.bin,B57D,Wall Hit Sound,01,1
+5,Aladdin,8,08,Unknown,btltbl.bin,B57E,Crit Hit Sound,02,2
+5,Aladdin,8,08,Unknown,btltbl.bin,B57F,Voice Set,04,4
+5,Aladdin,9,09,Unknown,btltbl.bin,B584,Motion ID,C8,200
+5,Aladdin,9,09,Unknown,btltbl.bin,B586,Keyblade Trail,03,3
+5,Aladdin,9,09,Unknown,btltbl.bin,B587,Persistent Weapon Effect,FF,-1
+5,Aladdin,9,09,Unknown,btltbl.bin,B588,Hit Parameters Offset,7818,30744
+5,Aladdin,9,09,Unknown,btltbl.bin,B58C,Lift,00 00 00 00,0
+5,Aladdin,9,09,Unknown,btltbl.bin,B590,Hit Sound,00,0
+5,Aladdin,9,09,Unknown,btltbl.bin,B591,Wall Hit Sound,01,1
+5,Aladdin,9,09,Unknown,btltbl.bin,B592,Crit Hit Sound,02,2
+5,Aladdin,9,09,Unknown,btltbl.bin,B593,Voice Set,04,4
+5,Aladdin,10,0A,Unknown,btltbl.bin,B598,Motion ID,C8,200
+5,Aladdin,10,0A,Unknown,btltbl.bin,B59A,Keyblade Trail,03,3
+5,Aladdin,10,0A,Unknown,btltbl.bin,B59B,Persistent Weapon Effect,FF,-1
+5,Aladdin,10,0A,Unknown,btltbl.bin,B59C,Hit Parameters Offset,7818,30744
+5,Aladdin,10,0A,Unknown,btltbl.bin,B5A0,Lift,00 00 00 00,0
+5,Aladdin,10,0A,Unknown,btltbl.bin,B5A4,Hit Sound,00,0
+5,Aladdin,10,0A,Unknown,btltbl.bin,B5A5,Wall Hit Sound,01,1
+5,Aladdin,10,0A,Unknown,btltbl.bin,B5A6,Crit Hit Sound,02,2
+5,Aladdin,10,0A,Unknown,btltbl.bin,B5A7,Voice Set,04,4
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5AC,Motion ID,C8,200
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5AE,Keyblade Trail,03,3
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5AF,Persistent Weapon Effect,FF,-1
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5B0,Hit Parameters Offset,7818,30744
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5B4,Lift,00 00 00 00,0
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5B8,Hit Sound,00,0
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5B9,Wall Hit Sound,01,1
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5BA,Crit Hit Sound,02,2
+5,Aladdin,11,0B,Unknown,btltbl.bin,B5BB,Voice Set,04,4
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5C0,Motion ID,C8,200
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5C2,Keyblade Trail,03,3
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5C3,Persistent Weapon Effect,FF,-1
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5C4,Hit Parameters Offset,7818,30744
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5C8,Lift,00 00 00 00,0
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5CC,Hit Sound,00,0
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5CD,Wall Hit Sound,01,1
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5CE,Crit Hit Sound,02,2
+5,Aladdin,12,0C,Unknown,btltbl.bin,B5CF,Voice Set,04,4
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5D4,Motion ID,C8,200
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5D6,Keyblade Trail,03,3
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5D7,Persistent Weapon Effect,FF,-1
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5D8,Hit Parameters Offset,7818,30744
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5DC,Lift,00 00 00 00,0
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5E0,Hit Sound,00,0
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5E1,Wall Hit Sound,01,1
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5E2,Crit Hit Sound,02,2
+5,Aladdin,13,0D,Unknown,btltbl.bin,B5E3,Voice Set,04,4
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5E8,Motion ID,C8,200
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5EA,Keyblade Trail,03,3
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5EB,Persistent Weapon Effect,FF,-1
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5EC,Hit Parameters Offset,7818,30744
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5F0,Lift,00 00 00 00,0
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5F4,Hit Sound,00,0
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5F5,Wall Hit Sound,01,1
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5F6,Crit Hit Sound,02,2
+5,Aladdin,14,0E,Unknown,btltbl.bin,B5F7,Voice Set,04,4
+5,Aladdin,15,0F,Unknown,btltbl.bin,B5FC,Motion ID,C8,200
+5,Aladdin,15,0F,Unknown,btltbl.bin,B5FE,Keyblade Trail,03,3
+5,Aladdin,15,0F,Unknown,btltbl.bin,B5FF,Persistent Weapon Effect,FF,-1
+5,Aladdin,15,0F,Unknown,btltbl.bin,B600,Hit Parameters Offset,7818,30744
+5,Aladdin,15,0F,Unknown,btltbl.bin,B604,Lift,00 00 00 00,0
+5,Aladdin,15,0F,Unknown,btltbl.bin,B608,Hit Sound,00,0
+5,Aladdin,15,0F,Unknown,btltbl.bin,B609,Wall Hit Sound,01,1
+5,Aladdin,15,0F,Unknown,btltbl.bin,B60A,Crit Hit Sound,02,2
+5,Aladdin,15,0F,Unknown,btltbl.bin,B60B,Voice Set,04,4
+5,Aladdin,16,10,Unknown,btltbl.bin,B610,Motion ID,C8,200
+5,Aladdin,16,10,Unknown,btltbl.bin,B612,Keyblade Trail,03,3
+5,Aladdin,16,10,Unknown,btltbl.bin,B613,Persistent Weapon Effect,FF,-1
+5,Aladdin,16,10,Unknown,btltbl.bin,B614,Hit Parameters Offset,7818,30744
+5,Aladdin,16,10,Unknown,btltbl.bin,B618,Lift,00 00 00 00,0
+5,Aladdin,16,10,Unknown,btltbl.bin,B61C,Hit Sound,00,0
+5,Aladdin,16,10,Unknown,btltbl.bin,B61D,Wall Hit Sound,01,1
+5,Aladdin,16,10,Unknown,btltbl.bin,B61E,Crit Hit Sound,02,2
+5,Aladdin,16,10,Unknown,btltbl.bin,B61F,Voice Set,04,4
+6,Ariel,0,00,Unknown,btltbl.bin,BA68,Motion ID,CB,203
+6,Ariel,0,00,Unknown,btltbl.bin,BA6A,Keyblade Trail,FF,-1
+6,Ariel,0,00,Unknown,btltbl.bin,BA6B,Persistent Weapon Effect,FF,-1
+6,Ariel,0,00,Unknown,btltbl.bin,BA6C,Hit Parameters Offset,7CE8,31976
+6,Ariel,0,00,Unknown,btltbl.bin,BA70,Lift,00 00 00 00,0
+6,Ariel,0,00,Unknown,btltbl.bin,BA74,Hit Sound,00,0
+6,Ariel,0,00,Unknown,btltbl.bin,BA75,Wall Hit Sound,01,1
+6,Ariel,0,00,Unknown,btltbl.bin,BA76,Crit Hit Sound,02,2
+6,Ariel,0,00,Unknown,btltbl.bin,BA77,Voice Set,06,6
+6,Ariel,1,01,Unknown,btltbl.bin,BA7C,Motion ID,C8,200
+6,Ariel,1,01,Unknown,btltbl.bin,BA7E,Keyblade Trail,FF,-1
+6,Ariel,1,01,Unknown,btltbl.bin,BA7F,Persistent Weapon Effect,FF,-1
+6,Ariel,1,01,Unknown,btltbl.bin,BA80,Hit Parameters Offset,7C78,31864
+6,Ariel,1,01,Unknown,btltbl.bin,BA84,Lift,00 00 00 00,0
+6,Ariel,1,01,Unknown,btltbl.bin,BA88,Hit Sound,00,0
+6,Ariel,1,01,Unknown,btltbl.bin,BA89,Wall Hit Sound,01,1
+6,Ariel,1,01,Unknown,btltbl.bin,BA8A,Crit Hit Sound,02,2
+6,Ariel,1,01,Unknown,btltbl.bin,BA8B,Voice Set,04,4
+6,Ariel,2,02,Unknown,btltbl.bin,BA90,Motion ID,C8,200
+6,Ariel,2,02,Unknown,btltbl.bin,BA92,Keyblade Trail,FF,-1
+6,Ariel,2,02,Unknown,btltbl.bin,BA93,Persistent Weapon Effect,FF,-1
+6,Ariel,2,02,Unknown,btltbl.bin,BA94,Hit Parameters Offset,7C78,31864
+6,Ariel,2,02,Unknown,btltbl.bin,BA98,Lift,00 00 00 00,0
+6,Ariel,2,02,Unknown,btltbl.bin,BA9C,Hit Sound,00,0
+6,Ariel,2,02,Unknown,btltbl.bin,BA9D,Wall Hit Sound,01,1
+6,Ariel,2,02,Unknown,btltbl.bin,BA9E,Crit Hit Sound,02,2
+6,Ariel,2,02,Unknown,btltbl.bin,BA9F,Voice Set,04,4
+6,Ariel,3,03,Unknown,btltbl.bin,BAA4,Motion ID,C9,201
+6,Ariel,3,03,Unknown,btltbl.bin,BAA6,Keyblade Trail,FF,-1
+6,Ariel,3,03,Unknown,btltbl.bin,BAA7,Persistent Weapon Effect,FF,-1
+6,Ariel,3,03,Unknown,btltbl.bin,BAA8,Hit Parameters Offset,7C78,31864
+6,Ariel,3,03,Unknown,btltbl.bin,BAAC,Lift,00 00 00 00,0
+6,Ariel,3,03,Unknown,btltbl.bin,BAB0,Hit Sound,00,0
+6,Ariel,3,03,Unknown,btltbl.bin,BAB1,Wall Hit Sound,01,1
+6,Ariel,3,03,Unknown,btltbl.bin,BAB2,Crit Hit Sound,02,2
+6,Ariel,3,03,Unknown,btltbl.bin,BAB3,Voice Set,04,4
+6,Ariel,4,04,Unknown,btltbl.bin,BAB8,Motion ID,C8,200
+6,Ariel,4,04,Unknown,btltbl.bin,BABA,Keyblade Trail,FF,-1
+6,Ariel,4,04,Unknown,btltbl.bin,BABB,Persistent Weapon Effect,FF,-1
+6,Ariel,4,04,Unknown,btltbl.bin,BABC,Hit Parameters Offset,7C78,31864
+6,Ariel,4,04,Unknown,btltbl.bin,BAC0,Lift,00 00 00 00,0
+6,Ariel,4,04,Unknown,btltbl.bin,BAC4,Hit Sound,00,0
+6,Ariel,4,04,Unknown,btltbl.bin,BAC5,Wall Hit Sound,01,1
+6,Ariel,4,04,Unknown,btltbl.bin,BAC6,Crit Hit Sound,02,2
+6,Ariel,4,04,Unknown,btltbl.bin,BAC7,Voice Set,04,4
+6,Ariel,5,05,Unknown,btltbl.bin,BACC,Motion ID,CA,202
+6,Ariel,5,05,Unknown,btltbl.bin,BACE,Keyblade Trail,FF,-1
+6,Ariel,5,05,Unknown,btltbl.bin,BACF,Persistent Weapon Effect,FF,-1
+6,Ariel,5,05,Unknown,btltbl.bin,BAD0,Hit Parameters Offset,7C78,31864
+6,Ariel,5,05,Unknown,btltbl.bin,BAD4,Lift,00 00 00 00,0
+6,Ariel,5,05,Unknown,btltbl.bin,BAD8,Hit Sound,00,0
+6,Ariel,5,05,Unknown,btltbl.bin,BAD9,Wall Hit Sound,01,1
+6,Ariel,5,05,Unknown,btltbl.bin,BADA,Crit Hit Sound,02,2
+6,Ariel,5,05,Unknown,btltbl.bin,BADB,Voice Set,04,4
+6,Ariel,6,06,Unknown,btltbl.bin,BAE0,Motion ID,C9,201
+6,Ariel,6,06,Unknown,btltbl.bin,BAE2,Keyblade Trail,FF,-1
+6,Ariel,6,06,Unknown,btltbl.bin,BAE3,Persistent Weapon Effect,FF,-1
+6,Ariel,6,06,Unknown,btltbl.bin,BAE4,Hit Parameters Offset,7C78,31864
+6,Ariel,6,06,Unknown,btltbl.bin,BAE8,Lift,00 00 00 00,0
+6,Ariel,6,06,Unknown,btltbl.bin,BAEC,Hit Sound,00,0
+6,Ariel,6,06,Unknown,btltbl.bin,BAED,Wall Hit Sound,01,1
+6,Ariel,6,06,Unknown,btltbl.bin,BAEE,Crit Hit Sound,02,2
+6,Ariel,6,06,Unknown,btltbl.bin,BAEF,Voice Set,04,4
+6,Ariel,7,07,Unknown,btltbl.bin,BAF4,Motion ID,C8,200
+6,Ariel,7,07,Unknown,btltbl.bin,BAF6,Keyblade Trail,FF,-1
+6,Ariel,7,07,Unknown,btltbl.bin,BAF7,Persistent Weapon Effect,FF,-1
+6,Ariel,7,07,Unknown,btltbl.bin,BAF8,Hit Parameters Offset,7C78,31864
+6,Ariel,7,07,Unknown,btltbl.bin,BAFC,Lift,00 00 00 00,0
+6,Ariel,7,07,Unknown,btltbl.bin,BB00,Hit Sound,00,0
+6,Ariel,7,07,Unknown,btltbl.bin,BB01,Wall Hit Sound,01,1
+6,Ariel,7,07,Unknown,btltbl.bin,BB02,Crit Hit Sound,02,2
+6,Ariel,7,07,Unknown,btltbl.bin,BB03,Voice Set,04,4
+6,Ariel,8,08,Unknown,btltbl.bin,BB08,Motion ID,CB,203
+6,Ariel,8,08,Unknown,btltbl.bin,BB0A,Keyblade Trail,FF,-1
+6,Ariel,8,08,Unknown,btltbl.bin,BB0B,Persistent Weapon Effect,FF,-1
+6,Ariel,8,08,Unknown,btltbl.bin,BB0C,Hit Parameters Offset,7CE8,31976
+6,Ariel,8,08,Unknown,btltbl.bin,BB10,Lift,00 00 00 00,0
+6,Ariel,8,08,Unknown,btltbl.bin,BB14,Hit Sound,00,0
+6,Ariel,8,08,Unknown,btltbl.bin,BB15,Wall Hit Sound,01,1
+6,Ariel,8,08,Unknown,btltbl.bin,BB16,Crit Hit Sound,02,2
+6,Ariel,8,08,Unknown,btltbl.bin,BB17,Voice Set,06,6
+6,Ariel,9,09,Unknown,btltbl.bin,BB1C,Motion ID,C8,200
+6,Ariel,9,09,Unknown,btltbl.bin,BB1E,Keyblade Trail,FF,-1
+6,Ariel,9,09,Unknown,btltbl.bin,BB1F,Persistent Weapon Effect,FF,-1
+6,Ariel,9,09,Unknown,btltbl.bin,BB20,Hit Parameters Offset,7C78,31864
+6,Ariel,9,09,Unknown,btltbl.bin,BB24,Lift,00 00 40 41,12
+6,Ariel,9,09,Unknown,btltbl.bin,BB28,Hit Sound,00,0
+6,Ariel,9,09,Unknown,btltbl.bin,BB29,Wall Hit Sound,01,1
+6,Ariel,9,09,Unknown,btltbl.bin,BB2A,Crit Hit Sound,02,2
+6,Ariel,9,09,Unknown,btltbl.bin,BB2B,Voice Set,04,4
+6,Ariel,10,0A,Unknown,btltbl.bin,BB30,Motion ID,C8,200
+6,Ariel,10,0A,Unknown,btltbl.bin,BB32,Keyblade Trail,FF,-1
+6,Ariel,10,0A,Unknown,btltbl.bin,BB33,Persistent Weapon Effect,FF,-1
+6,Ariel,10,0A,Unknown,btltbl.bin,BB34,Hit Parameters Offset,7C78,31864
+6,Ariel,10,0A,Unknown,btltbl.bin,BB38,Lift,00 00 C0 40,6
+6,Ariel,10,0A,Unknown,btltbl.bin,BB3C,Hit Sound,00,0
+6,Ariel,10,0A,Unknown,btltbl.bin,BB3D,Wall Hit Sound,01,1
+6,Ariel,10,0A,Unknown,btltbl.bin,BB3E,Crit Hit Sound,02,2
+6,Ariel,10,0A,Unknown,btltbl.bin,BB3F,Voice Set,04,4
+6,Ariel,11,0B,Unknown,btltbl.bin,BB44,Motion ID,CB,203
+6,Ariel,11,0B,Unknown,btltbl.bin,BB46,Keyblade Trail,FF,-1
+6,Ariel,11,0B,Unknown,btltbl.bin,BB47,Persistent Weapon Effect,FF,-1
+6,Ariel,11,0B,Unknown,btltbl.bin,BB48,Hit Parameters Offset,7CE8,31976
+6,Ariel,11,0B,Unknown,btltbl.bin,BB4C,Lift,00 00 C0 40,6
+6,Ariel,11,0B,Unknown,btltbl.bin,BB50,Hit Sound,00,0
+6,Ariel,11,0B,Unknown,btltbl.bin,BB51,Wall Hit Sound,01,1
+6,Ariel,11,0B,Unknown,btltbl.bin,BB52,Crit Hit Sound,02,2
+6,Ariel,11,0B,Unknown,btltbl.bin,BB53,Voice Set,06,6
+6,Ariel,12,0C,Unknown,btltbl.bin,BB58,Motion ID,C8,200
+6,Ariel,12,0C,Unknown,btltbl.bin,BB5A,Keyblade Trail,FF,-1
+6,Ariel,12,0C,Unknown,btltbl.bin,BB5B,Persistent Weapon Effect,FF,-1
+6,Ariel,12,0C,Unknown,btltbl.bin,BB5C,Hit Parameters Offset,7C78,31864
+6,Ariel,12,0C,Unknown,btltbl.bin,BB60,Lift,00 00 00 00,0
+6,Ariel,12,0C,Unknown,btltbl.bin,BB64,Hit Sound,00,0
+6,Ariel,12,0C,Unknown,btltbl.bin,BB65,Wall Hit Sound,01,1
+6,Ariel,12,0C,Unknown,btltbl.bin,BB66,Crit Hit Sound,02,2
+6,Ariel,12,0C,Unknown,btltbl.bin,BB67,Voice Set,04,4
+6,Ariel,13,0D,Unknown,btltbl.bin,BB6C,Motion ID,C9,201
+6,Ariel,13,0D,Unknown,btltbl.bin,BB6E,Keyblade Trail,FF,-1
+6,Ariel,13,0D,Unknown,btltbl.bin,BB6F,Persistent Weapon Effect,FF,-1
+6,Ariel,13,0D,Unknown,btltbl.bin,BB70,Hit Parameters Offset,7C78,31864
+6,Ariel,13,0D,Unknown,btltbl.bin,BB74,Lift,00 00 00 00,0
+6,Ariel,13,0D,Unknown,btltbl.bin,BB78,Hit Sound,00,0
+6,Ariel,13,0D,Unknown,btltbl.bin,BB79,Wall Hit Sound,01,1
+6,Ariel,13,0D,Unknown,btltbl.bin,BB7A,Crit Hit Sound,02,2
+6,Ariel,13,0D,Unknown,btltbl.bin,BB7B,Voice Set,04,4
+6,Ariel,14,0E,Unknown,btltbl.bin,BB80,Motion ID,C8,200
+6,Ariel,14,0E,Unknown,btltbl.bin,BB82,Keyblade Trail,FF,-1
+6,Ariel,14,0E,Unknown,btltbl.bin,BB83,Persistent Weapon Effect,FF,-1
+6,Ariel,14,0E,Unknown,btltbl.bin,BB84,Hit Parameters Offset,7C78,31864
+6,Ariel,14,0E,Unknown,btltbl.bin,BB88,Lift,00 00 00 00,0
+6,Ariel,14,0E,Unknown,btltbl.bin,BB8C,Hit Sound,00,0
+6,Ariel,14,0E,Unknown,btltbl.bin,BB8D,Wall Hit Sound,01,1
+6,Ariel,14,0E,Unknown,btltbl.bin,BB8E,Crit Hit Sound,02,2
+6,Ariel,14,0E,Unknown,btltbl.bin,BB8F,Voice Set,04,4
+6,Ariel,15,0F,Unknown,btltbl.bin,BB94,Motion ID,CB,203
+6,Ariel,15,0F,Unknown,btltbl.bin,BB96,Keyblade Trail,FF,-1
+6,Ariel,15,0F,Unknown,btltbl.bin,BB97,Persistent Weapon Effect,FF,-1
+6,Ariel,15,0F,Unknown,btltbl.bin,BB98,Hit Parameters Offset,7CE8,31976
+6,Ariel,15,0F,Unknown,btltbl.bin,BB9C,Lift,00 00 00 00,0
+6,Ariel,15,0F,Unknown,btltbl.bin,BBA0,Hit Sound,00,0
+6,Ariel,15,0F,Unknown,btltbl.bin,BBA1,Wall Hit Sound,01,1
+6,Ariel,15,0F,Unknown,btltbl.bin,BBA2,Crit Hit Sound,02,2
+6,Ariel,15,0F,Unknown,btltbl.bin,BBA3,Voice Set,06,6
+6,Ariel,16,10,Unknown,btltbl.bin,BBA8,Motion ID,C8,200
+6,Ariel,16,10,Unknown,btltbl.bin,BBAA,Keyblade Trail,FF,-1
+6,Ariel,16,10,Unknown,btltbl.bin,BBAB,Persistent Weapon Effect,FF,-1
+6,Ariel,16,10,Unknown,btltbl.bin,BBAC,Hit Parameters Offset,7C78,31864
+6,Ariel,16,10,Unknown,btltbl.bin,BBB0,Lift,00 00 00 00,0
+6,Ariel,16,10,Unknown,btltbl.bin,BBB4,Hit Sound,00,0
+6,Ariel,16,10,Unknown,btltbl.bin,BBB5,Wall Hit Sound,01,1
+6,Ariel,16,10,Unknown,btltbl.bin,BBB6,Crit Hit Sound,02,2
+6,Ariel,16,10,Unknown,btltbl.bin,BBB7,Voice Set,04,4
+6,Ariel,17,11,Unknown,btltbl.bin,BBBC,Motion ID,C8,200
+6,Ariel,17,11,Unknown,btltbl.bin,BBBE,Keyblade Trail,FF,-1
+6,Ariel,17,11,Unknown,btltbl.bin,BBBF,Persistent Weapon Effect,FF,-1
+6,Ariel,17,11,Unknown,btltbl.bin,BBC0,Hit Parameters Offset,7C78,31864
+6,Ariel,17,11,Unknown,btltbl.bin,BBC4,Lift,00 00 00 00,0
+6,Ariel,17,11,Unknown,btltbl.bin,BBC8,Hit Sound,00,0
+6,Ariel,17,11,Unknown,btltbl.bin,BBC9,Wall Hit Sound,01,1
+6,Ariel,17,11,Unknown,btltbl.bin,BBCA,Crit Hit Sound,02,2
+6,Ariel,17,11,Unknown,btltbl.bin,BBCB,Voice Set,04,4
+6,Ariel,18,12,Unknown,btltbl.bin,BBD0,Motion ID,C8,200
+6,Ariel,18,12,Unknown,btltbl.bin,BBD2,Keyblade Trail,FF,-1
+6,Ariel,18,12,Unknown,btltbl.bin,BBD3,Persistent Weapon Effect,FF,-1
+6,Ariel,18,12,Unknown,btltbl.bin,BBD4,Hit Parameters Offset,7C78,31864
+6,Ariel,18,12,Unknown,btltbl.bin,BBD8,Lift,00 00 00 00,0
+6,Ariel,18,12,Unknown,btltbl.bin,BBDC,Hit Sound,00,0
+6,Ariel,18,12,Unknown,btltbl.bin,BBDD,Wall Hit Sound,01,1
+6,Ariel,18,12,Unknown,btltbl.bin,BBDE,Crit Hit Sound,02,2
+6,Ariel,18,12,Unknown,btltbl.bin,BBDF,Voice Set,04,4
+6,Ariel,19,13,Unknown,btltbl.bin,BBE4,Motion ID,C8,200
+6,Ariel,19,13,Unknown,btltbl.bin,BBE6,Keyblade Trail,FF,-1
+6,Ariel,19,13,Unknown,btltbl.bin,BBE7,Persistent Weapon Effect,FF,-1
+6,Ariel,19,13,Unknown,btltbl.bin,BBE8,Hit Parameters Offset,7C78,31864
+6,Ariel,19,13,Unknown,btltbl.bin,BBEC,Lift,00 00 00 00,0
+6,Ariel,19,13,Unknown,btltbl.bin,BBF0,Hit Sound,00,0
+6,Ariel,19,13,Unknown,btltbl.bin,BBF1,Wall Hit Sound,01,1
+6,Ariel,19,13,Unknown,btltbl.bin,BBF2,Crit Hit Sound,02,2
+6,Ariel,19,13,Unknown,btltbl.bin,BBF3,Voice Set,04,4
+6,Ariel,20,14,Unknown,btltbl.bin,BBF8,Motion ID,C8,200
+6,Ariel,20,14,Unknown,btltbl.bin,BBFA,Keyblade Trail,FF,-1
+6,Ariel,20,14,Unknown,btltbl.bin,BBFB,Persistent Weapon Effect,FF,-1
+6,Ariel,20,14,Unknown,btltbl.bin,BBFC,Hit Parameters Offset,7C78,31864
+6,Ariel,20,14,Unknown,btltbl.bin,BC00,Lift,00 00 00 00,0
+6,Ariel,20,14,Unknown,btltbl.bin,BC04,Hit Sound,00,0
+6,Ariel,20,14,Unknown,btltbl.bin,BC05,Wall Hit Sound,01,1
+6,Ariel,20,14,Unknown,btltbl.bin,BC06,Crit Hit Sound,02,2
+6,Ariel,20,14,Unknown,btltbl.bin,BC07,Voice Set,04,4
+6,Ariel,21,15,Unknown,btltbl.bin,BC0C,Motion ID,C8,200
+6,Ariel,21,15,Unknown,btltbl.bin,BC0E,Keyblade Trail,FF,-1
+6,Ariel,21,15,Unknown,btltbl.bin,BC0F,Persistent Weapon Effect,FF,-1
+6,Ariel,21,15,Unknown,btltbl.bin,BC10,Hit Parameters Offset,7C78,31864
+6,Ariel,21,15,Unknown,btltbl.bin,BC14,Lift,00 00 00 00,0
+6,Ariel,21,15,Unknown,btltbl.bin,BC18,Hit Sound,00,0
+6,Ariel,21,15,Unknown,btltbl.bin,BC19,Wall Hit Sound,01,1
+6,Ariel,21,15,Unknown,btltbl.bin,BC1A,Crit Hit Sound,02,2
+6,Ariel,21,15,Unknown,btltbl.bin,BC1B,Voice Set,04,4
+6,Ariel,22,16,Unknown,btltbl.bin,BC20,Motion ID,C8,200
+6,Ariel,22,16,Unknown,btltbl.bin,BC22,Keyblade Trail,FF,-1
+6,Ariel,22,16,Unknown,btltbl.bin,BC23,Persistent Weapon Effect,FF,-1
+6,Ariel,22,16,Unknown,btltbl.bin,BC24,Hit Parameters Offset,7C78,31864
+6,Ariel,22,16,Unknown,btltbl.bin,BC28,Lift,00 00 00 00,0
+6,Ariel,22,16,Unknown,btltbl.bin,BC2C,Hit Sound,00,0
+6,Ariel,22,16,Unknown,btltbl.bin,BC2D,Wall Hit Sound,01,1
+6,Ariel,22,16,Unknown,btltbl.bin,BC2E,Crit Hit Sound,02,2
+6,Ariel,22,16,Unknown,btltbl.bin,BC2F,Voice Set,04,4
+6,Ariel,23,17,Unknown,btltbl.bin,BC34,Motion ID,C8,200
+6,Ariel,23,17,Unknown,btltbl.bin,BC36,Keyblade Trail,FF,-1
+6,Ariel,23,17,Unknown,btltbl.bin,BC37,Persistent Weapon Effect,FF,-1
+6,Ariel,23,17,Unknown,btltbl.bin,BC38,Hit Parameters Offset,7C78,31864
+6,Ariel,23,17,Unknown,btltbl.bin,BC3C,Lift,00 00 00 00,0
+6,Ariel,23,17,Unknown,btltbl.bin,BC40,Hit Sound,00,0
+6,Ariel,23,17,Unknown,btltbl.bin,BC41,Wall Hit Sound,01,1
+6,Ariel,23,17,Unknown,btltbl.bin,BC42,Crit Hit Sound,02,2
+6,Ariel,23,17,Unknown,btltbl.bin,BC43,Voice Set,04,4
+7,Jack,0,00,Unknown,btltbl.bin,B780,Motion ID,CC,204
+7,Jack,0,00,Unknown,btltbl.bin,B782,Keyblade Trail,FF,-1
+7,Jack,0,00,Unknown,btltbl.bin,B783,Persistent Weapon Effect,FF,-1
+7,Jack,0,00,Unknown,btltbl.bin,B784,Hit Parameters Offset,81B8,33208
+7,Jack,0,00,Unknown,btltbl.bin,B788,Lift,00 00 48 C2,-50
+7,Jack,0,00,Unknown,btltbl.bin,B78C,Hit Sound,00,0
+7,Jack,0,00,Unknown,btltbl.bin,B78D,Wall Hit Sound,01,1
+7,Jack,0,00,Unknown,btltbl.bin,B78E,Crit Hit Sound,02,2
+7,Jack,0,00,Unknown,btltbl.bin,B78F,Voice Set,04,4
+7,Jack,1,01,Unknown,btltbl.bin,B794,Motion ID,CC,204
+7,Jack,1,01,Unknown,btltbl.bin,B796,Keyblade Trail,FF,-1
+7,Jack,1,01,Unknown,btltbl.bin,B797,Persistent Weapon Effect,FF,-1
+7,Jack,1,01,Unknown,btltbl.bin,B798,Hit Parameters Offset,81B8,33208
+7,Jack,1,01,Unknown,btltbl.bin,B79C,Lift,00 00 48 C2,-50
+7,Jack,1,01,Unknown,btltbl.bin,B7A0,Hit Sound,00,0
+7,Jack,1,01,Unknown,btltbl.bin,B7A1,Wall Hit Sound,01,1
+7,Jack,1,01,Unknown,btltbl.bin,B7A2,Crit Hit Sound,02,2
+7,Jack,1,01,Unknown,btltbl.bin,B7A3,Voice Set,04,4
+7,Jack,2,02,Unknown,btltbl.bin,B7A8,Motion ID,C8,200
+7,Jack,2,02,Unknown,btltbl.bin,B7AA,Keyblade Trail,FF,-1
+7,Jack,2,02,Unknown,btltbl.bin,B7AB,Persistent Weapon Effect,FF,-1
+7,Jack,2,02,Unknown,btltbl.bin,B7AC,Hit Parameters Offset,80D8,32984
+7,Jack,2,02,Unknown,btltbl.bin,B7B0,Lift,00 00 00 00,0
+7,Jack,2,02,Unknown,btltbl.bin,B7B4,Hit Sound,00,0
+7,Jack,2,02,Unknown,btltbl.bin,B7B5,Wall Hit Sound,01,1
+7,Jack,2,02,Unknown,btltbl.bin,B7B6,Crit Hit Sound,02,2
+7,Jack,2,02,Unknown,btltbl.bin,B7B7,Voice Set,04,4
+7,Jack,3,03,Unknown,btltbl.bin,B7BC,Motion ID,C9,201
+7,Jack,3,03,Unknown,btltbl.bin,B7BE,Keyblade Trail,FF,-1
+7,Jack,3,03,Unknown,btltbl.bin,B7BF,Persistent Weapon Effect,FF,-1
+7,Jack,3,03,Unknown,btltbl.bin,B7C0,Hit Parameters Offset,8148,33096
+7,Jack,3,03,Unknown,btltbl.bin,B7C4,Lift,00 00 00 00,0
+7,Jack,3,03,Unknown,btltbl.bin,B7C8,Hit Sound,00,0
+7,Jack,3,03,Unknown,btltbl.bin,B7C9,Wall Hit Sound,01,1
+7,Jack,3,03,Unknown,btltbl.bin,B7CA,Crit Hit Sound,02,2
+7,Jack,3,03,Unknown,btltbl.bin,B7CB,Voice Set,04,4
+7,Jack,4,04,Unknown,btltbl.bin,B7D0,Motion ID,C8,200
+7,Jack,4,04,Unknown,btltbl.bin,B7D2,Keyblade Trail,FF,-1
+7,Jack,4,04,Unknown,btltbl.bin,B7D3,Persistent Weapon Effect,FF,-1
+7,Jack,4,04,Unknown,btltbl.bin,B7D4,Hit Parameters Offset,80D8,32984
+7,Jack,4,04,Unknown,btltbl.bin,B7D8,Lift,00 00 00 00,0
+7,Jack,4,04,Unknown,btltbl.bin,B7DC,Hit Sound,00,0
+7,Jack,4,04,Unknown,btltbl.bin,B7DD,Wall Hit Sound,01,1
+7,Jack,4,04,Unknown,btltbl.bin,B7DE,Crit Hit Sound,02,2
+7,Jack,4,04,Unknown,btltbl.bin,B7DF,Voice Set,04,4
+7,Jack,5,05,Unknown,btltbl.bin,B7E4,Motion ID,CA,202
+7,Jack,5,05,Unknown,btltbl.bin,B7E6,Keyblade Trail,FF,-1
+7,Jack,5,05,Unknown,btltbl.bin,B7E7,Persistent Weapon Effect,FF,-1
+7,Jack,5,05,Unknown,btltbl.bin,B7E8,Hit Parameters Offset,8298,33432
+7,Jack,5,05,Unknown,btltbl.bin,B7EC,Lift,00 00 00 00,0
+7,Jack,5,05,Unknown,btltbl.bin,B7F0,Hit Sound,00,0
+7,Jack,5,05,Unknown,btltbl.bin,B7F1,Wall Hit Sound,01,1
+7,Jack,5,05,Unknown,btltbl.bin,B7F2,Crit Hit Sound,02,2
+7,Jack,5,05,Unknown,btltbl.bin,B7F3,Voice Set,06,6
+7,Jack,6,06,Unknown,btltbl.bin,B7F8,Motion ID,C9,201
+7,Jack,6,06,Unknown,btltbl.bin,B7FA,Keyblade Trail,FF,-1
+7,Jack,6,06,Unknown,btltbl.bin,B7FB,Persistent Weapon Effect,FF,-1
+7,Jack,6,06,Unknown,btltbl.bin,B7FC,Hit Parameters Offset,8148,33096
+7,Jack,6,06,Unknown,btltbl.bin,B800,Lift,00 00 00 00,0
+7,Jack,6,06,Unknown,btltbl.bin,B804,Hit Sound,00,0
+7,Jack,6,06,Unknown,btltbl.bin,B805,Wall Hit Sound,01,1
+7,Jack,6,06,Unknown,btltbl.bin,B806,Crit Hit Sound,02,2
+7,Jack,6,06,Unknown,btltbl.bin,B807,Voice Set,04,4
+7,Jack,7,07,Unknown,btltbl.bin,B80C,Motion ID,C8,200
+7,Jack,7,07,Unknown,btltbl.bin,B80E,Keyblade Trail,FF,-1
+7,Jack,7,07,Unknown,btltbl.bin,B80F,Persistent Weapon Effect,FF,-1
+7,Jack,7,07,Unknown,btltbl.bin,B810,Hit Parameters Offset,80D8,32984
+7,Jack,7,07,Unknown,btltbl.bin,B814,Lift,00 00 00 00,0
+7,Jack,7,07,Unknown,btltbl.bin,B818,Hit Sound,00,0
+7,Jack,7,07,Unknown,btltbl.bin,B819,Wall Hit Sound,01,1
+7,Jack,7,07,Unknown,btltbl.bin,B81A,Crit Hit Sound,02,2
+7,Jack,7,07,Unknown,btltbl.bin,B81B,Voice Set,04,4
+7,Jack,8,08,Unknown,btltbl.bin,B820,Motion ID,CA,202
+7,Jack,8,08,Unknown,btltbl.bin,B822,Keyblade Trail,FF,-1
+7,Jack,8,08,Unknown,btltbl.bin,B823,Persistent Weapon Effect,FF,-1
+7,Jack,8,08,Unknown,btltbl.bin,B824,Hit Parameters Offset,8298,33432
+7,Jack,8,08,Unknown,btltbl.bin,B828,Lift,00 00 00 00,0
+7,Jack,8,08,Unknown,btltbl.bin,B82C,Hit Sound,00,0
+7,Jack,8,08,Unknown,btltbl.bin,B82D,Wall Hit Sound,01,1
+7,Jack,8,08,Unknown,btltbl.bin,B82E,Crit Hit Sound,02,2
+7,Jack,8,08,Unknown,btltbl.bin,B82F,Voice Set,06,6
+7,Jack,9,09,Unknown,btltbl.bin,B834,Motion ID,C8,200
+7,Jack,9,09,Unknown,btltbl.bin,B836,Keyblade Trail,FF,-1
+7,Jack,9,09,Unknown,btltbl.bin,B837,Persistent Weapon Effect,FF,-1
+7,Jack,9,09,Unknown,btltbl.bin,B838,Hit Parameters Offset,80D8,32984
+7,Jack,9,09,Unknown,btltbl.bin,B83C,Lift,00 00 00 00,0
+7,Jack,9,09,Unknown,btltbl.bin,B840,Hit Sound,00,0
+7,Jack,9,09,Unknown,btltbl.bin,B841,Wall Hit Sound,01,1
+7,Jack,9,09,Unknown,btltbl.bin,B842,Crit Hit Sound,02,2
+7,Jack,9,09,Unknown,btltbl.bin,B843,Voice Set,04,4
+7,Jack,10,0A,Unknown,btltbl.bin,B848,Motion ID,C8,200
+7,Jack,10,0A,Unknown,btltbl.bin,B84A,Keyblade Trail,FF,-1
+7,Jack,10,0A,Unknown,btltbl.bin,B84B,Persistent Weapon Effect,FF,-1
+7,Jack,10,0A,Unknown,btltbl.bin,B84C,Hit Parameters Offset,80D8,32984
+7,Jack,10,0A,Unknown,btltbl.bin,B850,Lift,00 00 00 00,0
+7,Jack,10,0A,Unknown,btltbl.bin,B854,Hit Sound,00,0
+7,Jack,10,0A,Unknown,btltbl.bin,B855,Wall Hit Sound,01,1
+7,Jack,10,0A,Unknown,btltbl.bin,B856,Crit Hit Sound,02,2
+7,Jack,10,0A,Unknown,btltbl.bin,B857,Voice Set,04,4
+7,Jack,11,0B,Unknown,btltbl.bin,B85C,Motion ID,C8,200
+7,Jack,11,0B,Unknown,btltbl.bin,B85E,Keyblade Trail,FF,-1
+7,Jack,11,0B,Unknown,btltbl.bin,B85F,Persistent Weapon Effect,FF,-1
+7,Jack,11,0B,Unknown,btltbl.bin,B860,Hit Parameters Offset,80D8,32984
+7,Jack,11,0B,Unknown,btltbl.bin,B864,Lift,00 00 00 00,0
+7,Jack,11,0B,Unknown,btltbl.bin,B868,Hit Sound,00,0
+7,Jack,11,0B,Unknown,btltbl.bin,B869,Wall Hit Sound,01,1
+7,Jack,11,0B,Unknown,btltbl.bin,B86A,Crit Hit Sound,02,2
+7,Jack,11,0B,Unknown,btltbl.bin,B86B,Voice Set,04,4
+7,Jack,12,0C,Unknown,btltbl.bin,B870,Motion ID,C8,200
+7,Jack,12,0C,Unknown,btltbl.bin,B872,Keyblade Trail,FF,-1
+7,Jack,12,0C,Unknown,btltbl.bin,B873,Persistent Weapon Effect,FF,-1
+7,Jack,12,0C,Unknown,btltbl.bin,B874,Hit Parameters Offset,80D8,32984
+7,Jack,12,0C,Unknown,btltbl.bin,B878,Lift,00 00 00 00,0
+7,Jack,12,0C,Unknown,btltbl.bin,B87C,Hit Sound,00,0
+7,Jack,12,0C,Unknown,btltbl.bin,B87D,Wall Hit Sound,01,1
+7,Jack,12,0C,Unknown,btltbl.bin,B87E,Crit Hit Sound,02,2
+7,Jack,12,0C,Unknown,btltbl.bin,B87F,Voice Set,04,4
+7,Jack,13,0D,Unknown,btltbl.bin,B884,Motion ID,C8,200
+7,Jack,13,0D,Unknown,btltbl.bin,B886,Keyblade Trail,FF,-1
+7,Jack,13,0D,Unknown,btltbl.bin,B887,Persistent Weapon Effect,FF,-1
+7,Jack,13,0D,Unknown,btltbl.bin,B888,Hit Parameters Offset,80D8,32984
+7,Jack,13,0D,Unknown,btltbl.bin,B88C,Lift,00 00 00 00,0
+7,Jack,13,0D,Unknown,btltbl.bin,B890,Hit Sound,00,0
+7,Jack,13,0D,Unknown,btltbl.bin,B891,Wall Hit Sound,01,1
+7,Jack,13,0D,Unknown,btltbl.bin,B892,Crit Hit Sound,02,2
+7,Jack,13,0D,Unknown,btltbl.bin,B893,Voice Set,04,4
+7,Jack,14,0E,Unknown,btltbl.bin,B898,Motion ID,C8,200
+7,Jack,14,0E,Unknown,btltbl.bin,B89A,Keyblade Trail,FF,-1
+7,Jack,14,0E,Unknown,btltbl.bin,B89B,Persistent Weapon Effect,FF,-1
+7,Jack,14,0E,Unknown,btltbl.bin,B89C,Hit Parameters Offset,80D8,32984
+7,Jack,14,0E,Unknown,btltbl.bin,B8A0,Lift,00 00 00 00,0
+7,Jack,14,0E,Unknown,btltbl.bin,B8A4,Hit Sound,00,0
+7,Jack,14,0E,Unknown,btltbl.bin,B8A5,Wall Hit Sound,01,1
+7,Jack,14,0E,Unknown,btltbl.bin,B8A6,Crit Hit Sound,02,2
+7,Jack,14,0E,Unknown,btltbl.bin,B8A7,Voice Set,04,4
+7,Jack,15,0F,Unknown,btltbl.bin,B8AC,Motion ID,C8,200
+7,Jack,15,0F,Unknown,btltbl.bin,B8AE,Keyblade Trail,FF,-1
+7,Jack,15,0F,Unknown,btltbl.bin,B8AF,Persistent Weapon Effect,FF,-1
+7,Jack,15,0F,Unknown,btltbl.bin,B8B0,Hit Parameters Offset,80D8,32984
+7,Jack,15,0F,Unknown,btltbl.bin,B8B4,Lift,00 00 00 00,0
+7,Jack,15,0F,Unknown,btltbl.bin,B8B8,Hit Sound,00,0
+7,Jack,15,0F,Unknown,btltbl.bin,B8B9,Wall Hit Sound,01,1
+7,Jack,15,0F,Unknown,btltbl.bin,B8BA,Crit Hit Sound,02,2
+7,Jack,15,0F,Unknown,btltbl.bin,B8BB,Voice Set,04,4
+7,Jack,16,10,Unknown,btltbl.bin,B8C0,Motion ID,C8,200
+7,Jack,16,10,Unknown,btltbl.bin,B8C2,Keyblade Trail,FF,-1
+7,Jack,16,10,Unknown,btltbl.bin,B8C3,Persistent Weapon Effect,FF,-1
+7,Jack,16,10,Unknown,btltbl.bin,B8C4,Hit Parameters Offset,80D8,32984
+7,Jack,16,10,Unknown,btltbl.bin,B8C8,Lift,00 00 00 00,0
+7,Jack,16,10,Unknown,btltbl.bin,B8CC,Hit Sound,00,0
+7,Jack,16,10,Unknown,btltbl.bin,B8CD,Wall Hit Sound,01,1
+7,Jack,16,10,Unknown,btltbl.bin,B8CE,Crit Hit Sound,02,2
+7,Jack,16,10,Unknown,btltbl.bin,B8CF,Voice Set,04,4
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8D8,Motion ID,C8,200
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8DA,Keyblade Trail,03,3
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8DB,Persistent Weapon Effect,FF,-1
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8DC,Hit Parameters Offset,8538,34104
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8E0,Lift,00 00 00 00,0
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8E4,Hit Sound,00,0
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8E5,Wall Hit Sound,01,1
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8E6,Crit Hit Sound,02,2
+8,Peter Pan,0,00,Unknown,btltbl.bin,B8E7,Voice Set,04,4
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8EC,Motion ID,C8,200
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8EE,Keyblade Trail,03,3
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8EF,Persistent Weapon Effect,FF,-1
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8F0,Hit Parameters Offset,8538,34104
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8F4,Lift,00 00 00 00,0
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8F8,Hit Sound,00,0
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8F9,Wall Hit Sound,01,1
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8FA,Crit Hit Sound,02,2
+8,Peter Pan,1,01,Unknown,btltbl.bin,B8FB,Voice Set,04,4
+8,Peter Pan,2,02,Unknown,btltbl.bin,B900,Motion ID,C8,200
+8,Peter Pan,2,02,Unknown,btltbl.bin,B902,Keyblade Trail,03,3
+8,Peter Pan,2,02,Unknown,btltbl.bin,B903,Persistent Weapon Effect,FF,-1
+8,Peter Pan,2,02,Unknown,btltbl.bin,B904,Hit Parameters Offset,8538,34104
+8,Peter Pan,2,02,Unknown,btltbl.bin,B908,Lift,00 00 00 00,0
+8,Peter Pan,2,02,Unknown,btltbl.bin,B90C,Hit Sound,00,0
+8,Peter Pan,2,02,Unknown,btltbl.bin,B90D,Wall Hit Sound,01,1
+8,Peter Pan,2,02,Unknown,btltbl.bin,B90E,Crit Hit Sound,02,2
+8,Peter Pan,2,02,Unknown,btltbl.bin,B90F,Voice Set,04,4
+8,Peter Pan,3,03,Unknown,btltbl.bin,B914,Motion ID,CB,203
+8,Peter Pan,3,03,Unknown,btltbl.bin,B916,Keyblade Trail,03,3
+8,Peter Pan,3,03,Unknown,btltbl.bin,B917,Persistent Weapon Effect,FF,-1
+8,Peter Pan,3,03,Unknown,btltbl.bin,B918,Hit Parameters Offset,8618,34328
+8,Peter Pan,3,03,Unknown,btltbl.bin,B91C,Lift,00 00 00 00,0
+8,Peter Pan,3,03,Unknown,btltbl.bin,B920,Hit Sound,00,0
+8,Peter Pan,3,03,Unknown,btltbl.bin,B921,Wall Hit Sound,01,1
+8,Peter Pan,3,03,Unknown,btltbl.bin,B922,Crit Hit Sound,02,2
+8,Peter Pan,3,03,Unknown,btltbl.bin,B923,Voice Set,04,4
+8,Peter Pan,4,04,Unknown,btltbl.bin,B928,Motion ID,C8,200
+8,Peter Pan,4,04,Unknown,btltbl.bin,B92A,Keyblade Trail,03,3
+8,Peter Pan,4,04,Unknown,btltbl.bin,B92B,Persistent Weapon Effect,FF,-1
+8,Peter Pan,4,04,Unknown,btltbl.bin,B92C,Hit Parameters Offset,8538,34104
+8,Peter Pan,4,04,Unknown,btltbl.bin,B930,Lift,00 00 00 00,0
+8,Peter Pan,4,04,Unknown,btltbl.bin,B934,Hit Sound,00,0
+8,Peter Pan,4,04,Unknown,btltbl.bin,B935,Wall Hit Sound,01,1
+8,Peter Pan,4,04,Unknown,btltbl.bin,B936,Crit Hit Sound,02,2
+8,Peter Pan,4,04,Unknown,btltbl.bin,B937,Voice Set,04,4
+8,Peter Pan,5,05,Unknown,btltbl.bin,B93C,Motion ID,C9,201
+8,Peter Pan,5,05,Unknown,btltbl.bin,B93E,Keyblade Trail,03,3
+8,Peter Pan,5,05,Unknown,btltbl.bin,B93F,Persistent Weapon Effect,FF,-1
+8,Peter Pan,5,05,Unknown,btltbl.bin,B940,Hit Parameters Offset,8538,34104
+8,Peter Pan,5,05,Unknown,btltbl.bin,B944,Lift,00 00 00 00,0
+8,Peter Pan,5,05,Unknown,btltbl.bin,B948,Hit Sound,00,0
+8,Peter Pan,5,05,Unknown,btltbl.bin,B949,Wall Hit Sound,01,1
+8,Peter Pan,5,05,Unknown,btltbl.bin,B94A,Crit Hit Sound,02,2
+8,Peter Pan,5,05,Unknown,btltbl.bin,B94B,Voice Set,04,4
+8,Peter Pan,6,06,Unknown,btltbl.bin,B950,Motion ID,CB,203
+8,Peter Pan,6,06,Unknown,btltbl.bin,B952,Keyblade Trail,03,3
+8,Peter Pan,6,06,Unknown,btltbl.bin,B953,Persistent Weapon Effect,FF,-1
+8,Peter Pan,6,06,Unknown,btltbl.bin,B954,Hit Parameters Offset,8618,34328
+8,Peter Pan,6,06,Unknown,btltbl.bin,B958,Lift,00 00 00 00,0
+8,Peter Pan,6,06,Unknown,btltbl.bin,B95C,Hit Sound,00,0
+8,Peter Pan,6,06,Unknown,btltbl.bin,B95D,Wall Hit Sound,01,1
+8,Peter Pan,6,06,Unknown,btltbl.bin,B95E,Crit Hit Sound,02,2
+8,Peter Pan,6,06,Unknown,btltbl.bin,B95F,Voice Set,06,6
+8,Peter Pan,7,07,Unknown,btltbl.bin,B964,Motion ID,C9,201
+8,Peter Pan,7,07,Unknown,btltbl.bin,B966,Keyblade Trail,03,3
+8,Peter Pan,7,07,Unknown,btltbl.bin,B967,Persistent Weapon Effect,FF,-1
+8,Peter Pan,7,07,Unknown,btltbl.bin,B968,Hit Parameters Offset,8538,34104
+8,Peter Pan,7,07,Unknown,btltbl.bin,B96C,Lift,00 00 00 00,0
+8,Peter Pan,7,07,Unknown,btltbl.bin,B970,Hit Sound,00,0
+8,Peter Pan,7,07,Unknown,btltbl.bin,B971,Wall Hit Sound,01,1
+8,Peter Pan,7,07,Unknown,btltbl.bin,B972,Crit Hit Sound,02,2
+8,Peter Pan,7,07,Unknown,btltbl.bin,B973,Voice Set,04,4
+8,Peter Pan,8,08,Unknown,btltbl.bin,B978,Motion ID,C8,200
+8,Peter Pan,8,08,Unknown,btltbl.bin,B97A,Keyblade Trail,03,3
+8,Peter Pan,8,08,Unknown,btltbl.bin,B97B,Persistent Weapon Effect,FF,-1
+8,Peter Pan,8,08,Unknown,btltbl.bin,B97C,Hit Parameters Offset,8538,34104
+8,Peter Pan,8,08,Unknown,btltbl.bin,B980,Lift,00 00 00 00,0
+8,Peter Pan,8,08,Unknown,btltbl.bin,B984,Hit Sound,00,0
+8,Peter Pan,8,08,Unknown,btltbl.bin,B985,Wall Hit Sound,01,1
+8,Peter Pan,8,08,Unknown,btltbl.bin,B986,Crit Hit Sound,02,2
+8,Peter Pan,8,08,Unknown,btltbl.bin,B987,Voice Set,04,4
+8,Peter Pan,9,09,Unknown,btltbl.bin,B98C,Motion ID,CB,203
+8,Peter Pan,9,09,Unknown,btltbl.bin,B98E,Keyblade Trail,03,3
+8,Peter Pan,9,09,Unknown,btltbl.bin,B98F,Persistent Weapon Effect,FF,-1
+8,Peter Pan,9,09,Unknown,btltbl.bin,B990,Hit Parameters Offset,8618,34328
+8,Peter Pan,9,09,Unknown,btltbl.bin,B994,Lift,00 00 00 00,0
+8,Peter Pan,9,09,Unknown,btltbl.bin,B998,Hit Sound,00,0
+8,Peter Pan,9,09,Unknown,btltbl.bin,B999,Wall Hit Sound,01,1
+8,Peter Pan,9,09,Unknown,btltbl.bin,B99A,Crit Hit Sound,02,2
+8,Peter Pan,9,09,Unknown,btltbl.bin,B99B,Voice Set,06,6
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9A0,Motion ID,C9,201
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9A2,Keyblade Trail,03,3
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9A3,Persistent Weapon Effect,FF,-1
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9A4,Hit Parameters Offset,8538,34104
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9A8,Lift,00 00 00 41,8
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9AC,Hit Sound,00,0
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9AD,Wall Hit Sound,01,1
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9AE,Crit Hit Sound,02,2
+8,Peter Pan,10,0A,Unknown,btltbl.bin,B9AF,Voice Set,04,4
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9B4,Motion ID,C8,200
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9B6,Keyblade Trail,03,3
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9B7,Persistent Weapon Effect,FF,-1
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9B8,Hit Parameters Offset,85A8,34216
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9BC,Lift,00 00 00 41,8
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9C0,Hit Sound,00,0
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9C1,Wall Hit Sound,01,1
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9C2,Crit Hit Sound,02,2
+8,Peter Pan,11,0B,Unknown,btltbl.bin,B9C3,Voice Set,04,4
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9C8,Motion ID,C8,200
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9CA,Keyblade Trail,03,3
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9CB,Persistent Weapon Effect,FF,-1
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9CC,Hit Parameters Offset,8538,34104
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9D0,Lift,00 00 00 00,0
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9D4,Hit Sound,00,0
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9D5,Wall Hit Sound,01,1
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9D6,Crit Hit Sound,02,2
+8,Peter Pan,12,0C,Unknown,btltbl.bin,B9D7,Voice Set,04,4
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9DC,Motion ID,C8,200
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9DE,Keyblade Trail,03,3
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9DF,Persistent Weapon Effect,FF,-1
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9E0,Hit Parameters Offset,8538,34104
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9E4,Lift,00 00 00 00,0
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9E8,Hit Sound,00,0
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9E9,Wall Hit Sound,01,1
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9EA,Crit Hit Sound,02,2
+8,Peter Pan,13,0D,Unknown,btltbl.bin,B9EB,Voice Set,04,4
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9F0,Motion ID,C8,200
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9F2,Keyblade Trail,03,3
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9F3,Persistent Weapon Effect,FF,-1
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9F4,Hit Parameters Offset,8538,34104
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9F8,Lift,00 00 00 00,0
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9FC,Hit Sound,00,0
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9FD,Wall Hit Sound,01,1
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9FE,Crit Hit Sound,02,2
+8,Peter Pan,14,0E,Unknown,btltbl.bin,B9FF,Voice Set,04,4
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA04,Motion ID,C8,200
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA06,Keyblade Trail,03,3
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA07,Persistent Weapon Effect,FF,-1
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA08,Hit Parameters Offset,8538,34104
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA0C,Lift,00 00 00 00,0
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA10,Hit Sound,00,0
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA11,Wall Hit Sound,01,1
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA12,Crit Hit Sound,02,2
+8,Peter Pan,15,0F,Unknown,btltbl.bin,BA13,Voice Set,04,4
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA18,Motion ID,C8,200
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA1A,Keyblade Trail,03,3
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA1B,Persistent Weapon Effect,FF,-1
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA1C,Hit Parameters Offset,8538,34104
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA20,Lift,00 00 00 00,0
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA24,Hit Sound,00,0
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA25,Wall Hit Sound,01,1
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA26,Crit Hit Sound,02,2
+8,Peter Pan,16,10,Unknown,btltbl.bin,BA27,Voice Set,04,4
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA2C,Motion ID,C8,200
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA2E,Keyblade Trail,03,3
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA2F,Persistent Weapon Effect,FF,-1
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA30,Hit Parameters Offset,8538,34104
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA34,Lift,00 00 00 00,0
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA38,Hit Sound,00,0
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA39,Wall Hit Sound,01,1
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA3A,Crit Hit Sound,02,2
+8,Peter Pan,17,11,Unknown,btltbl.bin,BA3B,Voice Set,04,4
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA40,Motion ID,C8,200
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA42,Keyblade Trail,03,3
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA43,Persistent Weapon Effect,FF,-1
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA44,Hit Parameters Offset,8538,34104
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA48,Lift,00 00 00 00,0
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA4C,Hit Sound,00,0
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA4D,Wall Hit Sound,01,1
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA4E,Crit Hit Sound,02,2
+8,Peter Pan,18,12,Unknown,btltbl.bin,BA4F,Voice Set,04,4
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA54,Motion ID,C8,200
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA56,Keyblade Trail,03,3
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA57,Persistent Weapon Effect,FF,-1
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA58,Hit Parameters Offset,8538,34104
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA5C,Lift,00 00 00 00,0
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA60,Hit Sound,00,0
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA61,Wall Hit Sound,01,1
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA62,Crit Hit Sound,02,2
+8,Peter Pan,19,13,Unknown,btltbl.bin,BA63,Voice Set,04,4
+9,Beast,0,00,Unknown,btltbl.bin,B628,Motion ID,CC,204
+9,Beast,0,00,Unknown,btltbl.bin,B62A,Keyblade Trail,FF,-1
+9,Beast,0,00,Unknown,btltbl.bin,B62B,Persistent Weapon Effect,FF,-1
+9,Beast,0,00,Unknown,btltbl.bin,B62C,Hit Parameters Offset,8A08,35336
+9,Beast,0,00,Unknown,btltbl.bin,B630,Lift,00 00 48 C2,-50
+9,Beast,0,00,Unknown,btltbl.bin,B634,Hit Sound,00,0
+9,Beast,0,00,Unknown,btltbl.bin,B635,Wall Hit Sound,01,1
+9,Beast,0,00,Unknown,btltbl.bin,B636,Crit Hit Sound,02,2
+9,Beast,0,00,Unknown,btltbl.bin,B637,Voice Set,04,4
+9,Beast,1,01,Unknown,btltbl.bin,B63C,Motion ID,CE,206
+9,Beast,1,01,Unknown,btltbl.bin,B63E,Keyblade Trail,FF,-1
+9,Beast,1,01,Unknown,btltbl.bin,B63F,Persistent Weapon Effect,FF,-1
+9,Beast,1,01,Unknown,btltbl.bin,B640,Hit Parameters Offset,8B58,35672
+9,Beast,1,01,Unknown,btltbl.bin,B644,Lift,00 00 00 00,0
+9,Beast,1,01,Unknown,btltbl.bin,B648,Hit Sound,04,4
+9,Beast,1,01,Unknown,btltbl.bin,B649,Wall Hit Sound,01,1
+9,Beast,1,01,Unknown,btltbl.bin,B64A,Crit Hit Sound,04,4
+9,Beast,1,01,Unknown,btltbl.bin,B64B,Voice Set,FF,-1
+9,Beast,2,02,Unknown,btltbl.bin,B650,Motion ID,CB,203
+9,Beast,2,02,Unknown,btltbl.bin,B652,Keyblade Trail,FF,-1
+9,Beast,2,02,Unknown,btltbl.bin,B653,Persistent Weapon Effect,FF,-1
+9,Beast,2,02,Unknown,btltbl.bin,B654,Hit Parameters Offset,8AE8,35560
+9,Beast,2,02,Unknown,btltbl.bin,B658,Lift,00 00 00 00,0
+9,Beast,2,02,Unknown,btltbl.bin,B65C,Hit Sound,03,3
+9,Beast,2,02,Unknown,btltbl.bin,B65D,Wall Hit Sound,01,1
+9,Beast,2,02,Unknown,btltbl.bin,B65E,Crit Hit Sound,03,3
+9,Beast,2,02,Unknown,btltbl.bin,B65F,Voice Set,07,7
+9,Beast,3,03,Unknown,btltbl.bin,B664,Motion ID,C9,201
+9,Beast,3,03,Unknown,btltbl.bin,B666,Keyblade Trail,FF,-1
+9,Beast,3,03,Unknown,btltbl.bin,B667,Persistent Weapon Effect,FF,-1
+9,Beast,3,03,Unknown,btltbl.bin,B668,Hit Parameters Offset,8A08,35336
+9,Beast,3,03,Unknown,btltbl.bin,B66C,Lift,00 00 00 00,0
+9,Beast,3,03,Unknown,btltbl.bin,B670,Hit Sound,00,0
+9,Beast,3,03,Unknown,btltbl.bin,B671,Wall Hit Sound,01,1
+9,Beast,3,03,Unknown,btltbl.bin,B672,Crit Hit Sound,02,2
+9,Beast,3,03,Unknown,btltbl.bin,B673,Voice Set,04,4
+9,Beast,4,04,Unknown,btltbl.bin,B678,Motion ID,C8,200
+9,Beast,4,04,Unknown,btltbl.bin,B67A,Keyblade Trail,FF,-1
+9,Beast,4,04,Unknown,btltbl.bin,B67B,Persistent Weapon Effect,FF,-1
+9,Beast,4,04,Unknown,btltbl.bin,B67C,Hit Parameters Offset,8998,35224
+9,Beast,4,04,Unknown,btltbl.bin,B680,Lift,00 00 00 00,0
+9,Beast,4,04,Unknown,btltbl.bin,B684,Hit Sound,00,0
+9,Beast,4,04,Unknown,btltbl.bin,B685,Wall Hit Sound,01,1
+9,Beast,4,04,Unknown,btltbl.bin,B686,Crit Hit Sound,02,2
+9,Beast,4,04,Unknown,btltbl.bin,B687,Voice Set,04,4
+9,Beast,5,05,Unknown,btltbl.bin,B68C,Motion ID,CA,202
+9,Beast,5,05,Unknown,btltbl.bin,B68E,Keyblade Trail,FF,-1
+9,Beast,5,05,Unknown,btltbl.bin,B68F,Persistent Weapon Effect,FF,-1
+9,Beast,5,05,Unknown,btltbl.bin,B690,Hit Parameters Offset,8A78,35448
+9,Beast,5,05,Unknown,btltbl.bin,B694,Lift,00 00 00 00,0
+9,Beast,5,05,Unknown,btltbl.bin,B698,Hit Sound,00,0
+9,Beast,5,05,Unknown,btltbl.bin,B699,Wall Hit Sound,01,1
+9,Beast,5,05,Unknown,btltbl.bin,B69A,Crit Hit Sound,02,2
+9,Beast,5,05,Unknown,btltbl.bin,B69B,Voice Set,05,5
+9,Beast,6,06,Unknown,btltbl.bin,B6A0,Motion ID,C9,201
+9,Beast,6,06,Unknown,btltbl.bin,B6A2,Keyblade Trail,FF,-1
+9,Beast,6,06,Unknown,btltbl.bin,B6A3,Persistent Weapon Effect,FF,-1
+9,Beast,6,06,Unknown,btltbl.bin,B6A4,Hit Parameters Offset,8A08,35336
+9,Beast,6,06,Unknown,btltbl.bin,B6A8,Lift,00 00 00 00,0
+9,Beast,6,06,Unknown,btltbl.bin,B6AC,Hit Sound,00,0
+9,Beast,6,06,Unknown,btltbl.bin,B6AD,Wall Hit Sound,01,1
+9,Beast,6,06,Unknown,btltbl.bin,B6AE,Crit Hit Sound,02,2
+9,Beast,6,06,Unknown,btltbl.bin,B6AF,Voice Set,04,4
+9,Beast,7,07,Unknown,btltbl.bin,B6B4,Motion ID,C8,200
+9,Beast,7,07,Unknown,btltbl.bin,B6B6,Keyblade Trail,FF,-1
+9,Beast,7,07,Unknown,btltbl.bin,B6B7,Persistent Weapon Effect,FF,-1
+9,Beast,7,07,Unknown,btltbl.bin,B6B8,Hit Parameters Offset,8998,35224
+9,Beast,7,07,Unknown,btltbl.bin,B6BC,Lift,00 00 00 00,0
+9,Beast,7,07,Unknown,btltbl.bin,B6C0,Hit Sound,00,0
+9,Beast,7,07,Unknown,btltbl.bin,B6C1,Wall Hit Sound,01,1
+9,Beast,7,07,Unknown,btltbl.bin,B6C2,Crit Hit Sound,02,2
+9,Beast,7,07,Unknown,btltbl.bin,B6C3,Voice Set,04,4
+9,Beast,8,08,Unknown,btltbl.bin,B6C8,Motion ID,CD,205
+9,Beast,8,08,Unknown,btltbl.bin,B6CA,Keyblade Trail,FF,-1
+9,Beast,8,08,Unknown,btltbl.bin,B6CB,Persistent Weapon Effect,FF,-1
+9,Beast,8,08,Unknown,btltbl.bin,B6CC,Hit Parameters Offset,8A08,35336
+9,Beast,8,08,Unknown,btltbl.bin,B6D0,Lift,00 00 48 C2,-50
+9,Beast,8,08,Unknown,btltbl.bin,B6D4,Hit Sound,00,0
+9,Beast,8,08,Unknown,btltbl.bin,B6D5,Wall Hit Sound,01,1
+9,Beast,8,08,Unknown,btltbl.bin,B6D6,Crit Hit Sound,02,2
+9,Beast,8,08,Unknown,btltbl.bin,B6D7,Voice Set,05,5
+9,Beast,9,09,Unknown,btltbl.bin,B6DC,Motion ID,C8,200
+9,Beast,9,09,Unknown,btltbl.bin,B6DE,Keyblade Trail,FF,-1
+9,Beast,9,09,Unknown,btltbl.bin,B6DF,Persistent Weapon Effect,FF,-1
+9,Beast,9,09,Unknown,btltbl.bin,B6E0,Hit Parameters Offset,8998,35224
+9,Beast,9,09,Unknown,btltbl.bin,B6E4,Lift,00 00 00 00,0
+9,Beast,9,09,Unknown,btltbl.bin,B6E8,Hit Sound,00,0
+9,Beast,9,09,Unknown,btltbl.bin,B6E9,Wall Hit Sound,01,1
+9,Beast,9,09,Unknown,btltbl.bin,B6EA,Crit Hit Sound,02,2
+9,Beast,9,09,Unknown,btltbl.bin,B6EB,Voice Set,04,4
+9,Beast,10,0A,Unknown,btltbl.bin,B6F0,Motion ID,C8,200
+9,Beast,10,0A,Unknown,btltbl.bin,B6F2,Keyblade Trail,FF,-1
+9,Beast,10,0A,Unknown,btltbl.bin,B6F3,Persistent Weapon Effect,FF,-1
+9,Beast,10,0A,Unknown,btltbl.bin,B6F4,Hit Parameters Offset,8998,35224
+9,Beast,10,0A,Unknown,btltbl.bin,B6F8,Lift,00 00 00 00,0
+9,Beast,10,0A,Unknown,btltbl.bin,B6FC,Hit Sound,00,0
+9,Beast,10,0A,Unknown,btltbl.bin,B6FD,Wall Hit Sound,01,1
+9,Beast,10,0A,Unknown,btltbl.bin,B6FE,Crit Hit Sound,02,2
+9,Beast,10,0A,Unknown,btltbl.bin,B6FF,Voice Set,04,4
+9,Beast,11,0B,Unknown,btltbl.bin,B704,Motion ID,C8,200
+9,Beast,11,0B,Unknown,btltbl.bin,B706,Keyblade Trail,FF,-1
+9,Beast,11,0B,Unknown,btltbl.bin,B707,Persistent Weapon Effect,FF,-1
+9,Beast,11,0B,Unknown,btltbl.bin,B708,Hit Parameters Offset,8998,35224
+9,Beast,11,0B,Unknown,btltbl.bin,B70C,Lift,00 00 00 00,0
+9,Beast,11,0B,Unknown,btltbl.bin,B710,Hit Sound,00,0
+9,Beast,11,0B,Unknown,btltbl.bin,B711,Wall Hit Sound,01,1
+9,Beast,11,0B,Unknown,btltbl.bin,B712,Crit Hit Sound,02,2
+9,Beast,11,0B,Unknown,btltbl.bin,B713,Voice Set,04,4
+9,Beast,12,0C,Unknown,btltbl.bin,B718,Motion ID,C8,200
+9,Beast,12,0C,Unknown,btltbl.bin,B71A,Keyblade Trail,FF,-1
+9,Beast,12,0C,Unknown,btltbl.bin,B71B,Persistent Weapon Effect,FF,-1
+9,Beast,12,0C,Unknown,btltbl.bin,B71C,Hit Parameters Offset,8998,35224
+9,Beast,12,0C,Unknown,btltbl.bin,B720,Lift,00 00 00 00,0
+9,Beast,12,0C,Unknown,btltbl.bin,B724,Hit Sound,00,0
+9,Beast,12,0C,Unknown,btltbl.bin,B725,Wall Hit Sound,01,1
+9,Beast,12,0C,Unknown,btltbl.bin,B726,Crit Hit Sound,02,2
+9,Beast,12,0C,Unknown,btltbl.bin,B727,Voice Set,04,4
+9,Beast,13,0D,Unknown,btltbl.bin,B72C,Motion ID,C8,200
+9,Beast,13,0D,Unknown,btltbl.bin,B72E,Keyblade Trail,FF,-1
+9,Beast,13,0D,Unknown,btltbl.bin,B72F,Persistent Weapon Effect,FF,-1
+9,Beast,13,0D,Unknown,btltbl.bin,B730,Hit Parameters Offset,8998,35224
+9,Beast,13,0D,Unknown,btltbl.bin,B734,Lift,00 00 00 00,0
+9,Beast,13,0D,Unknown,btltbl.bin,B738,Hit Sound,00,0
+9,Beast,13,0D,Unknown,btltbl.bin,B739,Wall Hit Sound,01,1
+9,Beast,13,0D,Unknown,btltbl.bin,B73A,Crit Hit Sound,02,2
+9,Beast,13,0D,Unknown,btltbl.bin,B73B,Voice Set,04,4
+9,Beast,14,0E,Unknown,btltbl.bin,B740,Motion ID,C8,200
+9,Beast,14,0E,Unknown,btltbl.bin,B742,Keyblade Trail,FF,-1
+9,Beast,14,0E,Unknown,btltbl.bin,B743,Persistent Weapon Effect,FF,-1
+9,Beast,14,0E,Unknown,btltbl.bin,B744,Hit Parameters Offset,8998,35224
+9,Beast,14,0E,Unknown,btltbl.bin,B748,Lift,00 00 00 00,0
+9,Beast,14,0E,Unknown,btltbl.bin,B74C,Hit Sound,00,0
+9,Beast,14,0E,Unknown,btltbl.bin,B74D,Wall Hit Sound,01,1
+9,Beast,14,0E,Unknown,btltbl.bin,B74E,Crit Hit Sound,02,2
+9,Beast,14,0E,Unknown,btltbl.bin,B74F,Voice Set,04,4
+9,Beast,15,0F,Unknown,btltbl.bin,B754,Motion ID,C8,200
+9,Beast,15,0F,Unknown,btltbl.bin,B756,Keyblade Trail,FF,-1
+9,Beast,15,0F,Unknown,btltbl.bin,B757,Persistent Weapon Effect,FF,-1
+9,Beast,15,0F,Unknown,btltbl.bin,B758,Hit Parameters Offset,8998,35224
+9,Beast,15,0F,Unknown,btltbl.bin,B75C,Lift,00 00 00 00,0
+9,Beast,15,0F,Unknown,btltbl.bin,B760,Hit Sound,00,0
+9,Beast,15,0F,Unknown,btltbl.bin,B761,Wall Hit Sound,01,1
+9,Beast,15,0F,Unknown,btltbl.bin,B762,Crit Hit Sound,02,2
+9,Beast,15,0F,Unknown,btltbl.bin,B763,Voice Set,04,4
+9,Beast,16,10,Unknown,btltbl.bin,B768,Motion ID,C8,200
+9,Beast,16,10,Unknown,btltbl.bin,B76A,Keyblade Trail,FF,-1
+9,Beast,16,10,Unknown,btltbl.bin,B76B,Persistent Weapon Effect,FF,-1
+9,Beast,16,10,Unknown,btltbl.bin,B76C,Hit Parameters Offset,8998,35224
+9,Beast,16,10,Unknown,btltbl.bin,B770,Lift,00 00 00 00,0
+9,Beast,16,10,Unknown,btltbl.bin,B774,Hit Sound,00,0
+9,Beast,16,10,Unknown,btltbl.bin,B775,Wall Hit Sound,01,1
+9,Beast,16,10,Unknown,btltbl.bin,B776,Crit Hit Sound,02,2
+9,Beast,16,10,Unknown,btltbl.bin,B777,Voice Set,04,4
