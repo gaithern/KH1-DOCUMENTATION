@@ -1,5 +1,4 @@
 Level,Path,File,Offset,Value (HEX),Value
-1,Warrior,btltbl.bin,3B27,0,-
 2,Warrior,btltbl.bin,3B28,0,-
 3,Warrior,btltbl.bin,3B29,0,-
 4,Warrior,btltbl.bin,3B2A,0,-
@@ -99,7 +98,6 @@ Level,Path,File,Offset,Value (HEX),Value
 98,Warrior,btltbl.bin,3B88,0,-
 99,Warrior,btltbl.bin,3B89,88,Critical Plus
 100,Warrior,btltbl.bin,3B8A,9B,Jackpot
-1,Guardian,btltbl.bin,3B8F,0,-
 2,Guardian,btltbl.bin,3B90,0,-
 3,Guardian,btltbl.bin,3B91,6,Item Slot
 4,Guardian,btltbl.bin,3B92,0,-
@@ -199,7 +197,6 @@ Level,Path,File,Offset,Value (HEX),Value
 98,Guardian,btltbl.bin,3BF0,0,-
 99,Guardian,btltbl.bin,3BF1,87,Air Combo Plus
 100,Guardian,btltbl.bin,3BF2,98,MP Rage
-1,Mystic,btltbl.bin,3BF7,0,-
 2,Mystic,btltbl.bin,3BF8,0,-
 3,Mystic,btltbl.bin,3BF9,0,-
 4,Mystic,btltbl.bin,3BFA,0,-

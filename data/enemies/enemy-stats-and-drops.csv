@@ -880,24 +880,24 @@ Search Ghost,Drop Table,xa_ex_2231.mdls,69270,0A D7 23 3C,Float,0.01,Chance Drop
 Search Ghost,Drop Table,xa_ex_2231.mdls,69274,06 00 00 00,Int,6,Drop 2
 Search Ghost,Drop Table,xa_ex_2231.mdls,69278,0A D7 23 3D,Float,0.04,Chance Drop 3
 Search Ghost,Drop Table,xa_ex_2231.mdls,6927C,F9 00 00 00,Int,249,Drop 3
-Jet Balloon,Header,xa_ex_2240.mdls,112F84,65 78 5F 32 32 34 30 2E 62 64,String,ex_2240.bd,Start of stats header
-Jet Balloon,Stat Page Pre Riku Ansem,xa_ex_2240.mdls,112F94,78 00 00 00,Int,120,HP
-Jet Balloon,Stat Page Pre Riku Ansem,xa_ex_2240.mdls,112FB0,1E 00 00 00,Int,10,EXP
-Jet Balloon,Stat Page Post Riku Ansem,xa_ex_2240.mdls,113000,2C 01 00 00,Int,300,HP
-Jet Balloon,Stat Page Post Riku Ansem,xa_ex_2240.mdls,11301C,B4 00 00 00,Int,180,EXP
-Jet Balloon,Drop Table,xa_ex_2240.mdls,11329C,02 00 00 00,Int,2,Small Munny
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132A0,00 00 00 00,Int,0,Medium Munny
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132A4,03 00 00 00,Int,3,Large Munny
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132A8,03 00 00 00,Int,3,Small HP
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132AC,01 00 00 00,Int,1,Large HP
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132B0,00 00 00 00,Int,0,Small MP
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132B4,00 00 00 00,Int,0,Large MP
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132B8,0A D7 23 3D,Float,0.04,Chance Drop 1
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132BC,06 00 00 00,Int,6,Drop 1
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132C0,0A D7 23 3C,Float,0.01,Chance Drop 2
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132C4,1C 00 00 00,Int,28,Drop 2
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132C8,0A D7 A3 3D,Float,0.08,Chance Drop 3
-Jet Balloon,Drop Table,xa_ex_2240.mdls,1132CC,F6 00 00 00,Int,246,Drop 3
+Aquatank,Header,xa_ex_2240.mdls,112F84,65 78 5F 32 32 34 30 2E 62 64,String,ex_2240.bd,Start of stats header
+Aquatank,Stat Page Pre Riku Ansem,xa_ex_2240.mdls,112F94,78 00 00 00,Int,120,HP
+Aquatank,Stat Page Pre Riku Ansem,xa_ex_2240.mdls,112FB0,1E 00 00 00,Int,10,EXP
+Aquatank,Stat Page Post Riku Ansem,xa_ex_2240.mdls,113000,2C 01 00 00,Int,300,HP
+Aquatank,Stat Page Post Riku Ansem,xa_ex_2240.mdls,11301C,B4 00 00 00,Int,180,EXP
+Aquatank,Drop Table,xa_ex_2240.mdls,11329C,02 00 00 00,Int,2,Small Munny
+Aquatank,Drop Table,xa_ex_2240.mdls,1132A0,00 00 00 00,Int,0,Medium Munny
+Aquatank,Drop Table,xa_ex_2240.mdls,1132A4,03 00 00 00,Int,3,Large Munny
+Aquatank,Drop Table,xa_ex_2240.mdls,1132A8,03 00 00 00,Int,3,Small HP
+Aquatank,Drop Table,xa_ex_2240.mdls,1132AC,01 00 00 00,Int,1,Large HP
+Aquatank,Drop Table,xa_ex_2240.mdls,1132B0,00 00 00 00,Int,0,Small MP
+Aquatank,Drop Table,xa_ex_2240.mdls,1132B4,00 00 00 00,Int,0,Large MP
+Aquatank,Drop Table,xa_ex_2240.mdls,1132B8,0A D7 23 3D,Float,0.04,Chance Drop 1
+Aquatank,Drop Table,xa_ex_2240.mdls,1132BC,06 00 00 00,Int,6,Drop 1
+Aquatank,Drop Table,xa_ex_2240.mdls,1132C0,0A D7 23 3C,Float,0.01,Chance Drop 2
+Aquatank,Drop Table,xa_ex_2240.mdls,1132C4,1C 00 00 00,Int,28,Drop 2
+Aquatank,Drop Table,xa_ex_2240.mdls,1132C8,0A D7 A3 3D,Float,0.08,Chance Drop 3
+Aquatank,Drop Table,xa_ex_2240.mdls,1132CC,F6 00 00 00,Int,246,Drop 3
 Screwdiver,Header,xa_ex_2250.mdls,66284,65 78 5F 32 32 35 30 2E 62 64,String,ex_2250.bd,Start of stats header
 Screwdiver,Stat Page Pre Riku Ansem,xa_ex_2250.mdls,66294,30 00 00 00,Int,48,HP
 Screwdiver,Stat Page Pre Riku Ansem,xa_ex_2250.mdls,662B3,0F 00 00 00,Int,15,EXP
